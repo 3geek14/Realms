@@ -220,27 +220,27 @@ rules.
 Any of the following constitute grounds for punitive action:
 
 * Violating any federal, state, or local laws, facility rules, or event
-  policies;
+  policies.
 * Failure to comply with the instructions of the Event Holder or designated
-  marshal;
+  marshal.
 * Using anything in an out-of-character threatening or destructive manner
-  against person or property;
-* Endangering the safety of oneself or others;
+  against person or property.
+* Endangering the safety of oneself or others.
 * Stealing (People’s tents, bags, packs, pouches, and possessions are completely
   off-limits and out-of-play. There are no exceptions, even if officially
-  in-play items are concealed therein);
+  in-play items are concealed therein).
 * Drinking alcohol under the age of 21, or providing alcohol to those under age
-  21;
-* Physical or verbal intimidation or abuse;
-* Stalking;
+  21.
+* Physical or verbal intimidation or abuse.
+* Stalking.
 * Inappropriate physical contact or proximity. Any form of unwanted physical
-  contact is strictly forbidden;
+  contact is strictly forbidden.
 * Non-consensual sexual acts (a person under the age of consent cannot consent
-  to sexual acts);
+  to sexual acts).
 * Inappropriate sexual attention, whether verbal or physical, or continued
   attention after being asked to stop (sexual attention towards those legally or
   physically unable to consent is always inappropriate, this includes people
-  under the age of consent);
+  under the age of consent).
 * Harassment for any reason, including out-of-game attributes such as race,
   weight, sexual orientation, gender identity, religion, or disability.
 
