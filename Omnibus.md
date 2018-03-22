@@ -207,7 +207,7 @@ should be submitted to the AC.
 
 Anyone can report harassment or abuse. If someone’s behavior towards you has
 violated your rights as a participant, or if you witness the same happening to
-someone else, immediately report the incident to the event’s EH.
+someone else, you should immediately report the incident to the event’s EH.
 
 If you have reason to believe rules regarding the Code of Conduct may be
 violated at an event, you should notify the Event Holder prior to the event
