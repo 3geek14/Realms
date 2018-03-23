@@ -1431,7 +1431,7 @@ spellbooks may be read by others, at the owner's discretion, such as rune sets,
 history, or lore.
 
 A player may choose or need to replace their character's spellbook. This could
-be due to such situations as loss, damage, illegibility, or a simple desire to
+be due to situations such as loss, damage, illegibility, or a simple desire to
 improve it. The player should create a new spellbook with contents as close as
 possible to the prior one. In the case of swapping out an old spellbook which is
 still available, the required information in it must be copied over to the new
