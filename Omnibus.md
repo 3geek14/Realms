@@ -3423,3 +3423,303 @@ Uses: Unlimited, 1 at a time - Verbal: 10 words, plus an explanation - Active: T
 
 
 This spell allows the spellcaster to animate a corpse, making it follow them for as long as they concentrate on the spell. If the spellcaster engages in combat either by attacking or by being struck, the spell ends and the corpse falls to the ground. In order to cast this spell, the spellcaster must recite the verbal and give the player of the corpse a brief explanation of what they should do, making sure they know when to fall down.
+
+# 7: Realms Administration # {#realms-administration}
+
+## 7.1: Players' Meeting ## {#players-meeting}
+
+Any player who has attended a legal Realms Event in the previous calendar year
+can attend the Players' Meeting. The meeting is usually held several weeks
+prior to the Event Holders' Council. This meeting is a forum for feedback on
+rule proposals, rule changes, etc. Any player can propose a rule change to be
+considered in this forum and the proposal will be voted upon. A player must
+attend the Players' Meeting in person in order to submit late proposals
+(i.e. proposals submitted the day of the Players' Meeting). If two-thirds
+of those voting on a proposal support it, the proposal will be included as
+an official proposal at the Event Holders' Council.
+
+Proposals must include the name of the person submitting it and contact
+information for that person. An email address is acceptable for this
+purpose.                        
+
+Those who attend the Players' Meeting shall be permitted to select one
+representative (not an EH) to attend the Event Holders' Council. This
+representative will have the same voting ability at the meeting as an EH, and
+may accept amendments to player proposals submitted at the Players' Meeting.
+
+## 7.2 Becoming A Realms Event-Holder ## {#becoming-a-realms-event-holder}
+
+To attempt to become an Event Holder you must first throw an event with your
+name listed as an Event Holder (see bullets below).
+
+To be a Realms legal event, the following conditions must apply:
+
+* It should be open to the public.
+* It needs to have been advertised with full event information at least two
+  weeks before the date of the event. Advertisement must include at least one
+  of the following means: Publication in The *View from Valehaven* or
+  *Creathorne Chronicles*, posted on the *RealmsNet* Event Calendar, or sent
+  through a mass mailing or electronic mailing, which must include the known
+  addresses of all Realms EHs who have held Realms events in the previous year.
+* The location and the price of the event must be announced at least two weeks
+  before the event is scheduled to take place. Any significant rule changes,
+  especially those affecting normally legal powers and abilities of PCs, must
+  be announced in the advertisement or mailing.
+* The names of the EHs, at most one per day, must be announced at least 5 days
+  before the event is scheduled to take place.
+* A site must be confirmed before an event can be advertised as a legal Realms
+  event.
+* The event must be at least six hours long.
+* At least 30 people (including marshals and NPCs) must attend and the EH must
+  be able to prove attendance through signatures.
+* Players must have the option of playing their normal PCs, within such bounds
+  and restrictions as previously advertised by the EH. Players who do so,
+  despite any such advertised rule changes which may adversely affect their PC,
+  are presumed to freely accept such changes or restrictions.
+* The rules must be based either on the current Omnibus to the Realms or on
+  another rule system approved at the most recent Event Holders’ Council.
+* If the EH(s) are under the age of 18, they must have an adult(s) either as a
+  co-EH(s) or as a Listed Contact(s) in the event description. One of the said
+  adults should be on-site for the event.
+* An EH's PC may not benefit in any way from their event. Their PC may not take
+  possession of any stealable item released at their event for more than one
+  day. They may not receive spell credit as a result of attending their own
+  event.
+* In order for the event to be legal the event must abide by the valid rulings
+  of the Arbitration Committee.
+
+As an Event Holder you are expected to:
+
+* Place the safety and welfare of players above all else.
+* Show concern and caution towards sick and injured players.
+* Be impartial, consistent, objective, and courteous when making decisions.
+* Accept responsibility for your actions and decisions, as well as those of
+  your staff.
+* Respect the individuality of other players and event holders.
+* Avoid any situations which may lead to or be construed as a conflict of
+  interest.
+* Always be respectful to other members of the community.
+* Respect the land you are using, follow any site rule imposed by the land
+  owner, and leave the site in better condition than you found it.
+*  Keep up to date with the latest rules of the game and principles of their
+  application.
+* Refrain from any form of personal abuse or harassment towards players or
+  other Event Holders.
+* Respect the rights, dignity, and worth of all people involved in the game
+  regardless of their race, gender, sexual orientation, ability, or cultural
+  background.
+
+Throwing a legal event gives an EH certain privileges and responsibilities
+above and beyond a normal player.
+
+* To validate your event you must confirm it electronically with the official
+  Event List Administrator within one month of the date of the event. Also
+  within that month, you must also send a summary of reports of rules
+  violations and the conclusion of investigations into them, as well as all
+  consequences levied, to the Arbitration Committee if any reports were filed.
+  EHs and the AC have the responsibility to maintain the privacy of those
+  involved in reports to the extent possible.
+* If you release a Realms Magic Item at your event you must submit the name,
+  physical description, and magical description to the Keeper of the List of
+  Realms Magic Items within one month of that event. The actual prop for the
+  item does not need to be distributed to players at that time, but an EH that
+  does not designate a magic item for an event within one month forever loses
+  the opportunity to release an item for the event (see
+  [Section 7.4: Magic Item Rules](#magic-item-rules) below).
+* As an EH you qualify to attend the Event Holders' Council meeting for the
+  year following your event (see
+  [Section 7.5: The Event-Holders' Council](#the-event-holders-council) below).
+
+## 7.3: Arbitration Committee ## {#arbitration-committee}
+
+The Arbitration Committee is a group of five members and two alternates
+nominated and elected yearly at the EHC that seeks to resolve issues by
+speaking or meeting with the affected individuals and, in the case where
+actions are detrimental to the community, levy penalties against individuals.
+The Arbitration Committee can be reached at <arbitration@lists.realmsnet.net>.
+
+When individuals are found responsible for breaking rules by a simple majority
+of the Arbitration Committee, the committee may levy punishment consistent
+with both the charge and a goal of working to resolve the issue in the future.
+
+At an emergency meeting of the EHC, a 2/3 vote of the council can overturn or
+amend the actions of the Arbitration Committee.
+
+The players elected to the 2018 Arbitration Committee are Angela Gray,
+Ben Greene, Hannah Blood, John Berrini, and Keith Cronyn.
+
+The two alternates elected to the 2018 Arbitration Committee are James Murphy
+and Matt Butler.
+
+## 7.4: Magic Item Rules ## {#magic-item-rules}
+
+An EH is permitted to create one non-event specific magic item
+(a “Realms Magic Item”) at each event for which they receive EH credit.
+Only one magic item may be released for each event, even if there are multiple
+EHs. Such magic items will retain their powers and abilities at all subsequent
+events at which they are pre-registered/checked in, and approved. Magic items
+are released on the date of the event the EH is creating them for and must be
+submitted to the Keeper of the List of Realms Magic Items within one month of
+that event.
+
+If an EH has not held a legal event during a calendar year, any items that they
+back are still considered backed for an additional calendar year. This means if
+an EH decided to take a calendar year off from throwing an event they can throw
+an event during the next calendar year and their items will retain their
+backing. However, if an EH does not hold a legal event during that following
+calendar year, any magic items that they released will be considered
+effectively destroyed as of the EH Council immediately following that year.
+
+All magic items must have the following written on them or on an accompanying
+tag: the item’s name; the responsible EH’s name; the date it was released;
+the labels “Magic” and “Stealable”.
+
+Once a magic item is identified the owner should be handed a durable card(s)
+with the item’s full description. In order to use the item a player must have
+the corresponding cards on their person, or on site, for marshal reference.
+These cards are considered part of the magic item, and when transfer of an item
+occurs the cards go with it. Lost or damaged cards can be replaced only with
+the backing EH's permission. If the card should become separated from the prop,
+the card must be turned into the EH or MM. If a player leaves an event with a
+magic item, and they don't have the card for that item, it is up to them to
+contact the backing EH to get a new card.
+
+## 7.5: The Event-Holder's Council ## {#the-event-holders-council}
+
+Any EH who has thrown an event between January 1 and December 31 (inclusive) of
+the previous year may attend the annual Event Holders' Council.
+
+Although any EH may attend the meeting, there are certain criteria that you
+must meet in order to vote there. You must have hit at least six events,
+including your own, in the same year that you held your event. Additionally
+only one EH per day of the event will be eligible to vote. For the purposes
+of this rule, a day runs from sunrise that calendar day to sunrise the next
+calendar day, and an event day must be at least six hours long. For example,
+an event starting at 9:00 pm on Friday and ending more than six hours after
+sunrise on Sunday may have three EHs.
+
+If an EH cannot or does not attend their own event (due to real life
+emergencies, extenuating circumstances, etc.), they may still attend the
+EH meeting, but their eligibility to vote and back magic items will be
+reviewed by the remaining members of the Event Holders' Council to determine
+their eligibility on a case-by-case basis.
+
+No proxies will be accepted at the Event Holders' Council. Voting at the
+Event Holders’ Council will be by majority rule - a two-thirds majority of yes
+over no, with abstentions not being counted, equals a majority. No guests
+shall be permitted to attend the Event Holders’ Council. The Moderator,
+Co-Moderator, and Secretary will be considered staff and not guests. Expert
+witnesses may be allowed if necessary, with an appropriate vote.
+
+Proposals that are supported by at least 10 EHs, who are legally able to
+attend and vote at the Event Holders' Council, will bypass the need for
+approval at the Players' Meeting. The proposal and indications of EH support
+must be submitted to the organizer(s) of the Event Holders’ Council by the
+EH-supported proposal submission deadline, which is one week prior to the
+Players' Meeting. Supported proposals must also contain the exact wording to
+be added, removed, or modified within the Omnibus, and include the section to
+be modified. Proposals created or submitted after this deadline will need to
+be approved at the Players' Meeting as detailed in the section above.
+
+Note: A brief summary of the effects of the proposed change should ideally be
+included as part of longer or more complex proposals; it is not a requirement,
+but a simple bulleted list can help both players and EHs understand the impact
+the proposal would have, reducing confusion and speeding up the meetings.
+
+Each year at the Event Holders' Council several marshals are elected to help
+streamline the administration involved with running the Realms. Below you will
+find the titles, names, contact information, and a brief description of their
+duties:
+
+**Death Marshal:** Keith Cronyn (<Keith.Cronyn@gmail.com>, 603-819-8689). Tracks
+and maintains ticks that are reported by EHs from their event for a character,
+or reported by a character's player for their own character.
+
+**Event List Administrator:** Ian Pushee (<bright@giantsquid.net>). Responsible
+for maintaining an official list of events. The list is available online at
+<http://www.realmsnet.net>.
+
+**Keeper of the List of Realms Magic Items:** Neil Tozier (<iamtmib@gmail.com>,
+603-689-5298) Responsible for maintaining an official list of Realms Magic
+Items. The list is available to EHs online at <http://www.realmsnet.net>.
+
+**Players' Meeting and Event Holders' Council Organizers:** John Berrini
+(<SgtBerrini@gmail.com>, 603-398-6352) and Neil Tozier. Responsible for
+organizing, announcing, and running both the Players' Meeting and the Event
+Holders' Council for the following calendar year.
+
+At the end of the Event Holders' Council, the EHs will discuss and vote on
+whether to and how to grandfather spells based on the changes made to the
+Omnibus.
+
+Any serious issue(s) may be brought to the attention of the Event Holders'
+List. If at least 50% of the EHs agree that a personal meeting is required to
+discuss the issue(s), then an emergency EH meeting can be called. This meeting
+must be attended by at least 50% of legal Event Holders. The person calling
+for the meeting will work with the organizers of the upcoming Players' Meeting
+and Event Holders' Council. Meetings of this nature will not have the ability
+to make changes to the Omnibus.
+
+An emergency EH meeting must be advertised with full event information at
+least two weeks before the date of the intended meeting. Advertisement must
+include at least one of the following:
+
+* publication in The View from Valehaven or Creathorne Chronicles;
+* posting on the RealmsNet Event Calendar;
+* sent through a mass mailing or electronic mailing, which must include the
+  known addresses of all Realms EHs who’ve held events in the previous year.
+
+## 7.6: Challenging an Event ## {#challenging-an-event}
+
+Questions on the validity of an event must be submitted to the organizer(s) of
+the Event Holders' Council no later than one week prior to the Players'
+Meeting. The organizer(s) are then responsible for requesting from the EH(s) a
+list of players present at the event, and for attempting to contact at least
+10 of them for a statement on if they felt the event met the legal
+requirements or not, and why. This information must then be presented during
+the administration section of the Event Holders' Council where all EHs present
+will vote on the legality of the event.
+
+If the EH Council finds that the event was not legal, any magic items issued
+must be pulled, any ticks issued are removed, and the EH(s) who held the
+event lose their Event Holder status for the year in question. The EHC may
+impose additional sanctions, including suspension of Event Holding privileges,
+as they see fit.
+
+## 7.7: Omnibus Editorial Committee ## {#omnibus-editorial-committee}
+Each year, the Event Holders' Council nominates and elects a five-person
+Omnibus committee to format and maintain a master copy of the rulebook. During
+the editing process, the committee has the power to make the following minor
+changes to the rulebook:
+
+* Spelling errors
+* Grammar errors, such as punctuation, pluralization, etc.
+* Spells mentioned that no longer exist in the Omnibus
+* Spells that have had their names changed
+* Text that was intended to be altered, added, or removed as part of a proposal
+  voted in by the EHC, but was omitted from the proposal text and therefore
+  creates an inconsistency within the Omnibus. These edits cannot
+  substantially change the impact of the proposal
+* Rearranging the orders of tables and lists, as long as these rearrangements
+  don’t change how any rules work
+
+Changes made to the document must be made by unanimous decision by the
+committee, who must notify the Event Holders' List of changes not specifically
+approved. All copies of the Omnibus produced for public use must be derived
+from the master text, which is published on RealmsNET, although formatting and
+printing process are at the discretion of the individual publisher. A digital
+copy of the Omnibus text will be provided to any member of the community on
+request.
+
+Editorial changes as outlined above may continue to be made throughout the year
+after the master text is published. The Omnibus Editorial Committee is
+responsible for submitting changes to the Event Holders' List. If no
+objections are made, the change is automatically accepted and the master text
+will be updated. If any objections are made, the proposed change must be
+submitted through the official proposal submission process outlined in the
+Omnibus and voted upon at the following year's Event Holders' Council. The
+Omnibus Editorial Committee must keep a log of all changes made, which must be
+made available to the Event Holders upon request.
+
+The Editorial Committee for the 2018 Omnibus is Becky Baron, John Berrini,
+Patrick Bobell, Nicholas Contrino, and Pi Fisher.
