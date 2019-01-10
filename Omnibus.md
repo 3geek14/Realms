@@ -185,7 +185,7 @@ receive a copy of this notification and may send a formal response. People who
 want to bring formal charges should report such charges to the Arbitration
 Committee (<arbitration@lists.realmsnet.net>). In addition, any participant that
 feels wrongful action was taken against them can bring the issue before the
-Arbitration Committee (see [Section 7.3](#arbitration-committee).
+Arbitration Committee (see [Section 7.3](#arbitration-committee)).
 
 An EH may opt to not allow a player who has a history of breaking rules to
 attend their events, provided that player is notified in advance.
