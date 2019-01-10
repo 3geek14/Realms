@@ -2686,8 +2686,8 @@ items to reveal.
 [__Disease Weapon__ (3rd Circle)]{#disease-weapon}
 
 __Uses:__ 3 - __Verbal:__ 10 words - __Material:__ Spellcaster's weapon -
-__Caveats:__ [Combat Calls](#combat-calls), [Enchanted Items](#enchanted-items),
-[Weapon Calls](#weapon-calls)
+__Caveats:__ [Combat Calls](#combat-calls-caveat), [Enchanted
+Items](#enchanted-items), [Weapon Calls](#weapon-calls)
 
 This spell allows the spellcaster to temporarily enchant their weapon. After
 preparing it with the spell, it is considered a diseased weapon and the
@@ -2774,7 +2774,7 @@ While under the effects of this spell, the spellcaster is undead (see the
 spells [Call the Soul](#call-the-soul), [Cry of Life](#cry-of-life), [Heal
 Limb](#heal-limb), [Potion of Combat Raise Dead](#potion-of-combat-raise-dead),
 [Potion of Heal Limb](#potion-of-heal-limb), [Regenerate the
-Scalp](#regenerate-the-scalp), [Regeneration](#regeneration), and [Seed of
+Scalp](#regenerate-the-scalp), [Regeneration](#regeneration-spell), and [Seed of
 Life](#seed-of-life). Additionally, the spells [Raise Dead](#raise-dead) and
 [Combat Raise Dead](#combat-raise-dead) will only affect the spellcaster if the
 character casting these spells is touching the phylactery. Being raised in this
@@ -2858,445 +2858,798 @@ should choose their targets wisely.
 
 [__Familiar__ (5th Circle)]{#familiar}
 
-Uses: 1. The spellcaster may only have one in-play - Material: A stuffed or toy animal that must be at least 4" tall - Caveats: Suspension
+__Uses:__ 1. The spellcaster may only have one in-play - __Material:__ A stuffed
+or toy animal that must be at least 4" tall - __Caveats:__
+[Suspension](#suspension)
 
+The spellcaster has a familiar that grants them more spell potential,
+represented by a specific stuffed or toy animal. The familiar cannot be slain or
+disenchanted, but can be stolen. The stuffed animal must be labeled with the
+spellcaster's name and the words "Event-Stealable."
 
-The spellcaster has a familiar that grants them more spell potential, represented by a specific stuffed or toy animal. The familiar cannot be slain or disenchanted, but can be stolen. The stuffed animal must be labeled with the spellcaster's name and the words "Event-Stealable."
+Any additional spells provided by the familiar require the presence of the
+familiar to cast it and maintain it, as if the familiar were a spell focus or
+additional MC. If the familiar is stolen or dropped, the spellcaster may not
+cast or maintain any of the extra spells. Each spell must meet the requirement
+for VC, MC, and ACs. Spells with lasting effects (protections, immunities, etc.)
+can only be cast upon the spellcaster. Spells with lasting effects are suspended
+while the familiar is not in the spellcaster's possession. Any blow that strikes
+the familiar must be taken as if the familiar is not there.
 
+The spellcaster has 5 points to spend on extra spells for every casting of this
+spell, up to 15 points total.
 
-Any additional spells provided by the familiar require the presence of the familiar to cast it and maintain it, as if the familiar were a spell focus or additional MC. If the familiar is stolen or dropped, the spellcaster may not cast or maintain any of the extra spells. Each spell must meet the requirement for VC, MC, and ACs. Spells with lasting effects (protections, immunities, etc.) can only be cast upon the spellcaster. Spells with lasting effects are suspended while the familiar is not in the spellcaster's possession. Any blow that strikes the familiar must be taken as if the familiar is not there.
++---------------------------------+-------------------+
+| Benefit                         | Cost              |
++=================================+===================+
+| [Raise Dead](#raise-dead)       | (1 pt.) - 1 use   |
++---------------------------------+-------------------+
+| [Disrupt](#disrupt)             | (1 pt.) - 1 use   |
++---------------------------------+-------------------+
+| [Call The Soul](#call-the-soul) | (2 pts.) - 1 use  |
++---------------------------------+-------------------+
+| [Enfeeble                       | (2 pts.) - 1 use  |
+| Being](#enfeeble-being)         |                   |
++---------------------------------+-------------------+
+| [Find The Path](#find-the-path) | (2 pts.) - 1 use  |
++---------------------------------+-------------------+
+| [Shapeshifting](#shapeshifting) | (2 pts.) - 1 use  |
++---------------------------------+-------------------+
+| [Combat Raise                   | (2 pts.) - 2 uses |
+| Dead](#combat-raise-dead)       |                   |
++---------------------------------+-------------------+
+| [Reforge: Restore               | (4 pts.) - 1 use  |
+| Enchantment](#reforge)          |                   |
++---------------------------------+-------------------+
 
+When the spellcaster first casts this spell, they choose their familiar's
+abilities. These abilities are not alterable from event to event. The
+spellcaster must list every spell their familiar grants them in their spellbook
+as if they have learned the spell.
 
-The spellcaster has 5 points to spend on extra spells for every casting of this spell, up to 15 points total.
-
-Benefit
-
-Cost
-
-Raise Dead
-
-(1 pt.) - 1 use
-
-Disrupt
-
-(1 pt.) - 1 use
-
-Call The Soul
-
-(2 pts.) - 1 use
-
-Enfeeble Being
-
-(2 pts.) - 1 use
-
-Find The Path
-
-(2 pts.) - 1 use
-
-Shapeshifting
-
-(2 pts.) - 1 use
-
-Combat Raise Dead
-
-(3 pts.) - 2 uses
-
-Reforge: Restore Enchantment
-
-(4 pts.) - 1 use
-
-
-When the spellcaster first casts this spell, they choose their familiar's abilities. These abilities are not alterable from event to event. The spellcaster must list every spell their familiar grants them in their spellbook as if they have learned the spell.
-
-                                                                   
-
-If they learn the spell Familiar a second (or third) time, they may alter the abilities of their familiar upon completion of each learning. If the spellcaster unlearns a use of the spell Familiar, the familiar they have then becomes weaker and must be adjusted accordingly.
-
+If they learn the spell Familiar a second (or third) time, they may alter the
+abilities of their familiar upon completion of each learning. If the spellcaster
+unlearns a use of the spell Familiar, the familiar they have then becomes weaker
+and must be adjusted accordingly.
 
 [__Feign Death__ (3rd Circle)]{#feign-death}
 
-Uses: Unlimited - Material: A cloth - Active: Wipe cloth over face 5 times
+__Uses:__ Unlimited - __Material:__ A cloth - __Active:__ Wipe cloth over face 5
+times
 
-
-This spell allows the spellcaster to disguise themselves so as to appear dead. If someone asks them if they are dead they can legally answer "Yes," and may lie down or sit with their sword or arm above their head as to appear dead (see Section 3.4: Character Death and Section 3.5: Scalping). Feign Death ends once the spellcaster moves or speaks (except for addressing marshaling calls or OOC uncomfortable/unsafe situations). If a person moves them, thinking they are dead, the Feign Death does not end; only when they move themselves. If struck while using Feign Death, the spellcaster is still affected by the blow as normal.
-
+This spell allows the spellcaster to disguise themselves so as to appear dead.
+If someone asks them if they are dead they can legally answer "Yes," and may lie
+down or sit with their sword or arm above their head as to appear dead (see
+[Section 3.4: Character Death](#character-death) and [Section 3.5:
+Scalping](#scalping)). Feign Death ends once the spellcaster moves or speaks
+(except for addressing marshaling calls or OOC uncomfortable/unsafe situations).
+If a person moves them, thinking they are dead, the Feign Death does not end;
+only when they move themselves. If struck while using Feign Death, the
+spellcaster is still affected by the blow as normal.
 
 [__Fighter's Intuition__ (1st Circle)]{#fighters-intuition}
 
-Uses: 3 - Material: Spell Sash - Active: place sash on fighter - Caveats: Spell Sash
+__Uses:__ 3 - __Material:__ Spell Sash - __Active:__ place sash on fighter -
+__Caveats:__ [Spell Sash](#spell-sash)
 
+This spell must be cast on a non-spellcaster by placing the sash on the fighter
+and giving an explanation of how it works. This does not make the fighter an
+enchanted being.
 
-This spell must be cast on a non-spellcaster by placing the sash on the fighter and giving an explanation of how it works. This does not make the fighter an enchanted being.
-
-
-This fighter may now call out “Fighter’s Intuition” once. When the fighter does this, they may or may not learn information about a monster they can see. It is up to the event staff to decide to provide this information or not. The information can be anything: weakness, methods of defeating, or even what the NPC likes to eat.
+This fighter may now call out “Fighter’s Intuition” once. When the fighter does
+this, they may or may not learn information about a monster they can see. It is
+up to the event staff to decide to provide this information or not. The
+information can be anything: weakness, methods of defeating, or even what the
+NPC likes to eat.
 
 [__Find the Path__ (4th Circle)]{#find-the-path}
 
-Uses: 1 - Verbal: 30 words - Caveats: Spell Failure
+__Uses:__ 1 - __Verbal:__ 30 words - __Caveats:__ [Spell
+Failure](#spell-failure)
 
-
-This spell provides the spellcaster a route to find, locate, or travel to a person, place or thing that they know by name. For instance, you can get a response from "Where is the body of King Joe?" but not from "Take me to the person who stole my sword." The results of this spell can come as a guide, a map, a set of directions, a divining rod, or any other mechanic that the EH or MM deems appropriate. Be aware that the answer may not always be the safest or shortest path. This spell will fail if an answer cannot be determined because of PC action.
+This spell provides the spellcaster a route to find, locate, or travel to a
+person, place or thing that they know by name. For instance, you can get a
+response from "Where is the body of King Joe?" but not from "Take me to the
+person who stole my sword." The results of this spell can come as a guide, a
+map, a set of directions, a divining rod, or any other mechanic that the EH or
+MM deems appropriate. Be aware that the answer may not always be the safest or
+shortest path. This spell will fail if an answer cannot be determined because of
+PC action.
 
 [__Foretell__ (4th Circle)]{#foretell}
 
-Uses: 1 - Verbal: A prediction that the EH/MM must be present for
+__Uses:__ 1 - __Verbal:__ A prediction that the EH/MM must be present for
 
-
-Allows the spellcaster to make a prediction of an event to come, ie. "Sir Thomas will slay a dragon with a silver sword." If the event foretold comes to pass the EH/MM may grant a boon to the spellcaster or anyone involved in the prediction. The nature and power of this boon is up to the EH/MM. The greater the foretold event or more specific the prediction, the more powerful the resulting boon should be.
+Allows the spellcaster to make a prediction of an event to come, ie. "Sir Thomas
+will slay a dragon with a silver sword." If the event foretold comes to pass the
+EH/MM may grant a boon to the spellcaster or anyone involved in the prediction.
+The nature and power of this boon is up to the EH/MM. The greater the foretold
+event or more specific the prediction, the more powerful the resulting boon
+should be.
 
 [__Fortune Tell__ (3rd Circle)]{#fortune-tell}
 
-Uses: 2 - Material: Fortune-telling paraphernalia, such as runes or a tarot deck
+__Uses:__ 2 - __Material:__ Fortune-telling paraphernalia, such as runes or a
+tarot deck
 
-
-This spell allows the spellcaster to ask a question of the EH or MM, which will be answered in a symbolic manner. How much information (if any) and the form in which it is given is at the discretion of the EH or MM. As this is a relatively low-circle spell, no proper names may be used in either the question or the answer for this spell. For example, while a spellcaster cannot ask "Who killed Sir Schlep?" they can ask, "Who killed this knight?" and the answer can be "Tarot Card: Jack of Wands" but not "Bad Bart." This spell can only be used to determine information that is plot-related. If the EH or MM does not know the answer because the question asked relates to PC actions, an answer will not be given but the spell is still used. If the spell is cast and an answer cannot be given because of any of the above limitations, the casting is still used up.
+This spell allows the spellcaster to ask a question of the EH or MM, which will
+be answered in a symbolic manner. How much information (if any) and the form in
+which it is given is at the discretion of the EH or MM. As this is a relatively
+low-circle spell, no proper names may be used in either the question or the
+answer for this spell. For example, while a spellcaster cannot ask "Who killed
+Sir Schlep?" they can ask, "Who killed this knight?" and the answer can be
+"Tarot Card: Jack of Wands" but not "Bad Bart." This spell can only be used to
+determine information that is plot-related. If the EH or MM does not know the
+answer because the question asked relates to PC actions, an answer will not be
+given but the spell is still used. If the spell is cast and an answer cannot be
+given because of any of the above limitations, the casting is still used up.
 
 [__Ghost Blade__ (1st Circle)]{#ghost-blade}
 
-Uses: 1 - Verbal: 20 words - Material: A white ribbon with the words "Ghost Blade" on it - Caveats: Enchanted Items
+__Uses:__ 1 - __Verbal:__ 20 words - __Material:__ A white ribbon with the words
+"Ghost Blade" on it - __Caveats:__ [Enchanted Items](#enchanted-items)
 
-
-This spell enchants a single weapon to no longer affect the casting of the spells Raise Dead or Regeneration or the breaking of Circle of Healing. Upon casting this spell, the spellcaster must tie the MC onto the enchanted weapon.
+This spell enchants a single weapon to no longer affect the casting of the
+spells Raise Dead or Regeneration or the breaking of Circle of Healing. Upon
+casting this spell, the spellcaster must tie the MC onto the enchanted weapon.
 
 [__Group Healing__ (2nd Circle)]{#group-healing}
 
-Uses: 2 - Verbal: 10 words - Material: 30' rope - Active: Touch the rope - Caveats: Circles
+__Uses:__ 2 - __Verbal:__ 10 words - __Material:__ 30' rope - __Active:__ Touch
+the rope - __Caveats:__ [Circles](#circles)
 
+This spells allows the spellcaster to cast an enchanted circle. This circle
+allows certain spells cast into it to affect all the people within the circle.
+The Group Healing circle may be used to enhance the power of the following
+spells: [Combat Raise Dead](#combat-raise-dead), [Cure Disease](#cure-disease),
+[Immunity to Poison](#immunity-to-poison), [Heal Limb](#heal-limb), and [Raise
+Dead](#raise-dead). Multiple castings of Group Healing from the same or
+different spellcasters may be used at the same time, creating a bigger circle.
 
-This spells allows the spellcaster to cast an enchanted circle. This circle allows certain spells cast into it to affect all the people within the circle. The Group Healing circle may be used to enhance the power of the following spells: Combat Raise Dead, Cure Disease, Immunity to Poison, Heal Limb, and Raise Dead. Multiple castings of Group Healing from the same or different spellcasters may be used at the same time, creating a bigger circle.
+To enchant the Group Healing circle, lay the rope(s) in a circle on the ground
+with the ends touching. Then all the characters to be cast upon should be
+gathered into the circle. The spellcaster(s) must then recite the VC, which
+empowers the circle.
 
-
-To enchant the Group Healing circle, lay the rope(s) in a circle on the ground with the ends touching. Then all the characters to be cast upon should be gathered into the circle. The spellcaster(s) must then recite the VC, which empowers the circle.
-
-
-The next spell from the accepted list cast into this circle by any spellcaster affects all within as if it had been cast on each individually; in most cases any MC is only used once. The Immunity to Poison spell still requires the necessary components to cast for each character affected.
+The next spell from the accepted list cast into this circle by any spellcaster
+affects all within as if it had been cast on each individually; in most cases
+any MC is only used once. The [Immunity to Poison](#immunity-to-poison) spell
+still requires the necessary components to cast for each character affected.
 
 [__Guidance__ (2nd Circle)]{#guidance}
 
-Uses: 2 - Material: Divining paraphernalia to indicate a yes/no answer
+__Uses:__ 2 - __Material:__ Divining paraphernalia to indicate a yes/no answer
 
-
-This spell allows the spellcaster to ask the EH or MM a yes/no question. If the EH or MM does not know the answer because the question asked relates to PC actions, an answer may not be given but the spell is still used. An answer will be given in the form of “Yes” or “No” by the EH or MM. If the spell is cast and an answer cannot be given because of any of the above limitations, the casting is still used up.
+This spell allows the spellcaster to ask the EH or MM a yes/no question. If the
+EH or MM does not know the answer because the question asked relates to PC
+actions, an answer may not be given but the spell is still used. An answer will
+be given in the form of “Yes” or “No” by the EH or MM. If the spell is cast and
+an answer cannot be given because of any of the above limitations, the casting
+is still used up.
 
 [__Heal Limb__ (2nd Circle)]{#heal-limb}
 
-Uses: Unlimited - Verbal: 20 words - Active: Spellcaster must be stationary, must touch the target limb
+__Uses:__ Unlimited - __Verbal:__ 20 words - __Active:__ Spellcaster must be
+stationary, must touch the target limb
 
-
-This spell allows the spellcaster to heal one damaged limb at a time. The spellcaster must recite the VC while touching the recipient's injured limb. The spellcaster cannot move their feet while casting this spell, although they may be moving their arms (e.g., parrying, so long as they don’t step backwards).
+This spell allows the spellcaster to heal one damaged limb at a time. The
+spellcaster must recite the VC while touching the recipient's injured limb. The
+spellcaster cannot move their feet while casting this spell, although they may
+be moving their arms (e.g., parrying, so long as they don’t step backwards).
 
 [__Heartiness__ (1st Circle)]{#heartiness}
 
-Uses: Unlimited, one at a time
+__Uses:__ Unlimited, one at a time
 
-
-Having this spell makes the spellcaster harder to scalp. The next time the spellcaster is scalped it will take 200 extra blows to successfully scalp them. If scalped for only 200 blows, instead of the full 400 blows, the spellcaster must inform the scalper that "The job is not yet done." A spellcaster can only be under the effect of one Heartiness spell at a time. A use is considered to be over whenever the spellcaster receives at least 200 scalping blows, but is in effect until they are either fully scalped or raised.
+Having this spell makes the spellcaster harder to scalp. The next time the
+spellcaster is scalped it will take 200 extra blows to successfully scalp them.
+If scalped for only 200 blows, instead of the full 400 blows, the spellcaster
+must inform the scalper that "The job is not yet done." A spellcaster can only
+be under the effect of one Heartiness spell at a time. A use is considered to be
+over whenever the spellcaster receives at least 200 scalping blows, but is in
+effect until they are either fully scalped or raised.
 
 [__Identify__ (1st Circle)]{#identify}
 
-Uses: 3 - Verbal: 30 words
+__Uses:__ 3 - __Verbal:__ 30 words
 
-
-This spell allows the spellcaster to take any one item (not a living/dead creature) to the EH or MM to ask what it is and expect an answer. This spell can also determine what race an unknown creature is. If the spellcaster can successfully reach visual inspection range, recite the verbal, and the creature is not hostile, it must state what race it is. The response is not IC speech by the creature, and it can answer while dead.
+This spell allows the spellcaster to take any one item (not a living/dead
+creature) to the EH or MM to ask what it is and expect an answer. This spell can
+also determine what race an unknown creature is. If the spellcaster can
+successfully reach visual inspection range, recite the verbal, and the creature
+is not hostile, it must state what race it is. The response is not IC speech by
+the creature, and it can answer while dead.
 
 [__Immunity to Poison__ (1st Circle)]{#immunity-to-poison}
 
-Uses: 3 - Verbal: 10 words - Material: Disposable
+__Uses:__ 3 - __Verbal:__ 10 words - __Material:__ Disposable
 
-
-This spell makes the recipient immune to the next dose of poison that would have otherwise affected their PC during the event. When damaged by the next poison attack, whether ingested or delivered by a poisoned weapon, call "Immunity to Poison!" Only one Immunity to Poison is used at a time. The recipient must take any mundane damage from a poisoned weapon regardless of whether they are protected from the actual poison. The recipient should be given the MC when the spell is cast, and they should dispose of it when the immunity has been used. More than one Immunity to Poison can be cast upon a recipient; the effect is stackable. The MC of the spell is not stealable or transferable after it is cast. This spell can also be cast as an antidote for any one poison that the recipient has been subjected to, but in this case it will not provide any further protection.
-
+This spell makes the recipient immune to the next dose of poison that would have
+otherwise affected their PC during the event. When damaged by the next poison
+attack, whether ingested or delivered by a poisoned weapon, call "Immunity to
+Poison!" Only one Immunity to Poison is used at a time. The recipient must take
+any mundane damage from a poisoned weapon regardless of whether they are
+protected from the actual poison. The recipient should be given the MC when the
+spell is cast, and they should dispose of it when the immunity has been used.
+More than one Immunity to Poison can be cast upon a recipient; the effect is
+stackable. The MC of the spell is not stealable or transferable after it is
+cast. This spell can also be cast as an antidote for any one poison that the
+recipient has been subjected to, but in this case it will not provide any
+further protection.
 
 [__Implement__ (1st Circle)]{#implement}
 
-Uses: Special - Material: Safe, non-weapon Staff (between 4' and 6' long, inclusive), Wand (between 12" and 18" long, inclusive), Orb (at least 4" in diameter), or Book (bound, minimum 1/2" x 4" x 7", cannot be the spellcaster's spell-book)
+__Uses:__ Special - __Material:__ Safe, non-weapon Staff (between 4' and 6'
+long, inclusive), Wand (between 12" and 18" long, inclusive), Orb (at least 4"
+in diameter), or Book (bound, minimum 1/2" x 4" x 7", cannot be the
+spellcaster's spell-book)
 
+The spellcaster is able to create a staff, wand, orb, or book (hereafter called
+"implement") that enhances their own spells. Each time the spellcaster learns
+this spell, they gain 1 point into a pool from which they may purchase special
+abilities from the following choices below. A spellcaster may only have 5 points
+worth of implements per event. At the magic check-in of an event, the
+spellcaster may choose how the points in their pool are spent.
 
-The spellcaster is able to create a staff, wand, orb, or book (hereafter called "implement") that enhances their own spells. Each time the spellcaster learns this spell, they gain 1 point into a pool from which they may purchase special abilities from the following choices below. A spellcaster may only have 5 points worth of implements per event. At the magic check-in of an event, the spellcaster may choose how the points in their pool are spent.
+Unless otherwise stated, abilities gained that augment or alter spells require
+that the spellcaster already knows that spell, otherwise there is no effect. In
+order to use the gained ability, the spellcaster must be holding the implement
+in one hand.
 
+The implement is a magical manifestation and cannot be broken. Any blow that
+strikes the implement must be taken as if the implement is not there. You can
+not actively parry with an implement.
 
-Unless otherwise stated, abilities gained that augment or alter spells require that the spellcaster already knows that spell, otherwise there is no effect. In order to use the gained ability, the spellcaster must be holding the implement in one hand.
+An implement may be disenchanted causing any effects or castings to be lost
+until the implement is restored. If disenchanted it takes 200 seconds of holding
+the implement with both hands and nothing else to restore.
 
-
-The implement is a magical manifestation and cannot be broken. Any blow that strikes the implement must be taken as if the implement is not there. You can not actively parry with an implement.
-
-
-An implement may be disenchanted causing any effects or castings to be lost until the implement is restored. If disenchanted it takes 200 seconds of holding the implement with both hands and nothing else to restore.
-
-
-Gain one additional casting of one of the following spells for 1 point each: Find the Path, Fortune Tell, Guidance, Precognition, Skew Divination, Raise Dead, Deep Pockets, Enfeeble Being, Beckon Corpse, Disenchant, or Disrupt.
-
+Gain one additional casting of one of the following spells for 1 point each:
+[Find the Path](#find-the-path), [Fortune Tell](#fortune-tell),
+[Guidance](#guidance), [Precognition](#precognition), [Skew
+Divination](#skew-divination), [Raise Dead](#raise-dead), [Deep
+Pockets](#deep-pockets), [Enfeeble Being](#enfeeble-being), [Beckon
+Corpse](#beckon-corpse), [Disenchant](#disenchant), or [Disrupt](#disrupt).
 
 Gain the following abilities for 1 point each:
 
-The AC for Armored Cloak is changed to "Kneel on one knee while holding their implement with both hands."
-When using a Circle spell you may double the length of the rope. This may only be done once.
-The AC for Death Watch is changed to “Spellcaster must kneel on one knee holding their Implement with both hands for 60 seconds before being killed.” The requirement for recasting the spell is also removed.
-The spell Death Watch allows the caster to move their head while dead. They still may not speak, try to communicate, or move in any other way while dead.
+* The AC for [Armored Cloak](#armored-cloak) is changed to "Kneel on one knee
+  while holding their implement with both hands."
+* When using a Circle spell you may double the length of the rope. This may only
+  be done once.
+* The AC for [Death Watch](#death-watch) is changed to “Spellcaster must kneel
+  on one knee holding their Implement with both hands for 60 seconds before
+  being killed.” The requirement for recasting the spell is also removed.
+* The spell [Death Watch](#death-watch) allows the caster to move their head
+  while dead. They still may not speak, try to communicate, or move in any other
+  way while dead.
 
-Gain one additional casting of one of the following spells for 2 points each: Call the Soul, Group Healing, Resist Magic, Animate Undead, or Soul Bane.
-
+Gain one additional casting of one of the following spells for 2 points each:
+[Call the Soul](#call-the-soul), [Group Healing](#group-healing), [Resist
+Magic](#resist-magic), [Animate Undead](#animate-undead), or [Soul
+Bane](#soul-bane).
 
 Gain the following abilities for 2 points each:
 
-The uses for Speak become unlimited.
-Gain 1 point to spend on your familiar. This ability may not be taken more than once. When this augmentation is first used through Implement, you shall list an alternate build for the familiar. This alternate build can only be changed by learning or unlearning a use of Familiar. From now on, when you use your familiar and it is augmented by Implement, it uses that new build. If you are using the augmented build, and you do not have your implement on you, you may not use your Familiar abilities.
+* The uses for [Speak](#speak) become unlimited.
+* Gain 1 point to spend on your [familiar](#familiar). This ability may not be
+  taken more than once. When this augmentation is first used through Implement,
+  you shall list an alternate build for the [familiar](#familiar). This
+  alternate build can only be changed by learning or unlearning a use of
+  [Familiar](#familiar). From now on, when you use your [familiar](#familiar)
+  and it is augmented by Implement, it uses that new build. If you are using the
+  augmented build, and you do not have your implement on you, you may not use
+  your [Familiar](#familiar) abilities.
 
-Gain one additional casting of one of the following spells for 3 points each: Vision or Séance.
-
+Gain one additional casting of one of the following spells for 3 points each:
+[Vision](#vision) or [Séance](#seance).
 
 Gain the following abilities for 3 points each:
 
-Gain one use of Regeneration. You are not required to know the spell to use this ability.
-Gain one use of Regeneration. Upon completion, the spellcaster will be raised as a free-willed undead. You are not required to know the spell to use this ability.
-Gain one additional Magic Missile prop.
+* Gain one use of [Regeneration](#regeneration-spell). You are not required to
+  know the spell to use this ability.
+* Gain one use of [Regeneration](#regeneration-spell). Upon completion, the
+  spellcaster will be raised as a free-willed undead. You are not required to
+  know the spell to use this ability.
+* Gain one additional [Magic Missile](#magic-missile) prop.
 
 [__Intervention__ (6th Circle)]{#intervention}
 
-Uses: 1 - Verbal: Speak to EH - Material: A sacrifice may be required - Active: A quest may be required
+__Uses:__ 1 - __Verbal:__ Speak to EH - __Material:__ A sacrifice may be
+required - __Active:__ A quest may be required
 
-
-This spell allows the spellcaster to go to the EH and ask a boon from whatever powers their magic. It should be cast in the presence of the EH or MM. It is to be used to request favors such as: "Oh, please, great majestic god/Fire Spirit/Navel Lint, grant me a quest to search for the lost scalp of my overlord, Sir Biff of Bonehead Ridge." This spell comes with no guarantee that the EH won't simply listen to the request and say "No." This spell cannot create an effect that will last beyond the end of the event, other than for healing purposes. A spellcaster who uses drama and theatrics has a better chance of success, and simple, small requests are also more likely to be granted. Any requests that will unbalance the game will likely be either denied straight out, or assigned an unsolvable quest.
+This spell allows the spellcaster to go to the EH and ask a boon from whatever
+powers their magic. It should be cast in the presence of the EH or MM. It is to
+be used to request favors such as: "Oh, please, great majestic god/Fire
+Spirit/Navel Lint, grant me a quest to search for the lost scalp of my overlord,
+Sir Biff of Bonehead Ridge." This spell comes with no guarantee that the EH
+won't simply listen to the request and say "No." This spell cannot create an
+effect that will last beyond the end of the event, other than for healing
+purposes. A spellcaster who uses drama and theatrics has a better chance of
+success, and simple, small requests are also more likely to be granted. Any
+requests that will unbalance the game will likely be either denied straight out,
+or assigned an unsolvable quest.
 
 [__Light__ (1st Circle)]{#light}
 
-Uses: Unlimited - Verbal: 3 syllables - Material: Chemical light stick and dark bag - Active: Snap and shake the stick
+__Uses:__ Unlimited - __Verbal:__ 3 syllables - __Material:__ Chemical light
+stick and dark bag - __Active:__ Snap and shake the stick
 
-
-This spell creates light. The spellcaster may use as many light sticks as desired. They must also carry a bag large enough to hold all of the glow sticks they will use and thick enough to prevent any light from escaping. The bag is to be used if they are affected by a Disrupt Light spell. The spellcaster may not give a glow stick to anyone who is going to travel beyond easy speaking  distance. It is possible for this spell to be disrupted. It is the spellcaster's responsibility to know what the Disrupt Light spell is, how to recognize it, and how to respond to it. It is a first circle spell.
+This spell creates light. The spellcaster may use as many light sticks as
+desired. They must also carry a bag large enough to hold all of the glow sticks
+they will use and thick enough to prevent any light from escaping. The bag is to
+be used if they are affected by a [Disrupt Light](#disrupt-light) spell. The
+spellcaster may not give a glow stick to anyone who is going to travel beyond
+easy speaking distance. It is possible for this spell to be disrupted. It is the
+spellcaster's responsibility to know what the Disrupt Light spell is, how to
+recognize it, and how to respond to it. It is a first circle spell.
 
 [__Lightning Bolt__ (6th Circle)]{#lightning-bolt-spell}
 
-Uses: 1 prop, unlimited use - Verbal: “Lightning Bolt” - Material: 1 white boff arrow or javelin prop between 2'6" and 3'6" long - Caveats: Combat Calls
+__Uses:__ 1 prop, unlimited use - __Verbal:__ “Lightning Bolt” - __Material:__ 1
+white boff arrow or javelin prop between 2'6" and 3'6" long - __Caveats:__
+[Combat Calls](#combat-calls-caveat)
 
+This spell allows the spellcaster to throw a stronger bolt of magic than [Magic
+Missile](#magic-missile). The MC for the spell is a golf tube, aqua tube, or T8
+fluorescent light cover arrow or javelin prop made following the [Weapon
+Construction](#weapon-construction) rules for arrows and javelins with the
+following additions:
 
-This spell allows the spellcaster to throw a stronger bolt of magic than Magic Missile. The MC for the spell is a golf tube, aqua tube, or T8 fluorescent light cover arrow or javelin prop made following the Weapon Construction rules for arrows and javelins with the following additions:
+* The prop must be primarily white.
+* The prop must be between 2'6" and 3'6" in length and cannot have an arrow
+  nock. The prop is not subject to the spellcaster's weapon length restriction.
+* The prop must have the words "Lightning Bolt" and the spellcaster's name
+  written visibly along the shaft.
 
-The prop must be primarily white.
-The prop must be between 2'6" and 3'6" in length and cannot have an arrow nock. The prop is not subject to the spellcaster's weapon length restriction.
-The prop must have the words "Lightning Bolt" and the spellcaster's name written visibly along the shaft.
-
-The prop is a physical representation of the magic. After it comes to rest, it cannot be affected or moved by anyone other than the spellcaster, but it may still be seen or guarded by anybody. The prop counts as a hand-and-a-half weapon and must be thrown, not shot from a bow. The prop, including its shaft, strikes as an armor-piercing magic blow to anything it makes contact with, until it comes to rest. Once cast, it cannot be cast again until the spellcaster recovers the prop. The prop is not considered a weapon and does not cause Spell Failure, except while the spell is active (i.e. from when the prop is thrown until it comes to rest).
+The prop is a physical representation of the magic. After it comes to rest, it
+cannot be affected or moved by anyone other than the spellcaster, but it may
+still be seen or guarded by anybody. The prop counts as a hand-and-a-half weapon
+and must be thrown, not shot from a bow. The prop, including its shaft, strikes
+as an [armor-piercing](#armor-piercing) [magic](#magic-call) blow to anything it
+makes contact with, until it comes to rest. Once cast, it cannot be cast again
+until the spellcaster recovers the prop. The prop is not considered a weapon and
+does not cause [Spell Failure](#spell-failure), except while the spell is active
+(i.e. from when the prop is thrown until it comes to rest).
 
 [__Magic Missile__ (4th Circle)]{#magic-missile}
 
-Uses: Unlimited, while spellcaster has MC handy - Verbal: "Magic Missile" - Material: 2 beanbags or foam & duct tape blocks, about 3" diameter - Caveats: Combat Calls
+__Uses:__ Unlimited, while spellcaster has MC handy - __Verbal:__ "Magic
+Missile" - __Material:__ 2 beanbags or foam & duct tape blocks, about 3"
+diameter - __Caveats:__ [Combat Calls](#combat-calls-caveat)
 
+When thrown, this spell strikes whatever it hits as if it were a magic sword. It
+will damage every location it hits, until it comes to rest. The prop is a
+physical representation of the magic. After it comes to rest, it cannot be
+affected or moved by anyone other than the spellcaster, but it may still be seen
+or guarded by anybody. A magic missile MC can be thrown with one hand. When a MC
+is being thrown, the other hand may contain only a single magic missile MC or a
+single-handed weapon or shield, and does not count toward dual-wielding for the
+purposes of weapon restrictions. The prop is not considered a weapon and does
+not cause [Spell Failure](#spell-failure) except while the spell is active (i.e.
+from when the prop is thrown until it comes to rest). The spellcaster may only
+throw their spell props, and may not pick up those thrown by another
+spellcaster.
 
-When thrown, this spell strikes whatever it hits as if it were a magic sword. It will damage every location it hits, until it comes to rest. The prop is a physical representation of the magic. After it comes to rest, it cannot be affected or moved by anyone other than the spellcaster, but it may still be seen or guarded by anybody. A magic missile MC can be thrown with one hand. When a MC is being thrown, the other hand may contain only a single magic missile MC or a single-handed weapon or shield, and does not count toward dual-wielding for the purposes of weapon restrictions. The prop is not considered a weapon and does not cause Spell Failure except while the spell is active (i.e. from when the prop is thrown until it comes to rest). The spellcaster may only throw their spell props, and may not pick up those thrown by another spellcaster.
+[__Masterwork Hammer__ (6th Circle)]{#masterwork-hammer}
 
-[___Masterwork Hammer__ (6th Circle)]{#masterwork-hammer}
+__Uses:__ 1 - __Verbal:__ 50 words - __Material:__ A boff hammer up to 3' in
+length with "[Event-Stealable](#event-stealable)," "Masterwork Hammer,” and the
+spellcaster’s name written on it - __Active:__ Special - __Caveats:__ [Enchanted
+Items](#enchanted-items)
 
-Uses: 1 - Verbal: 50 words - Material: A boff hammer up to 3' in length with "Event-Stealable," "Masterwork Hammer,” and the spellcaster’s name written on it - Active: Special - Caveats:  Enchanted Items
-
-
-This spell creates a Masterwork Hammer which swings magic. The hammer may also be used to repair non-armor, non-magic items (bows, weapons, shields) in 30 seconds. The hammer may also repair all armor on a target player to 1 pt., using the hammer as the focus of the spell, in 30 seconds. While using the hammer to make any type of repair the spellcaster must remain stationary and should actively use the hammer to simulate repairing the target. If the hammer is broken the spellcaster may repair it by holding the item in both hands and reciting the verbal. Only the spellcaster may use any of the benefits of this spell.
+This spell creates a Masterwork Hammer which swings [magic](#magic-call). The
+hammer may also be used to repair non-armor, non-magic items (bows, weapons,
+shields) in 30 seconds. The hammer may also repair all armor on a target player
+to 1 pt., using the hammer as the focus of the spell, in 30 seconds. While using
+the hammer to make any type of repair the spellcaster must remain stationary and
+should actively use the hammer to simulate repairing the target. If the hammer
+is broken the spellcaster may repair it by holding the item in both hands and
+reciting the verbal. Only the spellcaster may use any of the benefits of this
+spell.
 
 [__Mystic Forge__ (4th Circle)]{#mystic-forge}
 
-Uses: 1 - Verbal: 25 words - Material: 10-foot rope - Active: Touch the rope - Caveats: Circles, Suspension
+__Uses:__ 1 - __Verbal:__ 25 words - __Material:__ 10-foot rope - __Active:__
+Touch the rope - __Caveats:__ [Circles](#circles), [Suspension](#suspension)
 
-
-This spell allows the spellcaster to create a Mystic Forge. The spellcaster may name the circle with Enchant Weapon or Repair Item, chosen at the time of casting. Until the Mystic Forge is broken, the spellcaster need only stand in the circle, touch the target item, and recite the named spell’s VC to cast the spell. This does not use up any castings of the named spell, and this can be done as many times as desired. No one but the spellcaster may use the Mystic Forge in this manner.
+This spell allows the spellcaster to create a Mystic Forge. The spellcaster may
+name the circle with [Enchant Weapon](#enchant-weapon) or [Repair
+Item](#repair-item), chosen at the time of casting. Until the Mystic Forge is
+broken, the spellcaster need only stand in the circle, touch the target item,
+and recite the named spell’s VC to cast the spell. This does not use up any
+castings of the named spell, and this can be done as many times as desired. No
+one but the spellcaster may use the Mystic Forge in this manner.
 
 [__Pas__ (1st Circle)]{#pas}
 
-Uses: 3 - Verbal: Pas, friend... - Material: Food, coin, or some offering - Active: Offer the MC to the target - Caveats: Compulsion
+__Uses:__ 3 - __Verbal:__ Pas, friend... - __Material:__ Food, coin, or some
+offering - __Active:__ Offer the MC to the target - __Caveats:__
+[Compulsion](#compulsion)
 
-
-This spell creates an uneasy, temporary truce between the target and the PC. To cast this spell the spellcaster offers something of value to the target and says something along the lines of, "Pas, friend orc, and accept these shiny bits to let me pass unharmed." If the target accepts the offering, they are magically bound to not attack the spellcaster for 60 seconds unless the target is attacked. If the target is attacked or the spellcaster is slain this spell ends immediately. Protect the Soul will block the effects of this spell as will Resist Magic.
+This spell creates an uneasy, temporary truce between the target and the PC. To
+cast this spell the spellcaster offers something of value to the target and says
+something along the lines of, "Pas, friend orc, and accept these shiny bits to
+let me pass unharmed." If the target accepts the offering, they are magically
+bound to not attack the spellcaster for 60 seconds unless the target is
+attacked. If the target is attacked or the spellcaster is slain this spell ends
+immediately. [Protect the Soul](#protect-the-soul) will block the effects of
+this spell as will [Resist Magic](#resist-magic).
 
 [__Precognition__ (3rd Circle)]{#precognition}
 
-Uses: 3 - Material: Divining paraphernalia (such as a crystal ball or mirror)
+__Uses:__ 3 - __Material:__ Divining paraphernalia (such as a crystal ball or
+mirror)
 
-
-This spell allows the spellcaster to gain non-specified information about the plot from the EH or MM. How much information (if any) is at the discretion of the EH or MM. One casting of Precognition may be pre-registered and the results of this spell will be presented to the spellcaster at check-in for the event. If a precognition is not given at the beginning of the event, the casting is not used.
+This spell allows the spellcaster to gain non-specified information about the
+plot from the EH or MM. How much information (if any) is at the discretion of
+the EH or MM. One casting of Precognition may be pre-registered and the results
+of this spell will be presented to the spellcaster at check-in for the event. If
+a precognition is not given at the beginning of the event, the casting is not
+used.
 
 [__Prophecy__ (6th Circle)]{#prophecy}
 
-Uses: 1 - Active: Ritual (Optional)
+__Uses:__ 1 - __Active:__ Ritual (Optional)
 
-
-This spell allows the spellcaster to ask the EH or MM a question pertaining to the plot of the event. The EH or MM will give the spellcaster as complete an answer as they are willing. The method of delivering this knowledge is at the EH or MM's discretion. A spellcaster may use drama, theatrics, or sacrifice during the ritual to have a better chance of gaining information. After casting this spell, the EH or MM may choose to release additional information to the spellcaster at any time during the remainder of the event or until a spell reset.
+This spell allows the spellcaster to ask the EH or MM a question pertaining to
+the plot of the event. The EH or MM will give the spellcaster as complete an
+answer as they are willing. The method of delivering this knowledge is at the EH
+or MM's discretion. A spellcaster may use drama, theatrics, or sacrifice during
+the ritual to have a better chance of gaining information. After casting this
+spell, the EH or MM may choose to release additional information to the
+spellcaster at any time during the remainder of the event or until a spell
+reset.
 
 [__Protect Item__ (1st Circle)]{#protect-item}
 
-Uses: 3 - Verbal: 20 words - Material: Ribbon tied onto the item protected. Remove the ribbon soon after the spell is expended/used to protect the item - Caveats: Enchanted Items
+__Uses:__ 3 - __Verbal:__ 20 words - __Material:__ Ribbon tied onto the item
+protected. Remove the ribbon soon after the spell is expended/used to protect
+the item - __Caveats:__ [Enchanted Items](#enchanted-items)
 
-
-This spell allows a single non-armor item to be protected from the next attack that would normally damage it. For example, a protected sword struck by a boulder would not be destroyed, but the wielder would still suffer normal damage (e.g., death usually). The call for this spell is "Protect Item." A particular item may only have one casting of Protect Item on it at a time. This spell does not protect against Disenchant.
+This spell allows a single non-armor item to be protected from the next attack
+that would normally damage it. For example, a protected sword struck by a
+boulder would not be destroyed, but the wielder would still suffer normal damage
+(e.g., death usually). The call for this spell is "Protect Item." A particular
+item may only have one casting of Protect Item on it at a time. This spell does
+not protect against [Disenchant](#disenchant).
 
 [__Protect the Soul__ (3rd Circle)]{#protect-the-soul}
 
-Uses: 1 - Verbal: 30 words and an explanation - Material: Spell Sash - Caveats: Enchanted Items, Spell Sash
+__Uses:__ 1 - __Verbal:__ 30 words and an explanation - __Material:__ Spell Sash
+- __Caveats:__ [Enchanted Items](#enchanted-items), [Spell Sash](#spell-sash)
 
-
-This spell will protect the recipient from possession, Animate Undead, and the like. When targeted by any spell or effect against which Protect the Soul immunizes your PC, you must call "Protect the Soul!" The spell will last until the sash is disenchanted or removed by the spellcaster. The spell will not function if the recipient is scalped or their soul is not within their body for any other reason.
+This spell will protect the recipient from possession, [Animate
+Undead](#animate-undead), and the like. When targeted by any spell or effect
+against which Protect the Soul immunizes your PC, you must call "Protect the
+Soul!" The spell will last until the sash is disenchanted or removed by the
+spellcaster. The spell will not function if the recipient is scalped or their
+soul is not within their body for any other reason.
 
 [__Protection from Boulder__ (1st Circle)]{#protection-from-boulder}
 
-Uses: 2 - Verbal: 20 words - Material: Spell Sash - Caveats: Enchanted Items, Spell Sash
+__Uses:__ 2 - __Verbal:__ 20 words - __Material:__ Spell Sash - __Caveats:__
+[Enchanted Items](#enchanted-items), [Spell Sash](#spell-sash)
 
-
-The spellcaster is protected from the next "boulder" call that strikes them. This protection extends to all equipment they are carrying.
+The spellcaster is protected from the next "boulder" call that strikes them.
+This protection extends to all equipment they are carrying.
 
 [__Protection from Missile__ (2nd Circle)]{#protection-from-missile}
 
-Uses: Unlimited, one at a time - Verbal: 10 words - Material: Spell Sash - Caveats: Enchanted Items, Spell Sash - Active: Kneel or lie on back, no weapons in hand
+__Uses:__ Unlimited, one at a time - __Verbal:__ 10 words - __Material:__ Spell
+Sash - __Caveats:__ [Enchanted Items](#enchanted-items), [Spell
+Sash](#spell-sash) - __Active:__ Kneel or lie on back, no weapons in hand
 
-The recipient of this spell is protected from the next hit they take from an arrow, javelin, or Magic Missile spell. It is necessary to call "Protection" when the spell activates. This spell will also protect equipment (such as armor) that would otherwise be affected by the missile. 
+The recipient of this spell is protected from the next hit they take from an
+arrow, javelin, or [Magic Missile](#magic-missile) spell. It is necessary to
+call "Protection" when the spell activates. This spell will also protect
+equipment (such as armor) that would otherwise be affected by the missile.
 
-When the spell is cast, the recipient of the spell must be kneeling or be lying on their back with no weapons in hand. This spell may be cast on a recipient other than the spellcaster; to do so the spellcaster must have no weapons in hand and touch the recipient while the spell is being cast. More than one casting of this spell may be in effect on a single PC. If the spellcaster casts this spell on another PC, they may not re-cast the spell until the sash is returned to them.
+When the spell is cast, the recipient of the spell must be kneeling or be lying
+on their back with no weapons in hand. This spell may be cast on a recipient
+other than the spellcaster; to do so the spellcaster must have no weapons in
+hand and touch the recipient while the spell is being cast. More than one
+casting of this spell may be in effect on a single PC. If the spellcaster casts
+this spell on another PC, they may not re-cast the spell until the sash is
+returned to them.
 
 [__Purity to Disease__ (3rd Circle)]{#purity-to-disease}
 
-Uses: 1, Self-only - Verbal: 10 words - Material: Spell Sash - Active: Lie on back, no weapons in hand - Caveats: Combat Calls, Enchanted Items, Spell Sash
+__Uses:__ 1, Self-only - __Verbal:__ 10 words - __Material:__ Spell Sash -
+__Active:__ Lie on back, no weapons in hand - __Caveats:__ [Combat
+Calls](#combat-calls-caveat), [Enchanted Items](#enchanted-items), [Spell
+Sash](#spell-sash)
 
-
-Upon casting this spell, the spellcaster becomes completely immune to the effects of diseases.
+Upon casting this spell, the spellcaster becomes completely immune to the
+effects of diseases.
 
 [__Purity to Poison__ (3rd Circle)]{#purity-to-poison}
 
-Uses: 1, Self-only - Verbal: 10 words - Material: Spell Sash - Active: Lie on back, no weapons in hand - Caveats: Combat Calls, Enchanted Items, Spell Sash
+__Uses:__ 1, Self-only - __Verbal:__ 10 words - __Material:__ Spell Sash -
+__Active:__ Lie on back, no weapons in hand - __Caveats:__ [Combat
+Calls](#combat-calls-caveat), [Enchanted Items](#enchanted-items), [Spell
+Sash](#spell-sash)
 
-
-Upon casting this spell, the spellcaster becomes completely immune to the effects of poisons.
+Upon casting this spell, the spellcaster becomes completely immune to the
+effects of poisons.
 
 [__Raise Dead__ (3rd Circle)]{#raise-dead}
 
-Uses: 5 - Verbal: 30 words - Active: Spellcaster must be within 2 feet of corpse and there can be no weapons within 10 feet of the spellcaster - Caveats: Spell Failure
+__Uses:__ 5 - __Verbal:__ 30 words - __Active:__ Spellcaster must be within 2
+feet of corpse and there can be no weapons within 10 feet of the spellcaster -
+__Caveats:__ [Spell Failure](#spell-failure)
 
-
-This spell will raise a dead character, healing all of their injured limbs. There can be no weapons within 10 feet of the spellcaster at any point while casting this spell, or the spell will fail to work. For this purpose, a weapon is considered to be anything with a legal striking surface - swords and arrows are weapons, although bows are not. The player of the character being raised must be present to represent the corpse. No proxy can be used for the corpse.
+This spell will raise a dead character, healing all of their injured limbs.
+There can be no weapons within 10 feet of the spellcaster at any point while
+casting this spell, or the spell will fail to work. For this purpose, a weapon
+is considered to be anything with a legal striking surface - swords and arrows
+are weapons, although bows are not. The player of the character being raised
+must be present to represent the corpse. No proxy can be used for the corpse.
 
 [__Reforge__ (5th Circle)]{#reforge}
 
-Uses: 2 - Verbal: 30 words - Material: Special - Active: Special
+__Uses:__ 2 - __Verbal:__ 30 words - __Material:__ Special - __Active:__ Special
 
+This spell allows the spellcaster to reforge an existing item, either improving
+it or repairing a magical item. The spellcaster may choose one of the following
+options when casting the spell. Each option has its own effects and requirements
+for casting the spell that must be met for the spell to be successfully cast.
 
-This spell allows the spellcaster to reforge an existing item, either improving it or repairing a magical item. The spellcaster may choose one of the following options when casting the spell. Each option has its own effects and requirements for casting the spell that must be met for the spell to be successfully cast.
+_Silver Weapon:_ this option will allow the spellcaster to create a permanent
+silver weapon. This option has an additional MC of the weapon’s weight in silver
+coins (plain aluminum roofing tins, aluminum "Coin of the Realm," etc.). The
+spellcaster must write the words "Silver" and "Stealable" on the blade of the
+weapon. The spellcaster should also write "Silvered by" and the spellcaster's
+name on the blade. All of the silver that is collected for the casting of this
+spell must be handed over to the EH. All silver weapons are stealable, and the
+spellcaster must explain to anyone having a weapon made silver that it will be
+stealable, and will be considered property of the Realms, to be passed back and
+forth within the game as a searchable item, for as long as it is silver. A
+silver weapon will lose the quality of being silver if the writing on the blade
+fades to the point of no longer being readable or if the weapon is OOC or IC
+broken (such as by a boulder). Players may not protect the writing in any way
+and may not rewrite it. A silvered weapon broken IC (i.e., by any means other
+than the fading of the writing or the physical destruction of the prop) can be
+repaired by an expenditure of this spell, without having to provide the
+necessary silver. Repairing a weapon in this way does not allow you to remake
+the prop or rewrite the word "Silver" on the weapon. Silver Weapon will not
+allow you to silver an existing magic item.
 
+_Reinforce Item:_ this option will allow the spellcaster to make a normal weapon
+or shield unbreakable for the duration of the event. This option has an
+additional MC of a ribbon with the words "Reinforce Item" attached to the target
+item. The reinforced item will not be broken by attacks that would normally
+damage them (e.g. a boulder hitting it) as long as the spell remains active. If
+disenchanted through the spell [Disenchant](#disenchant), the ribbon must be
+removed and the effect will end, but the weapon will otherwise remain intact.
+This option may not be used on a magic item, silver weapon, or bows.
 
-Silver Weapon: this option will allow the spellcaster to create a permanent silver weapon. This option has an additional MC of the weapon’s weight in silver coins (plain aluminum roofing tins, aluminum "Coin of the Realm," etc.).The spellcaster must write the words "Silver" and "Stealable" on the blade of the weapon. The spellcaster should also write "Silvered by" and the spellcaster's name on the blade. All of the silver that is collected for the casting of this spell must be handed over to the EH. All silver weapons are stealable, and the spellcaster must explain to anyone having a weapon made silver that it will be stealable, and will be considered property of the Realms, to be passed back and forth within the game as a searchable item, for as long as it is silver. A silver weapon will lose the quality of being silver if the writing on the blade fades to the point of no longer being readable or if the weapon is OOC or IC broken (such as by a boulder). Players may not protect the writing in any way and may not rewrite it. A silvered weapon broken IC (i.e., by any means other than the fading of the writing or the physical destruction of the prop) can be repaired by an expenditure of this spell, without having to provide the necessary silver. Repairing a weapon in this way does not allow you to remake the prop or rewrite the word "Silver" on the weapon. Silver Weapon will not allow you to silver an existing magic item.
-
-
-Reinforce Item: this option will allow the spellcaster to make a normal weapon or shield unbreakable for the duration of the event. This option has an additional MC of a ribbon with the words "Reinforce Item" attached to the target item. The reinforced item will not be broken by attacks that would normally damage them (e.g. a boulder hitting it) as long as the spell remains active. If disenchanted through the spell Disenchant, the ribbon must be removed and the effect will end, but the weapon will otherwise remain intact. This option may not be used on a magic item, silver weapon, or bows.
-
-
-Restore Enchantment: this spell allows the spellcaster to restore a currently-backed Realms Magic Item that has been broken or disenchanted to working order. This option may have an additional AC of a required quest. Potions and other spell components are not subject to repair. If an item has been physically broken or made unsafe, then the item must be physically repaired or replaced with a near duplicate of the item. Note that patching or minor repairs may be acceptable instead of a full prop replacement depending on the situation. Upon informing the MM or EH of their intention to cast this spell, the EH or MM may either present to the spellcaster a quest for the completion of this spell or simply declare the item "repaired" at their discretion. The spell is wasted if the quest fails or if permission for a repair is outright denied.
+_Restore Enchantment:_ this spell allows the spellcaster to restore a
+currently-backed [Realms Magic Item](#magic-item-rules) that has been broken or
+disenchanted to working order. This option may have an additional AC of a
+required quest. Potions and other spell components are not subject to repair. If
+an item has been physically broken or made unsafe, then the item must be
+physically repaired or replaced with a near duplicate of the item. Note that
+patching or minor repairs may be acceptable instead of a full prop replacement
+depending on the situation. Upon informing the MM or EH of their intention to
+cast this spell, the EH or MM may either present to the spellcaster a quest for
+the completion of this spell or simply declare the item "repaired" at their
+discretion. The spell is wasted if the quest fails or if permission for a repair
+is outright denied.
 
 [__Regenerate the Scalp__ (5th Circle)]{#regenerate-the-scalp}
 
-Uses: 1 - Verbal: 30 words - Material: An item similar to the spellcaster's scalp, with some sort of indication that it is their second scalp - Caveats: Regeneration, Advanced Regeneration
+__Uses:__ 1 - __Verbal:__ 30 words - __Material:__ An item similar to the
+spellcaster's scalp, with some sort of indication that it is their second scalp
+- __Caveats:__ [Regeneration](#regeneration-caveat), [Advanced
+Regeneration](#advanced-regeneration)
 
-
-This spell grants an advanced regeneration which will return a character to life from scalping. After regenerating in this fashion, the material component becomes the spellcaster's new scalp token.
+This spell grants an advanced regeneration which will return a character to life
+from scalping. After regenerating in this fashion, the material component
+becomes the spellcaster's new scalp token.
 
 [__Regeneration__ (5th Circle)]{#regeneration-spell}
 
-Uses: 2 - Verbal: 30 words - Active: Spellcaster must sit on the ground with weapons a minimum of 10 feet away while casting this spell - Caveats: Regeneration, Advanced Regeneration, Spell Failure
+__Uses:__ 2 - __Verbal:__ 30 words - __Active:__ Spellcaster must sit on the
+ground with weapons a minimum of 10 feet away while casting this spell -
+__Caveats:__ [Regeneration](#regeneration-caveat), [Advanced
+Regeneration](#advanced-regeneration), [Spell Failure](#spell-failure)
 
-
-This spell grants the spellcaster an advanced regeneration. If you have learned this spell twice, you may cast a Raise Dead to "recharge" one usage. These recharges cannot come from Circle of Healing, or any other raising effects other than the Raise Dead spell.
+This spell grants the spellcaster an [advanced
+regeneration](#advanced-regeneration). If you have learned this spell twice, you
+may cast a [Raise Dead](#raise-dead) to "recharge" one usage. These recharges
+cannot come from [Circle of Healing](#circle-of-healing), or any other raising
+effects other than the [Raise Dead](#raise-dead) spell.
 
 [__Repair Armor__ (1st Circle)]{#repair-armor}
 
-Uses: 5 - Material: Disposable or focus - Active: Hold armor and MC for 15 second count
+__Uses:__ 5 - __Material:__ Disposable or focus - __Active:__ Hold armor and MC
+for 15 second count
 
-
-This spell will repair one hit location of armor. The AC should simulate physically repairing the armor, such as tapping it with a focus, like a boff-hammer.
+This spell will repair one hit location of armor. The AC should simulate
+physically repairing the armor, such as tapping it with a focus, like a
+boff-hammer.
 
 [__Repair Item__ (2nd Circle)]{#repair-item}
 
-Uses: 5 - Verbal: 20 words - Active: Touch the target item with both hands
+__Uses:__ 5 - __Verbal:__ 20 words - __Active:__ Touch the target item with both
+hands
 
-
-This spell repairs any one normal object. It cannot be cast upon an item with a special property, such as a magic item. It can be cast to repair a weapon, shield, bow, or armor. It will repair all pieces of armor worn by someone that can be legally called in one casting. The spellcaster may have nothing else in their hands while casting this spell.
+This spell repairs any one normal object. It cannot be cast upon an item with a
+special property, such as a [magic item](#magic-item-rules). It can be cast to
+repair a weapon, shield, bow, or armor. It will repair all pieces of armor worn
+by someone that can be legally called in one casting. The spellcaster may have
+nothing else in their hands while casting this spell.
 
 [__Resist Death__ (6th Circle)]{#resist-death}
 
-Uses: Unlimited, one at a time - Verbal: 30 words - Material: Spell Sash - Active: 
-Kneel or lie on back, no weapons in hand. - Caveats: Enchanted Items, Spell Sash
+__Uses:__ Unlimited, one at a time - __Verbal:__ 30 words - __Material:__ Spell
+Sash - __Active:__ Kneel or lie on back, no weapons in hand. - __Caveats:__
+[Enchanted Items](#enchanted-items), [Spell Sash](#spell-sash)
 
-
-The spellcaster is protected from any damaging attack for 1 hit. The call for this is "Resist Death." The spellcaster can choose when to utilize this effect.
+The spellcaster is protected from any damaging attack for 1 hit. The call for
+this is "Resist Death." The spellcaster can choose when to utilize this effect.
 
 [__Resist Magic__ (5th Circle)]{#resist-magic}
 
-Uses: 3 - Verbal: 20 words
+__Uses:__ 3 - __Verbal:__ 20 words
 
-
-This spell prepares a burst of null-magic within the spellcaster. If the spellcaster so desires, they may ignore a single magical effect. This ability can be used at any time, whether the spellcaster is dead or not. A spellcaster may not be under the effect of more than one Resist Magic spell at the same time. When targeted by a spell or effect against which Resist Magic protects them and the spellcaster wishes to ignore the effect, they call "Resist Magic." This spell will allow the spellcaster to treat a blow from a magic weapon as if it were a normal weapon blow, ignore the effect of any spell when it is first cast, or cross the boundary of a Circle of Protection. The spell ends if the spell Disenchant is cast upon the spellcaster (although the spellcaster can use the Resist Magic to prevent the Disenchant from removing any other spells upon them). This spell cannot be cast on anyone other than the spellcaster and will only protect the spellcaster, not anything they have or possess.
+This spell prepares a burst of null-magic within the spellcaster. If the
+spellcaster so desires, they may ignore a single magical effect. This ability
+can be used at any time, whether the spellcaster is dead or not. A spellcaster
+may not be under the effect of more than one Resist Magic spell at the same
+time. When targeted by a spell or effect against which Resist Magic protects
+them and the spellcaster wishes to ignore the effect, they call "Resist Magic."
+This spell will allow the spellcaster to treat a blow from a magic weapon as if
+it were a normal weapon blow, ignore the effect of any spell when it is first
+cast, or cross the boundary of a [Circle of Protection](#circle-of-protection).
+The spell ends if the spell [Disenchant](#disenchant) is cast upon the
+spellcaster (although the spellcaster can use the Resist Magic to prevent the
+[Disenchant](#disenchant) from removing any other spells upon them). This spell
+cannot be cast on anyone other than the spellcaster and will only protect the
+spellcaster, not anything they have or possess.
 
 [__Ritual of Banishment__ (6th Circle)]{#ritual-of-banishment}
 
-Uses: Special, see below - Verbal: 40 words in "burst" form, otherwise special, see below
+__Uses:__ Special, see below - __Verbal:__ 40 words in "burst" form, otherwise
+special, see below
 
+This spell allows the spellcaster to use their knowledge of magic and the planes
+to shift a creature back to its home dimension or to scatter the magic of a
+being. The spellcaster has two ways of performing this ritual. If not given time
+to prepare a stronger ritual, the spellcaster may simply use this spell in a
+"burst" fashion. To do so, the spellcaster must get the attention of the
+creature and say the 40 words, which must begin with "I banish you to the place
+from which you came..." During the casting of the spell, the spellcaster is
+still open to any retaliation from the creature being banished.
 
-This spell allows the spellcaster to use their knowledge of magic and the planes to shift a creature back to its home dimension or to scatter the magic of a being. The spellcaster has two ways of performing this ritual. If not given time to prepare a stronger ritual, the spellcaster may simply use this spell in a "burst" fashion. To do so, the spellcaster must get the attention of the creature and say the 40 words, which must begin with "I banish you to the place from which you came..." During the casting of the spell, the spellcaster is still open to any retaliation from the creature being banished.
+If given more time, the spellcaster can craft a more potent spell to send a
+creature to its home plane or strip the being of magics, potentially weakening
+it in the process. The player may do so by performing a ritual in front of the
+MM or EH. By reading the available magic and essences of the creature, this
+ritual may grant the spellcaster knowledge and further steps that can be taken
+to banish or weaken the creature, possibly leading to the final incantation.
+After the initial casting of the ritual, this spell is unleashed when the
+spellcaster uses the researched magic upon the creature. The prepared spell may
+only be good for one attempt, whether successful or not. Greater success in
+crafting this magic may be achieved through knowledge of the True Name of the
+creature, a physical or magical part of it or through a particularly potent
+ritual.
 
-
-If given more time, the spellcaster can craft a more potent spell to send a creature to its home plane or
-
- strip the being of magics, potentially weakening it in the process. The player may do so by performing a ritual in front of the MM or EH. By reading the available magic and essences of the creature, this ritual may grant the spellcaster knowledge and further steps that can be taken to banish or weaken the creature, possibly leading to the final incantation. After the initial casting of the ritual, this spell is unleashed when the spellcaster uses the researched magic upon the creature. The prepared spell may only be good for one attempt, whether successful or not. Greater success in crafting this magic may be achieved through knowledge of the True Name of the creature, a physical or magical part of it or through a particularly potent ritual.
-
-
-Players who use drama and theatrics in their ritual are more likely of achieving better results. This spell will only function upon NPCs. Once this spell is attempted upon a creature, either in short or long formats, the spellcaster may not cast this spell again for an hour. You are encouraged to use a small timepiece to keep track of this time. Creatures that are shown to be too powerful from the preparation ritual do not weaken the spellcaster. You may not begin a preparation ritual on the same day as an uncompleted previous spell. Upon completion of a more in-depth ritual, the spellcaster should ask the EH or MM how long this spell is exhausted for, which may be the rest of the day. If you know this spell, you must inform the EH or MM at check-in.
-
+Players who use drama and theatrics in their ritual are more likely of achieving
+better results. This spell will only function upon NPCs. Once this spell is
+attempted upon a creature, either in short or long formats, the spellcaster may
+not cast this spell again for an hour. You are encouraged to use a small
+timepiece to keep track of this time. Creatures that are shown to be too
+powerful from the preparation ritual do not weaken the spellcaster. You may not
+begin a preparation ritual on the same day as an uncompleted previous spell.
+Upon completion of a more in-depth ritual, the spellcaster should ask the EH or
+MM how long this spell is exhausted for, which may be the rest of the day. If
+you know this spell, you must inform the EH or MM at check-in.
 
 [__Séance__ (4th Circle)]{#seance}
 
-Uses: 1 - Verbal: 20 words to start - Material: 3-minute hourglass/timer.
+__Uses:__ 1 - __Verbal:__ 20 words to start - __Material:__ 3-minute
+hourglass/timer.
 
+This spell allows the spellcaster to have an extended discussion with a spirit,
+either one of another world or of a scalped character. Upon informing the EH or
+MM of their intent to cast this spell, the spellcaster must start the ritual by
+flipping the hourglass. If the spirit does not arrive within the first three
+minutes, then the casting is not used. If the spirit arrives, let the glass run
+out and flip it again. The spellcaster and spirit may then speak freely until
+all the sands have fallen. If the spirit stays longer than three minutes, the
+spellcaster may continue to converse with it. Please note that this spell does
+not change any behavior on the part of the spirit, and it may choose not to
+talk.
 
-This spell allows the spellcaster to have an extended discussion with a spirit, either one of another world or of a scalped character. Upon informing the EH or MM of their intent to cast this spell, the spellcaster must start the ritual by flipping the hourglass. If the spirit does not arrive within the first three minutes, then the casting is not used. If the spirit arrives, let the glass run out and flip it again. The spellcaster and spirit may then speak freely until all the sands have fallen. If the spirit stays longer than three minutes, the spellcaster may continue to converse with it. Please note that this spell does not change any behavior on the part of the spirit, and it may choose not to talk.
-
-
-Whether a scalped character can answer is entirely up to the discretion of the EH or MM, who must be present for the ritual. This spell in no way grants the knowledge of the circumstances of a scalped character’s death. If they are allowed to be contacted, the scalped PC can still refuse to answer, is not compelled to speak, can lie or tell the truth freely, and can end the séance at any time. A PC contacted with a séance must leave after three minutes.
+Whether a scalped character can answer is entirely up to the discretion of the
+EH or MM, who must be present for the ritual. This spell in no way grants the
+knowledge of the circumstances of a scalped character’s death. If they are
+allowed to be contacted, the scalped PC can still refuse to answer, is not
+compelled to speak, can lie or tell the truth freely, and can end the séance at
+any time. A PC contacted with a séance must leave after three minutes.
 
 [__Second Chance__ (6th Circle)]{#second-chance}
 
-Uses: 1 - Verbal: 30 words - Material: A token with the spellcaster's name
+__Uses:__ 1 - __Verbal:__ 30 words - __Material:__ A token with the
+spellcaster's name
 
+This spell allows the spellcaster to recover once, even from the most grievous
+of wounds and situations.
 
-This spell allows the spellcaster to recover once, even from the most grievous of wounds and situations.
+Upon casting this spell, the spellcaster must give their token to the MM. At any
+time afterwards, the spellcaster may activate the spell, which removes them from
+play. They must then go find the MM. All stealable items in possession of the
+spellcaster must be left behind. This spell may be activated even if the
+spellcaster is dead or scalped.
 
-Upon casting this spell, the spellcaster must give their token to the MM. At any time afterwards, the spellcaster may activate the spell, which removes them from play. They must then go find the MM. All stealable items in possession of the spellcaster must be left behind. This spell may be activated even if the spellcaster is dead or scalped.
-
-
-The MM will then place them somewhere on site (location determined by the MM) and return the token. Upon being placed, the spellcaster is alive and unwounded, and is given back their soul if they were scalped.
+The MM will then place them somewhere on site (location determined by the MM)
+and return the token. Upon being placed, the spellcaster is alive and unwounded,
+and is given back their soul if they were scalped.
 
 [__Seed of Life__ (6th Circle)]{#seed-of-life}
 
-Uses: Unlimited, while spellcaster has MC handy - Verbal: 30 words and an explanation - Material: 1 token with the spellcaster's name and the words "Seed of Life" on it - Caveats: Regeneration, Basic Regeneration
+__Uses:__ Unlimited, while spellcaster has MC handy - __Verbal:__ 30 words and
+an explanation - __Material:__ 1 token with the spellcaster's name and the words
+"Seed of Life" on it - __Caveats:__ [Regeneration](#regeneration-caveat), [Basic
+Regeneration](#basic-regeneration)
 
+When cast on a dead body, this spell grants the recipient a basic regeneration.
+The spellcaster must hand the MC to the recipient when the spell is cast. The
+spellcaster may choose to remain with the target, and as long as the spellcaster
+continuously recites the verbal (explanation not required) and keeps two hands
+touching the target, the target will regenerate in 60 seconds instead. If the
+spellcaster stops the verbal or breaks contact the spell will continue as normal
+and the target will take the full 120 seconds to regenerate.
 
-When cast on a dead body, this spell grants the recipient a basic regeneration. The spellcaster must hand the MC to the recipient when the spell is cast. The spellcaster may choose to remain with the target, and as long as the spellcaster continuously recites the verbal (explanation not required) and keeps two hands touching the target, the target will regenerate in 60 seconds instead. If the spellcaster stops the verbal or breaks contact the spell will continue as normal and the target will take the full 120 seconds to regenerate.
-
-
-Once the spell ends, the recipient should return the MC to the spellcaster as soon as reasonably possible. Other than this, the MC is neither stealable nor transferable in any way. If the recipient is scalped, returned to life, or raised as undead, the spell ends. If the recipient is diseased, this spell will also cure them of their disease upon completion of the spell (although the regeneration time will still be doubled from the effects of the disease). This spell has no effect on the undead.
+Once the spell ends, the recipient should return the MC to the spellcaster as
+soon as reasonably possible. Other than this, the MC is neither stealable nor
+transferable in any way. If the recipient is scalped, returned to life, or
+raised as undead, the spell ends. If the recipient is diseased, this spell will
+also cure them of their disease upon completion of the spell (although the
+regeneration time will still be doubled from the effects of the disease). This
+spell has no effect on the undead.
 
 [__Shapeshifting__ (4th Circle)]{#shapeshifting}
 
-Uses: 2 - Material: Makeup and/or mask and any disguise garb - Active: Change into disguise - Caveats:  Enchanted Items
+__Uses:__ 2 - __Material:__ Makeup and/or mask and any disguise garb -
+__Active:__ Change into disguise - __Caveats:__ [Enchanted
+Items](#enchanted-items)
 
+This allows the spellcaster to shapeshift into a humanoid monster of about their
+height and size. This transformation takes as long to complete as it takes the
+player to change into the appropriate disguise outfit. The type and features of
+the monster are up to the player. Once the shapeshifting is complete, the player
+will respond to the spell [Identify](#identify) as the new type of monster. This
+spell will mimic a general monster type, and cannot accurately impersonate a
+named or unique monster, or appear to be another PC. You are free however, to
+attempt to convince your victims that you are more important than you actually
+are.
 
-This allows the spellcaster to shapeshift into a humanoid monster of about their height and size. This transformation takes as long to complete as it takes the player to change into the appropriate disguise outfit. The type and features of the monster are up to the player. Once the shapeshifting is complete, the player will respond to the spell Identify as the new type of monster. This spell will mimic a general monster type, and cannot accurately impersonate a named or unique monster, or appear to be another PC. You are free however, to attempt to convince your victims that you are more important than you actually are.
+The shapeshifted form confers no combat benefit or other NPC power, though they
+can appear to wear armor or carry larger weapons to complete the disguise. You
+may in no way signal to NPCs that you are NPCing. The shapeshifted form ends if
+you are killed or if any part of your disguise is disenchanted (see
+[Disenchant](#disenchant)).
 
-
-The shapeshifted form confers no combat benefit or other NPC power, though they can appear to wear armor or carry larger weapons to complete the disguise. You may in no way signal to NPCs that you are NPCing. The shapeshifted form ends if you are killed or if any part of your disguise is disenchanted (see Disenchant).
-
-
-In addition, at the door of the event, the player is allowed to ask the EH or MM to borrow an appropriate mask for the event in order to complete the illusion. There is no guarantee that they will be able to provide the materials, so you should bring your own.
-
+In addition, at the door of the event, the player is allowed to ask the EH or MM
+to borrow an appropriate mask for the event in order to complete the illusion.
+There is no guarantee that they will be able to provide the materials, so you
+should bring your own.
 
 [__Skew Divination__ (3rd Circle)]{#skew-divination}
-Uses: 2 - Verbal: 30 words - Material: Scroll with a name of an item, person, group, place, or situation - Active: Give scroll to MM
+__Uses:__ 2 - __Verbal:__ 30 words - __Material:__ Scroll with a name of an
+item, person, group, place, or situation - __Active:__ Give scroll to MM
 
-
-This spell will alter the next Guidance, Fortune Tell, Precognition, Find the Path, Foretell, Séance, Vision, or Prophecy spell cast about the target at that event, giving them misinformation. How much the spell is altered is up to the MM. To cast this spell the spellcaster must write the name of the target (item, person, group, place, or situation) on a scroll, sign the scroll, and give the scroll to the MM.
+This spell will alter the next [Guidance](#guidance), [Fortune
+Tell](#fortune-tell), [Precognition](#precognition), [Find the
+Path](#find-the-path), [Foretell](#foretell), [Séance](#seance),
+[Vision](#vision), or [Prophecy](#prophecy) spell cast about the target at that
+event, giving them misinformation. How much the spell is altered is up to the
+MM. To cast this spell the spellcaster must write the name of the target (item,
+person, group, place, or situation) on a scroll, sign the scroll, and give the
+scroll to the MM.
 
 [__Soul Bane__ (3rd Circle)]{#soul-bane}
 
