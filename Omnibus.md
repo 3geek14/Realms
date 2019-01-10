@@ -1145,12 +1145,12 @@ getting hurt OOC.
 
 ### Out-of-Character-Only Terms ###
 
-There are a few terms that should only be used when speaking OOC: “Hold” and
-“Medic.” Hold is only used in emergencies as it stops the game. Read [Section
+There are a few terms that should only be used when speaking OOC: "Hold" and
+"Medic." Hold is only used in emergencies as it stops the game. Read [Section
 2.3: The Safety Rules](#the-safety-rules) for more information on the correct
 use of the word Hold. Medic is used when someone needs immediate real-world
 medical attention for any reason: an allergic reaction to a bee-sting, a twisted
-ankle, an asthma attack, etc. Do not call “Medic” for imaginary (IC) injuries.
+ankle, an asthma attack, etc. Do not call "Medic" for imaginary (IC) injuries.
 If you need IC medical attention, call "Healer!"
 
 ### Out-of-Play Areas and Time-Out ###
@@ -2184,8 +2184,8 @@ get their spellbook checked in and signed by the Event Holder or their
 designated Magic Marshal(s). This signature counts for the signature
 requirements for all spells the PC grandfathers at this event.
 
-All spells known after grandfathering may be added to the spellcaster's “Spell
-Mastery” section, in addition to the list they had before grandfathering (if
+All spells known after grandfathering may be added to the spellcaster's "Spell
+Mastery" section, in addition to the list they had before grandfathering (if
 any).
 
 ## 6.6: The Spells ## {#the-spells}
@@ -2443,7 +2443,7 @@ utilize the special call with it. The weapon is one-handed, but may not be used
 in conjunction with another weapon or shield by the spellcaster. If the MC is IC
 broken, it will retain its magical properties if repaired.
 
-In addition, any scalping blow dealt by an Assassin’s Blade counts as two blows
+In addition, any scalping blow dealt by an Assassin's Blade counts as two blows
 dealt.
 
 [__Aura of Protection__ (2nd Circle)]{#aura-of-protection}
@@ -2453,8 +2453,8 @@ __Material:__ Spell Sash - __Active:__ Kneel or lie on back, no weapons in hand
 - __Caveats:__ [Enchanted Items](#enchanted-items), [Spell Sash](#spell-sash)
 
 The recipient of this spell lessens the effect of the next hit they take from a
-call of “Magic,” “Silver,” “Disease,” “Armor-Piercing,” “Lightning Bolt,” or
-“Poison.” Rather than taking the effect they were hit with, the recipient of the
+call of "Magic," "Silver," "Disease," "Armor-Piercing," "Lightning Bolt," or
+"Poison." Rather than taking the effect they were hit with, the recipient of the
 spell takes the blow as a normal sword blow instead. It is necessary to call
 "Protection" when the spell activates.
 
@@ -2517,7 +2517,7 @@ This spell allows the spellcaster to create a Circle of Healing. The spellcaster
 may name the circle with [Cure Disease](#cure-disease), [Heal Limb](#heal-limb),
 or [Raise Dead](#raise-dead), chosen at the time of casting. Until the Circle of
 Healing is broken, the spellcaster need only stand in the circle, touch the
-recipient of the healing spell, and recite the named spell’s VC to cast the
+recipient of the healing spell, and recite the named spell's VC to cast the
 spell. This does not use up any castings of the named healing spell, and can be
 done as many times as desired. No one but the spellcaster may use the Circle of
 Healing in this manner. This spell is broken if a weapon crosses the plane of
@@ -2634,7 +2634,7 @@ Enables the spellcaster to see and hear while they are dead. You may not speak
 or move while dead, except for addressing marshaling calls or OOC
 unsafe/uncomfortable situations. If the spellcaster is scalped, all memories
 acquired through the current casting of Death Watch are erased (i.e., all
-memories acquired from the time of your PC’s last death).
+memories acquired from the time of your PC's last death).
 
 [__Death Wish__ (4th Circle)]{#death-wish}
 
@@ -2836,7 +2836,7 @@ Items](#enchanted-items)
 
 This spell gives the spellcaster the ability to temporarily enchant a weapon or
 bow. After preparing it with the spell, the weapon user must call
-“[Magic](#magic-call)” or “[Silver](#silver)” the next 3 times they swing that
+"[Magic](#magic-call)" or "[Silver](#silver)" the next 3 times they swing that
 weapon or fire that bow. The caster chooses which option, Magic or Silver, upon
 casting the spell, and must inform the recipient which option they are imbuing
 it with. These calls are expended whether the user scores a successful hit or
@@ -2848,7 +2848,7 @@ __Uses:__ 2 - __Verbal:__ 30 words, starting with "I declare you mundane ..."
 
 This spell allows the spellcaster to remove the special powers and abilities
 from a single NPC creature. To cast the spell, the spellcaster must get the
-creature’s attention and begin the verbal. Once the spell is completed, the
+creature's attention and begin the verbal. Once the spell is completed, the
 target loses all special powers and abilities. This includes natural armor,
 spells, regeneration, etc. Because this is a relatively low-circle spell, it
 will probably not affect more powerful creatures, such as unique enemies or the
@@ -2936,7 +2936,7 @@ This spell must be cast on a non-spellcaster by placing the sash on the fighter
 and giving an explanation of how it works. This does not make the fighter an
 enchanted being.
 
-This fighter may now call out “Fighter’s Intuition” once. When the fighter does
+This fighter may now call out "Fighter's Intuition" once. When the fighter does
 this, they may or may not learn information about a monster they can see. It is
 up to the event staff to decide to provide this information or not. The
 information can be anything: weakness, methods of defeating, or even what the
@@ -3023,7 +3023,7 @@ __Uses:__ 2 - __Material:__ Divining paraphernalia to indicate a yes/no answer
 This spell allows the spellcaster to ask the EH or MM a yes/no question. If the
 EH or MM does not know the answer because the question asked relates to PC
 actions, an answer may not be given but the spell is still used. An answer will
-be given in the form of “Yes” or “No” by the EH or MM. If the spell is cast and
+be given in the form of "Yes" or "No" by the EH or MM. If the spell is cast and
 an answer cannot be given because of any of the above limitations, the casting
 is still used up.
 
@@ -3035,7 +3035,7 @@ stationary, must touch the target limb
 This spell allows the spellcaster to heal one damaged limb at a time. The
 spellcaster must recite the VC while touching the recipient's injured limb. The
 spellcaster cannot move their feet while casting this spell, although they may
-be moving their arms (e.g., parrying, so long as they don’t step backwards).
+be moving their arms (e.g., parrying, so long as they don't step backwards).
 
 [__Heartiness__ (1st Circle)]{#heartiness}
 
@@ -3117,9 +3117,9 @@ Gain the following abilities for 1 point each:
   while holding their implement with both hands."
 * When using a Circle spell you may double the length of the rope. This may only
   be done once.
-* The AC for [Death Watch](#death-watch) is changed to “Spellcaster must kneel
+* The AC for [Death Watch](#death-watch) is changed to "Spellcaster must kneel
   on one knee holding their Implement with both hands for 60 seconds before
-  being killed.” The requirement for recasting the spell is also removed.
+  being killed." The requirement for recasting the spell is also removed.
 * The spell [Death Watch](#death-watch) allows the caster to move their head
   while dead. They still may not speak, try to communicate, or move in any other
   way while dead.
@@ -3186,7 +3186,7 @@ recognize it, and how to respond to it. It is a first circle spell.
 
 [__Lightning Bolt__ (6th Circle)]{#lightning-bolt-spell}
 
-__Uses:__ 1 prop, unlimited use - __Verbal:__ “Lightning Bolt” - __Material:__ 1
+__Uses:__ 1 prop, unlimited use - __Verbal:__ "Lightning Bolt" - __Material:__ 1
 white boff arrow or javelin prop between 2'6" and 3'6" long - __Caveats:__
 [Combat Calls](#combat-calls-caveat)
 
@@ -3234,8 +3234,8 @@ spellcaster.
 [__Masterwork Hammer__ (6th Circle)]{#masterwork-hammer}
 
 __Uses:__ 1 - __Verbal:__ 50 words - __Material:__ A boff hammer up to 3' in
-length with "[Event-Stealable](#event-stealable)," "Masterwork Hammer,” and the
-spellcaster’s name written on it - __Active:__ Special - __Caveats:__ [Enchanted
+length with "[Event-Stealable](#event-stealable)," "Masterwork Hammer," and the
+spellcaster's name written on it - __Active:__ Special - __Caveats:__ [Enchanted
 Items](#enchanted-items)
 
 This spell creates a Masterwork Hammer which swings [magic](#magic-call). The
@@ -3257,7 +3257,7 @@ This spell allows the spellcaster to create a Mystic Forge. The spellcaster may
 name the circle with [Enchant Weapon](#enchant-weapon) or [Repair
 Item](#repair-item), chosen at the time of casting. Until the Mystic Forge is
 broken, the spellcaster need only stand in the circle, touch the target item,
-and recite the named spell’s VC to cast the spell. This does not use up any
+and recite the named spell's VC to cast the spell. This does not use up any
 castings of the named spell, and this can be done as many times as desired. No
 one but the spellcaster may use the Mystic Forge in this manner.
 
@@ -3396,7 +3396,7 @@ options when casting the spell. Each option has its own effects and requirements
 for casting the spell that must be met for the spell to be successfully cast.
 
 _Silver Weapon:_ this option will allow the spellcaster to create a permanent
-silver weapon. This option has an additional MC of the weapon’s weight in silver
+silver weapon. This option has an additional MC of the weapon's weight in silver
 coins (plain aluminum roofing tins, aluminum "Coin of the Realm," etc.). The
 spellcaster must write the words "Silver" and "Stealable" on the blade of the
 weapon. The spellcaster should also write "Silvered by" and the spellcaster's
@@ -3565,7 +3565,7 @@ talk.
 
 Whether a scalped character can answer is entirely up to the discretion of the
 EH or MM, who must be present for the ritual. This spell in no way grants the
-knowledge of the circumstances of a scalped character’s death. If they are
+knowledge of the circumstances of a scalped character's death. If they are
 allowed to be contacted, the scalped PC can still refuse to answer, is not
 compelled to speak, can lie or tell the truth freely, and can end the séance at
 any time. A PC contacted with a séance must leave after three minutes.
@@ -3653,126 +3653,223 @@ scroll to the MM.
 
 [__Soul Bane__ (3rd Circle)]{#soul-bane}
 
-Uses: 1 - Active: Scalp a dead body. Following the final scalping blow the spellcaster says "Soul Bane."
+__Uses:__ 1 - __Active:__ Scalp a dead body. Following the final scalping blow
+the spellcaster says "Soul Bane."
 
-
-This spell alters the next Call the Soul cast on the target by reversing which object is successful and unsuccessful. The spellcaster must inform the MM who they scalped and cast Soul Bane on as soon possible. The effect triggers the next time the target's soul is called. The spell ends after the first Call the Soul, whether it was successful or not. Only one Soul Bane can be active on a person at a time.
+This spell alters the next [Call the Soul](#call-the-soul) cast on the target by
+reversing which object is successful and unsuccessful. The spellcaster must
+inform the MM who they scalped and cast Soul Bane on as soon possible. The
+effect triggers the next time the target's soul is called. The spell ends after
+the first [Call the Soul](#call-the-soul), whether it was successful or not.
+Only one Soul Bane can be active on a person at a time.
 
 [__Speak__ (1st Circle)]{#speak}
 
-Uses: 2 - Verbal: "Speak, friend... " - Material: An offering for the creature to be spoken with - Active: The spellcaster approaches the creature with no weapons and with an offering in plain sight, and hands it to the monster
+__Uses:__ 2 - __Verbal:__ "Speak, friend... " - __Material:__ An offering for
+the creature to be spoken with - __Active:__ The spellcaster approaches the
+creature with no weapons and with an offering in plain sight, and hands it to
+the monster
 
-
-This spell allows the spellcaster to approach a creature and present an offering to them. If the offering is taken, the creature now has the ability to speak and understand the language of the spellcaster. This ability lasts until the creature is no longer in possession of the offering. No creature approached has to take the offering, nor is there any guarantee that the creature will speak to you.
+This spell allows the spellcaster to approach a creature and present an offering
+to them. If the offering is taken, the creature now has the ability to speak and
+understand the language of the spellcaster. This ability lasts until the
+creature is no longer in possession of the offering. No creature approached has
+to take the offering, nor is there any guarantee that the creature will speak to
+you.
 
 [__Speak with Dead__ (1st Circle)]{#speak-with-dead}
 
-Uses: 10 - Verbal: An explanation, followed by a question - Caveats: Compulsion
+__Uses:__ 10 - __Verbal:__ An explanation, followed by a question - __Caveats:__
+[Compulsion](#compulsion)
 
-
-This spell allows the spellcaster to ask a corpse one "yes or no" question. The corpse may only answer "Yes," "No," or "Abstain," and it may not lie. An abstention means that the spirit cannot or does not want to answer the question. Before asking the questions, the spellcaster must explain to the corpse's player what the acceptable responses are and that the character may not lie.
+This spell allows the spellcaster to ask a corpse one "yes or no" question. The
+corpse may only answer "Yes," "No," or "Abstain," and it may not lie. An
+abstention means that the spirit cannot or does not want to answer the question.
+Before asking the questions, the spellcaster must explain to the corpse's player
+what the acceptable responses are and that the character may not lie.
 
 [__Strange Brew__ (1st Circle)]{#strange-brew}
 
-Uses: Special, see Alchemy - Caveats: Potions
+__Uses:__ Special, see [Alchemy](#alchemy) - __Caveats:__
+[Potions](#potions-caveat)
 
+You may create 2 additional types of potions listed below using
+[Alchemy](#alchemy). Upon learning Strange Brew, you must write down the potions
+you are choosing to learn and their specific rules:
 
-You may create 2 additional types of potions listed below using Alchemy. Upon learning Strange Brew, you must write down the potions you are choosing to learn and their specific rules:
-
-
-Potion of Acid (5 Points): Deals 200 blows to a body, only usable on non-living objects.
-Potion of Combat Raise Dead (4 Points): Raises a dead character, healing all of their injured limbs.
-Potion of Heal Limb (1 Point): Heals all damaged limbs of a living recipient
-Potion of Cure Disease (1 Point): Cures the target of all disease.
-Potion of Disenchant (3 Points): Disenchants an enchanted or magic item, as per the spell, Disenchant.
-Potion of Soul Snare (5 Points): Recipient’s soul is returned to them as if the spell Call the Soul was successfully cast on them and their soul was called.The MM must be present for this potion to be used.
-Potion of Animate Undead (5 Points): Animates a corpse as per the spell Animate Undead. The spellcaster must also provide the necessary material requirements of that spell for when the potion is administered. Treat the person who applies this potion as the controller of the undead.
-Potion of Animate Lesser Undead (2 Points): Animates a corpse as per spell the Animate Lesser Undead. The spellcaster must also provide the necessary material requirements of that spell for when the potion is administered. Treat the person who applies this potion as the controller of the undead.
+* Potion of Acid (5 Points): Deals 200 blows to a body, only usable on
+  non-living objects.
+* Potion of Combat Raise Dead (4 Points): Raises a dead character, healing all
+  of their injured limbs.
+* Potion of Heal Limb (1 Point): Heals all damaged limbs of a living recipient
+* Potion of Cure Disease (1 Point): Cures the target of all disease.
+* Potion of Disenchant (3 Points): Disenchants an enchanted or magic item, as
+  per the spell, [Disenchant](#disenchant).
+* Potion of Soul Snare (5 Points): Recipient's soul is returned to them as if
+  the spell [Call the Soul](#call-the-soul) was successfully cast on them and
+  their soul was called. The MM must be present for this potion to be used.
+* Potion of Animate Undead (5 Points): Animates a corpse as per the spell
+  [Animate Undead](#animate-undead). The spellcaster must also provide the
+  necessary material requirements of that spell for when the potion is
+  administered. Treat the person who applies this potion as the controller of
+  the undead.
+* Potion of Animate Lesser Undead (2 Points): Animates a corpse as per spell the
+  [Animate Lesser Undead](#animate-lesser-undead). The spellcaster must also
+  provide the necessary material requirements of that spell for when the potion
+  is administered. Treat the person who applies this potion as the controller of
+  the undead.
 
 This does not grant any points to alchemy.
 
 [__Transformation__ (6th Circle)]{#transformation}
 
-Uses: 2 - Material: A pair of Transformation Claws - Caveats: Regeneration, Advanced Regeneration, Suspension
-
+__Uses:__ 2 - __Material:__ A pair of Transformation Claws - __Caveats:__
+[Regeneration](#regeneration-caveat), [Advanced
+Regeneration](#advanced-regeneration), [Suspension](#suspension)
 
 The spellcaster releases their inner nature. The effect is a transformation.
+Each individual spellcaster may have a different form, but that form is
+consistent to the spellcaster (i.e., Matt's altered form is different than
+Sally's, but Matt's altered form is always the same any time he shifts to it).
+The spell must be unlearned to alter that form.
 
-Each individual spellcaster may have a different form, but that form is consistent to the spellcaster (i.e., Matt's altered form is different than Sally's, but Matt's altered form is always the same any time he shifts to it). The spell must be unlearned to alter that form.
+A complete description of the altered form must be in the spell description. The
+spellcaster must alter their appearance when in the transformed state. They must
+wear a different tabard, makeup, prosthetics, mask, or some other major
+signifying indicator that they are "not quite right." Details should also be
+listed in the spellcaster's spellbook.
 
-
-A complete description of the altered form must be in the spell description. The spellcaster must alter their appearance when in the transformed state. They must wear a different tabard, makeup, prosthetics, mask, or some other major signifying indicator that they are "not quite right." Details should also be listed in the spellcaster's spellbook.
-
-
-Any potions or other spells with a lingering effect cast by the spellcaster are suspended when they transform. The suspension ends when the spellcaster reverts to their common form.
-
+Any potions or other spells with a lingering effect cast by the spellcaster are
+suspended when they transform. The suspension ends when the spellcaster reverts
+to their common form.
 
 All altered forms have the following advantages/disadvantages:
 
-Has the use of florentine claws, 18" maximum. Cannot use any other weapons. Claws must be of matched length. Cannot use or manipulate anything except with those claws (after all, they're the end of their hands). These claws do not break the spellcaster's weapon length restriction.
-The claws are physical representations for the spell, and are not really there until the spell is cast. They cannot be used by anyone other than the spellcaster, and they may only use them when under the effects of the spell. The claws must be clearly labeled with the phrase "Transformation Claws" and the spellcaster's name. The claws are not considered weapons for the purpose of Spell Failure. Furthermore, they are unbreakable and immune to the effect of a boulder, though the spellcaster is killed as normal if struck in the claws.
-Cannot cast any spells while in altered form, except those granted as part of the Transformation.
-The spellcaster may revert back to their common form, ending the spell at any time.
+* Has the use of florentine claws, 18" maximum. Cannot use any other weapons.
+  Claws must be of matched length. Cannot use or manipulate anything except with
+  those claws (after all, they're the end of their hands). These claws do not
+  break the spellcaster's weapon length restriction.
+* The claws are physical representations for the spell, and are not really there
+  until the spell is cast. They cannot be used by anyone other than the
+  spellcaster, and they may only use them when under the effects of the spell.
+  The claws must be clearly labeled with the phrase "Transformation Claws" and
+  the spellcaster's name. The claws are not considered weapons for the purpose
+  of Spell Failure. Furthermore, they are unbreakable and immune to the effect
+  of a boulder, though the spellcaster is killed as normal if struck in the
+  claws.
+* Cannot cast any spells while in altered form, except those granted as part of
+  the Transformation.
+* The spellcaster may revert back to their common form, ending the spell at any
+  time.
 
 A spellcaster has 7 points to construct their altered form:
 
-
 Armor Options:
 
-Natural Armor: 1 point. Grants light armor on all hit locations. Can only be purchased once. Cannot be used in conjunction with Regenerating Armor.
-Regenerating Armor: 3 points. Grants light armor on all hit locations, which can be regenerated. Can only be purchased once. To activate the regenerating effect, the spellcaster must lie on their back without attacking. Once so positioned, the spellcaster must remain still for 10 seconds per damaged hit location (repairing every hit location would take 70 seconds). If interrupted before all damaged hit locations are repaired, the effect fails with no armor points regenerated. Cannot be used in conjunction with Natural Armor.
-Both armor options may be repaired by casting Repair Item.
+* _Natural Armor:_ 1 point. Grants light armor on all hit locations. Can only be
+  purchased once. Cannot be used in conjunction with Regenerating Armor.
+* _Regenerating Armor:_ 3 points. Grants light armor on all hit locations, which
+  can be regenerated. Can only be purchased once. To activate the regenerating
+  effect, the spellcaster must lie on their back without attacking. Once so
+  positioned, the spellcaster must remain still for 10 seconds per damaged hit
+  location (repairing every hit location would take 70 seconds). If interrupted
+  before all damaged hit locations are repaired, the effect fails with no armor
+  points regenerated. Cannot be used in conjunction with Natural Armor.
 
+Both armor options may be repaired by casting [Repair Item](#repair-item).
 
 Weapon Upgrades:
 
-1 point for 2' claws.
-2 points for 2'6" claws.
-3 points for 3' claws.
-4 points for 3'6" claws.
-Poison Weapons: 4 points. The spellcaster may call "Poison" each time they swing their claws.
-Armor-Piercing Weapons: 5 points. The spellcaster may call "Armor-Piercing" each time they swing their claws.
-Axe, Hammer, or Mace claws: 1 point. The spellcaster may call "Axe," "Hammer," or "Mace" each time they swing their claws. The specific call must be chosen when the form is initially created. This option may only be taken once. The claws should reflect the nature of the call chosen.
+* 1 point for 2' claws.
+* 2 points for 2'6" claws.
+* 3 points for 3' claws.
+* 4 points for 3'6" claws.
+* _Poison Weapons:_ 4 points. The spellcaster may call "[Poison](#poison)" each
+  time they swing their claws.
+* _Armor-Piercing Weapons:_ 5 points. The spellcaster may call
+  "[Armor-Piercing](#armor-piercing)" each time they swing their claws.
+* _Axe, Hammer, or Mace claws:_ 1 point. The spellcaster may call "Axe,"
+  "Hammer," or "Mace" each time they swing their claws. The specific call must
+  be chosen when the form is initially created. This option may only be taken
+  once. The claws should reflect the nature of the call chosen.
 
 Miscellaneous Abilities:
 
-Limited Regeneration: 2 points for one use. All of the spellcaster's limbs regenerate after 30 seconds, as an unlimited effect. Cannot be in combat while healing limbs in this fashion. The spellcaster has a single advanced regeneration. 1 point for each additional extra life beyond the first.
-Death Watch: 2 points. As per the spell.
-Immunity to Poison: 1 point. May only cast on self, otherwise as per the spell.
-Cure Disease: 1 point. May only cast on self, otherwise as per the spell.
-Heartiness: 1 point. As per the spell.
+* _Limited Regeneration:_ 2 points for one use. All of the spellcaster's limbs
+  regenerate after 30 seconds, as an unlimited effect. Cannot be in combat while
+  healing limbs in this fashion. The spellcaster has a single [advanced
+  regeneration](#advanced-regeneration). 1 point for each additional extra life
+  beyond the first.
+* _[Death Watch](#death-watch):_ 2 points. As per the spell.
+* _[Immunity to Poison](#immunity-to-poison):_ 1 point. May only cast on self,
+  otherwise as per the spell.
+* _[Cure Disease](#cure-disease):_ 1 point. May only cast on self, otherwise as
+  per the spell.
+* _[Heartiness](#heartiness):_ 1 point. As per the spell.
 
 [__Transmute Self__ (4th Circle)]{#transmute-self}
 
-Uses: 3 - Verbal: 10 word chant, repeated. The verbal must be chanted loudly and clearly - Caveats: Chanting, Suspension
+__Uses:__ 3 - __Verbal:__ 10 word chant, repeated. The verbal must be chanted
+loudly and clearly - __Caveats:__ [Chanting](#chanting),
+[Suspension](#suspension)
 
-
-This spell provides an immense amount of protection to the spellcaster, but also requires an immense amount of concentration. This spell only takes effect once the spellcaster has completed the VC once. While transmuted, the spellcaster is completely immune to all forms of damage, magical or otherwise, regardless of whether the material into which the spellcaster transmutes is vulnerable to any form of damage. It does not make the spellcaster invisible or undetectable. The spellcaster must choose what they are capable of attuning to when learning the spell. Choices are: trees, stone, or earth. To transmute, the spellcaster must embrace or lie down on the object they are capable of attuning to (so those who can attune to trees hug a tree, to stone lie on or hug a rock, or to earth lie on the ground). While transmuted, the spellcaster is "stuck" and cannot be dragged. The object the spellcaster attunes with MUST be at least as massive as the spellcaster. The spellcaster must keep their eyes closed and remain perfectly still, and they must be constantly chanting their verbal while transmuted. The spellcaster must chant loudly and clearly. If anything interrupts the spellcaster's concentration, the spell is broken. As soon as the spellcaster moves, opens their eyes, or stops chanting, the spell ends. The spellcaster may not transmute for at least one slow 200 second count after regaining their proper form. The spellcaster should use their common sense when deciding where to transmute. Pick a safe location, not the middle of a trail or a high combat area.
+This spell provides an immense amount of protection to the spellcaster, but also
+requires an immense amount of concentration. This spell only takes effect once
+the spellcaster has completed the VC once. While transmuted, the spellcaster is
+completely immune to all forms of damage, magical or otherwise, regardless of
+whether the material into which the spellcaster transmutes is vulnerable to any
+form of damage. It does not make the spellcaster invisible or undetectable. The
+spellcaster must choose what they are capable of attuning to when learning the
+spell. Choices are: trees, stone, or earth. To transmute, the spellcaster must
+embrace or lie down on the object they are capable of attuning to (so those who
+can attune to trees hug a tree, to stone lie on or hug a rock, or to earth lie
+on the ground). While transmuted, the spellcaster is "stuck" and cannot be
+dragged. The object the spellcaster attunes with MUST be at least as massive as
+the spellcaster. The spellcaster must keep their eyes closed and remain
+perfectly still, and they must be constantly chanting their verbal while
+transmuted. The spellcaster must chant loudly and clearly. If anything
+interrupts the spellcaster's concentration, the spell is broken. As soon as the
+spellcaster moves, opens their eyes, or stops chanting, the spell ends. The
+spellcaster may not transmute for at least one slow 200 second count after
+regaining their proper form. The spellcaster should use their common sense when
+deciding where to transmute. Pick a safe location, not the middle of a trail or
+a high combat area.
 
 [__Vision__ (5th Circle)]{#vision}
 
-Uses: 1
+__Uses:__ 1
 
-
-This spell allows the spellcaster to ask the EH or MM a question. The EH will then reveal to the spellcaster as complete a description as they are willing to give, giving them a vision relating to it.
+This spell allows the spellcaster to ask the EH or MM a question. The EH will
+then reveal to the spellcaster as complete a description as they are willing to
+give, giving them a vision relating to it.
 
 [__Ward: Enchanted Beings__ (5th Circle)]{#ward-enchanted-beings}
 
-Uses: Unlimited - Verbal: 20 words, repeated continuously, stating purpose of spell - Material: Focus - Caveats: Chanting, Suspension, Wards
+__Uses:__ Unlimited - __Verbal:__ 20 words, repeated continuously, stating
+purpose of spell - __Material:__ Focus - __Caveats:__ [Chanting](#chanting),
+[Suspension](#suspension), [Wards](#wards)
 
-
-This spell prevents Enchanted Beings from attacking the spellcaster while it is active.
+This spell prevents [Enchanted Beings](#enchanted-beings) from attacking the
+spellcaster while it is active.
 
 [__Ward: Undead__ (2nd Circle)]{#ward-undead}
 
-Uses: Unlimited - Verbal: 10 words, repeated continuously, stating purpose of spell - Material: Focus - Caveats: Chanting, Suspension, Wards
+__Uses:__ Unlimited - __Verbal:__ 10 words, repeated continuously, stating
+purpose of spell - __Material:__ Focus - __Caveats:__ [Chanting](#chanting),
+[Suspension](#suspension), [Wards](#wards)
 
-
-This spell prevents Undead from attacking the spellcaster while it is active.
+This spell prevents [Undead](#undead) from attacking the spellcaster while it is
+active.
 
 [__Zombie Walk__ (1st Circle)]{#zombie-walk}
 
-Uses: Unlimited, 1 at a time - Verbal: 10 words, plus an explanation - Active: Touch the target - Caveats: Undead, Walking Dead
+__Uses:__ Unlimited, 1 at a time - __Verbal:__ 10 words, plus an explanation -
+__Active:__ Touch the target - __Caveats:__ [Undead](#undead), [Walking
+Dead](#walking-dead)
 
-
-This spell allows the spellcaster to animate a corpse, making it follow them for as long as they concentrate on the spell. If the spellcaster engages in combat either by attacking or by being struck, the spell ends and the corpse falls to the ground. In order to cast this spell, the spellcaster must recite the verbal and give the player of the corpse a brief explanation of what they should do, making sure they know when to fall down.
+This spell allows the spellcaster to animate a corpse, making it follow them for
+as long as they concentrate on the spell. If the spellcaster engages in combat
+either by attacking or by being struck, the spell ends and the corpse falls to
+the ground. In order to cast this spell, the spellcaster must recite the verbal
+and give the player of the corpse a brief explanation of what they should do,
+making sure they know when to fall down.
