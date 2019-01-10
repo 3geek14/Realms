@@ -3486,7 +3486,7 @@ To be a Realms legal event, the following conditions must apply:
   day. They may not receive spell credit as a result of attending their own
   event.
 * In order for the event to be legal the event must abide by the valid rulings
-  of the Arbitration Committee.
+  of the [Arbitration Committee](#arbitration-committee).
 
 As an Event Holder you are expected to:
 
@@ -3513,22 +3513,23 @@ Throwing a legal event gives an EH certain privileges and responsibilities
 above and beyond a normal player.
 
 * To validate your event you must confirm it electronically with the official
-  Event List Administrator within one month of the date of the event. Also
-  within that month, you must also send a summary of reports of rules
-  violations and the conclusion of investigations into them, as well as all
-  consequences levied, to the Arbitration Committee if any reports were filed.
-  EHs and the AC have the responsibility to maintain the privacy of those
-  involved in reports to the extent possible.
-* If you release a Realms Magic Item at your event you must submit the name,
-  physical description, and magical description to the Keeper of the List of
-  Realms Magic Items within one month of that event. The actual prop for the
-  item does not need to be distributed to players at that time, but an EH that
-  does not designate a magic item for an event within one month forever loses
-  the opportunity to release an item for the event (see
-  [Section 7.4: Magic Item Rules](#magic-item-rules) below).
+  [Event List Administrator](#event-list-administer) within one month of the
+  date of the event. Also within that month, you must also send a summary of
+  reports of rules violations and the conclusion of investigations into them, as
+  well as all consequences levied, to the [Arbitration
+  Committee](#arbitration-committee) if any reports were filed. EHs and the AC
+  have the responsibility to maintain the privacy of those involved in reports
+  to the extent possible.
+* If you release a [Realms Magic Item](#magic-item-rules) at your event you must
+  submit the name, physical description, and magical description to the [Keeper
+  of the List of Realms Magic Items](#magic-item-marshal) within one month of
+  that event. The actual prop for the item does not need to be distributed to
+  players at that time, but an EH that does not designate a magic item for an
+  event within one month forever loses the opportunity to release an item for
+  the event (see [Section 7.4: Magic Item Rules](#magic-item-rules) below).
 * As an EH you qualify to attend the Event Holders' Council meeting for the
-  year following your event (see
-  [Section 7.5: The Event-Holders' Council](#the-event-holders-council) below).
+  year following your event (see [Section 7.5: The Event-Holders'
+  Council](#the-event-holders-council) below).
 
 ## 7.3: Arbitration Committee ## {#arbitration-committee}
 
@@ -3553,14 +3554,14 @@ and Matt Butler.
 
 ## 7.4: Magic Item Rules ## {#magic-item-rules}
 
-An EH is permitted to create one non-event specific magic item
-(a “Realms Magic Item”) at each event for which they receive EH credit.
-Only one magic item may be released for each event, even if there are multiple
-EHs. Such magic items will retain their powers and abilities at all subsequent
-events at which they are pre-registered/checked in, and approved. Magic items
-are released on the date of the event the EH is creating them for and must be
-submitted to the Keeper of the List of Realms Magic Items within one month of
-that event.
+An EH is permitted to create one non-event specific magic item (a “[Realms Magic
+Item](#magic-item-rules)”) at each event for which they receive EH credit. Only
+one magic item may be released for each event, even if there are multiple EHs.
+Such magic items will retain their powers and abilities at all subsequent events
+at which they are pre-registered/checked in, and approved. Magic items are
+released on the date of the event the EH is creating them for and must be
+submitted to the [Keeper of the List of Realms Magic Items](#magic-item-marshal)
+within one month of that event.
 
 If an EH has not held a legal event during a calendar year, any items that they
 back are still considered backed for an additional calendar year. This means if
@@ -3631,22 +3632,25 @@ streamline the administration involved with running the Realms. Below you will
 find the titles, names, contact information, and a brief description of their
 duties:
 
-**Death Marshal:** Keith Cronyn (<Keith.Cronyn@gmail.com>, 603-819-8689). Tracks
-and maintains ticks that are reported by EHs from their event for a character,
-or reported by a character's player for their own character.
+__[Death Marshal]{#death-marshal}:__ Keith Cronyn (<Keith.Cronyn@gmail.com>,
+603-819-8689). Tracks and maintains ticks that are reported by EHs from their
+event for a character, or reported by a character's player for their own
+character.
 
-**Event List Administrator:** Ian Pushee (<bright@giantsquid.net>). Responsible
-for maintaining an official list of events. The list is available online at
-<http://www.realmsnet.net>.
+__[Event List Administrator](#event-list-administer):__ Ian Pushee
+(<bright@giantsquid.net>). Responsible for maintaining an official list of
+events. The list is available online at <http://www.realmsnet.net>.
 
-**Keeper of the List of Realms Magic Items:** Neil Tozier (<iamtmib@gmail.com>,
-603-689-5298) Responsible for maintaining an official list of Realms Magic
-Items. The list is available to EHs online at <http://www.realmsnet.net>.
+__[Keeper of the List of Realms Magic Items](#magic-item-marshal):__ Neil Tozier
+(<iamtmib@gmail.com>, 603-689-5298) Responsible for maintaining an official list
+of [Realms Magic Items](#magic-item-rules). The list is available to EHs online
+at <http://www.realmsnet.net>.
 
-**Players' Meeting and Event Holders' Council Organizers:** John Berrini
-(<SgtBerrini@gmail.com>, 603-398-6352) and Neil Tozier. Responsible for
-organizing, announcing, and running both the Players' Meeting and the Event
-Holders' Council for the following calendar year.
+__[Players' Meeting and Event Holders' Council
+Organizers](#meeting-organizers):__ John Berrini (<SgtBerrini@gmail.com>,
+603-398-6352) and Neil Tozier. Responsible for organizing, announcing, and
+running both the Players' Meeting and the Event Holders' Council for the
+following calendar year.
 
 At the end of the Event Holders' Council, the EHs will discuss and vote on
 whether to and how to grandfather spells based on the changes made to the
