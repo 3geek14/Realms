@@ -393,7 +393,7 @@ you can parry with, even if you have just taken it off for a second, it is
 considered a legal limb shot and your PC has to suffer the consequences. Your
 hand is considered everything below the wrist bone.
 
-### How to Take Multiple Hits ### {#how-to-take-multiple-shots}
+### How to Take Multiple Hits ### {#how-to-take-multiple-hits}
 
 Should an opponent's weapon (be it a melee weapon, missile weapon, or spell
 prop) hit you in more than one location with the same swing, all points of
@@ -1792,13 +1792,13 @@ learn one spell from each of 2nd through 6th circles, possibly learning some
 spells for a second time. If they learn a third path, they again learn one spell
 from each of 1st through 5th circles.
 
-### Learning Progessions ### {#learning-progressions}
+### Learning Progression ### {#learning-progression}
 
 At every event a character attends, they have the possibility of learning one or
 more spells. If they do not learn a spell at that event, for whatever reason,
 the opportunity is wasted and they may try again at the next event.
 
-### Learning a Spell ### {#learning-spells}
+### Learning a Spell ### {#learning-a-spell}
 
 There are three ways to learn a spell. You should find a PC who knows the spell
 and learn it from them. The PC who is teaching the spell must have the spell in
