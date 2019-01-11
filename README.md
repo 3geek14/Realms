@@ -6,7 +6,8 @@ To compile a new version of Omnibus.html locally, run
 
 ## Tutorial ##
 
-View this page [here](https://3geek14.github.io/Realms/) for better formatting.
+View this page [here](https://3geek14.github.io/Realms/README) for better
+formatting.
 
 Markdown is one of the simpler languages to use for formatting text. Because
 we're tracking things in git, we're using plaintext, so we need to use some
@@ -30,7 +31,7 @@ Pandoc's version of markdown. Pandoc is a tool designed to convert between a lot
 of different formats, and its version of markdown has basically everything we
 want to use for the Omnibus. GitHub has its own version, which is very similar,
 but it's missing a couple things (which is why you should be viewing this page
-[here](https://3geek14.github.io/Realms/), if you weren't already).
+[here](https://3geek14.github.io/Realms/README), if you weren't already).
 
 As with many plaintext formats, a blank line is needed to create a new
 paragraph. The reason that a single new line won't create a new paragraph is so
