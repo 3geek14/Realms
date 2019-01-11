@@ -14,6 +14,10 @@ why I picked it. For example, underscores around text are used for emphasis.
 
     _This is italics._ __This is bold.__
 
+::: {.example}
+_This is italics._ __This is bold.__
+:::
+
 You might find tutorials online with other ways to emphasize things, such as
 with asterisks. Markdown has a lot of features we won't use, so this guide will
 only show you some ways of doing certain things that can be done in other ways.
@@ -40,6 +44,16 @@ example of this:
     
     This is a new paragraph.
 
+::: {.example}
+This is one long paragraph
+that's super long. So long
+that whoever wrote it wanted
+to split it up amongst a
+bunch of different lines.
+
+This is a new paragraph.
+:::
+
 As a rough guideline, try to keep lines of code no longer than 80 characters.
 Don't worry too much about this, as things will change when text is made red or
 black. It's a guideline, and we trust each other to use good judgement.
@@ -56,12 +70,24 @@ numbered. Here are some examples from the Omnibus:
     
     ### Realms Events ###
 
+::: {.example}
+# 1: General Player Information #
+
+## 1.3: How Do I Start Playing? ##
+
+### Realms Events ###
+:::
+
 If you're familiar with HTML, these correspond with `h1`, `h2`, and `h3` tags.
 The first heading is the most important, so it's biggest. If you look at the
 code so far, you'll see headings are done a little bit differently. They have
 something extra at the end:
 
     # 1: General Player Information # {#general-player-information}
+
+::: {.example}
+# 1: General Player Information # {#general-player-information}
+:::
 
 The point of this is so we can put in links to specific parts of the document.
 Markdown will automatically do this for headings, but it won't always pick quite
@@ -80,6 +106,16 @@ as well.
     This is a [link](https://www.realmsnet.net/) to RealmsNet.
     
     This is an email address: <arbitration@lists.realmsnet.net>.
+
+::: {.example}
+[This is a link target]{#my-link-target}
+
+This is a [link](#my-link-target) to a target.
+
+This is a [link](https://www.realmsnet.net/) to RealmsNet.
+
+This is an email address: <arbitration@lists.realmsnet.net>.
+:::
 
 To make a link target, use curly braces (`{}`). To navigate to a link, use
 parentheses (`()`). Email addresses are a little different; they use less than
@@ -112,6 +148,7 @@ And let's look at what that turns into. (GitHub's markdown doesn't support this
 type of table, so make sure you view this page
 [here](https://3geek14.github.io/Realms/).)
 
+::: {.example}
 +----------+----------+------------------------+
 | Column 1 | Column 2 | Wider Column           |
 +==========+==========+========================+
@@ -127,49 +164,168 @@ type of table, so make sure you view this page
 | break    |          |                        |
 +----------+----------+------------------------+
 
+:::
+
 So yeah, tables kind of suck. The relative widths of the columns in the code
-becomes the relative widths of the columns in the result.
+becomes the relative widths of the columns in the result. If the table doesn't
+use the top row as labels, replace the equals signs (`=`) with hyphens (`-`).
+
+Column alignment is done by placing colons on the row with equals signs (or the
+top row, if there's header row).
+
+    +------+-------+--------+
+    | Left | Right | Center |
+    +:=====+======:+:======:+
+    | left | right | center |
+    +------+-------+--------+
+    
+    +:-----+------:+:------:+
+    | Left | Right | Center |
+    +------+-------+--------+
+    | left | right | center |
+    +------+-------+--------+
+
+::: {.example}
++------+-------+--------+
+| Left | Right | Center |
++:=====+======:+:======:+
+| left | right | center |
++------+-------+--------+
+
++:-----+------:+:------:+
+| Left | Right | Center |
++------+-------+--------+
+| left | right | center |
++------+-------+--------+
+
+:::
 
 Next come lists. There are three different types of lists we use in the Omnibus.
 The first is bulleted lists, which is most common. Begin each item with an
 asterisk (`*`), and make sure there's an empty line before the list.
 
     * This is the first list item.
-	* This is the next one.
-	* This on has enough text to be
-	  multiple lines of code.
-	* This is another list item.
+    * This is the next one.
+    * This on has enough text to be
+      multiple lines of code.
+    * This is another list item.
+
+::: {.example}
+* This is the first list item.
+* This is the next one.
+* This on has enough text to be
+  multiple lines of code.
+* This is another list item.
+:::
 
 We also use numbered lists. We so far only use this for the rules we play and
 fight by. For numbered lists, specify the number for the first item, and then
 use the number symbol (`#`) for later items.
 
     1. This is the first item.
-	#. This is the second item.
-	#. Notice the period after the number.
-	
-	11. This is a new list beginning with 11.
-	#.  Notice that there's an extra space now
-	    to keep things aligned.
+    #. This is the second item.
+    #. Notice the period after the number.
+    
+    Put some text in to separate the lists.
+    
+    11. This is a new list beginning with 11.
+    #.  Notice that there's an extra space now
+        to keep things aligned.
+
+::: {.example}
+1. This is the first item.
+#. This is the second item.
+#. Notice the period after the number.
+
+Put some text in to separate the lists.
+
+11. This is a new list beginning with 11.
+#.  Notice that there's an extra space now
+    to keep things aligned.
+:::
 
 Finally we have soemthing called a description list. The idea behind this is for
 lists where you want to name each item rather than numbering them. Sure, you
 could use a bulleted list and start each one with some bold text, but this way
-looks more _classy_.
+looks more _classy_. There are some places we don't use these where we probably
+should.
 
     Italics
-	: Use a single underscore around text
-	  to make it italics, like _this_.
-	Bold
-	: Use double underscores around text
-	  to make it bold, like __this__.
-	Description Lists
-	: Put the name of something on one
-	  line, then put the description on
-	  the next line. The first line of
-	  the description should begin with a
-	  colon, and all the lines of the
-	  description should line up.
+    : Use a single underscore around text
+      to make it italics, like _this_.
+    
+    Bold
+    : Use double underscores around text
+      to make it bold, like __this__.
+    
+    Description Lists
+    : Put the name of something on one
+      line, then put the description on
+      the next line. The first line of
+      the description should begin with a
+      colon, and all the lines of the
+      description should line up. Start
+      new descriptions with a blank line
+      before them.
+
+::: {.example}
+Italics
+: Use a single underscore around text
+  to make it italics, like _this_.
+
+Bold
+: Use double underscores around text
+  to make it bold, like __this__.
+
+Description Lists
+: Put the name of something on one
+  line, then put the description on
+  the next line. The first line of
+  the description should begin with a
+  colon, and all the lines of the
+  description should line up. Start
+  new descriptions with a blank line
+  before them.
+:::
+
+You can also nest lists. This currently only comes up in the Undeath part of
+Basic Magic Effects Everyone Should Know, I think.
+
+    * This is the main list.
+    * This list has bullet points.
+    * This item has a sub list.
+      * This bullet point will look
+        different.
+      * Because this is a sub list.
+    * This item has a numbered sub list.
+      5. For some reason, this sublist
+         starts at five.
+      #. No good reason, other than to
+         show it can be done.
+      #. Let's go deeper, shall we?
+         * Sub sub lists never indicate
+           anything bad, right? They're
+           super clear.
+    * This is the final item.
+
+::: {.example}
+* This is the main list.
+* This list has bullet points.
+* This item has a sub list.
+  * This bullet point will look
+    different.
+  * Because this is a sub list.
+* This item has a numbered sub list.
+  5. For some reason, this sublist
+     starts at five.
+  #. No good reason, other than to
+     show it can be done.
+  #. Let's go deeper, shall we?
+     * Sub sub lists never indicate
+       anything bad, right? They're
+       super clear.
+* This is the final item.
+:::
 
 One final thing about markdown. We need to have a way to specify text that was
 added this year. The way to do this looks very similar to a link target. The
@@ -177,9 +333,16 @@ reason for this is that the HTML is very similar. To make something red, we
 label it as `new`. We do this as follows:
 
     [This sentence is new.]{.new}
-	This sentence is old. This
-	sentence had something
-	[changed]{.new}.
+    This sentence is old. This
+    sentence had something
+    [changed]{.new}.
+
+::: {.example}
+[This sentence is new.]{.new}
+This sentence is old. This
+sentence had something
+[changed]{.new}.
+:::
 
 Technically, this doesn't do anything by itself. However, there's a CSS document
 in the github repository that will look for anything called `.new`, and it'll
