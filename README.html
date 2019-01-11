@@ -21,13 +21,14 @@
 <p>To compile a new version of Omnibus.html locally, run</p>
 <pre><code>pandoc -o Omnibus.html -s -c pandoc.css Omnibus.md</code></pre>
 <h2 id="tutorial">Tutorial</h2>
+<p>View this page <a href="https://3geek14.github.io/Realms/">here</a> for better formatting.</p>
 <p>Markdown is one of the simpler languages to use for formatting text. Because we’re tracking things in git, we’re using plaintext, so we need to use some language to specify the formatting. One of the design goals of markdown is to match what people would normally do in plaintext, which is a large factor for why I picked it. For example, underscores around text are used for emphasis.</p>
 <pre><code>_This is italics._ __This is bold.__</code></pre>
 <div class="example">
 <p><em>This is italics.</em> <strong>This is bold.</strong></p>
 </div>
 <p>You might find tutorials online with other ways to emphasize things, such as with asterisks. Markdown has a lot of features we won’t use, so this guide will only show you some ways of doing certain things that can be done in other ways. For the sake of consistency, please try to use the same methods shown here.</p>
-<p>There are many different types of markdown. The specific one we’re using is Pandoc’s version of markdown. Pandoc is a tool designed to convert between a lot of different formats, and its version of markdown has basically everything we want to use for the Omnibus. GitHub has its own version, which is very similar, but it’s missing a couple things.</p>
+<p>There are many different types of markdown. The specific one we’re using is Pandoc’s version of markdown. Pandoc is a tool designed to convert between a lot of different formats, and its version of markdown has basically everything we want to use for the Omnibus. GitHub has its own version, which is very similar, but it’s missing a couple things (which is why you should be viewing this page <a href="https://3geek14.github.io/Realms/">here</a>, if you weren’t already).</p>
 <p>As with many plaintext formats, a blank line is needed to create a new paragraph. The reason that a single new line won’t create a new paragraph is so that we have the option to keep individual lines of code shorter. This isn’t strictly necessary, but it does make it a little easier to see what changed using git’s tool for showing differences between versions (called <code>diff</code>). As an example of this:</p>
 <pre><code>This is one long paragraph
 that&#39;s super long. So long
@@ -89,7 +90,7 @@ This is an email address: &lt;arbitration@lists.realmsnet.net&gt;.</code></pre>
 | line     |          |                        |
 | break    |          |                        |
 +----------+----------+------------------------+</code></pre>
-<p>And let’s look at what that turns into. (GitHub’s markdown doesn’t support this type of table, so make sure you view this page <a href="https://3geek14.github.io/Realms/">here</a>.)</p>
+<p>And let’s look at what that turns into.</p>
 <div class="example">
 <table style="width:65%;">
 <colgroup>
