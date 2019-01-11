@@ -4082,25 +4082,24 @@ streamline the administration involved with running the Realms. Below you will
 find the titles, names, contact information, and a brief description of their
 duties:
 
-__[Death Marshal]{#death-marshal}:__ Keith Cronyn (<Keith.Cronyn@gmail.com>,
-603-819-8689). Tracks and maintains ticks that are reported by EHs from their
-event for a character, or reported by a character's player for their own
-character.
+[Death Marshal]{#death-marshal}:
+: Keith Cronyn (<Keith.Cronyn@gmail.com>, 603-819-8689). Tracks and maintains
+  ticks that are reported by EHs from their event for a character, or reported
+  by a character's player for their own character.
 
-__[Event List Administrator](#event-list-administer):__ Ian Pushee
-(<bright@giantsquid.net>). Responsible for maintaining an official list of
-events. The list is available online at <http://www.realmsnet.net>.
+[Event List Administrator]{#event-list-administer}:
+: Ian Pushee (<bright@giantsquid.net>). Responsible for maintaining an official
+  list of events. The list is available online at <http://www.realmsnet.net>.
 
-__[Keeper of the List of Realms Magic Items](#magic-item-marshal):__ Neil Tozier
-(<iamtmib@gmail.com>, 603-689-5298) Responsible for maintaining an official list
-of [Realms Magic Items](#magic-item-rules). The list is available to EHs online
-at <http://www.realmsnet.net>.
+[Keeper of the List of Realms Magic Items]{#magic-item-marshal}:
+: Neil Tozier (<iamtmib@gmail.com>, 603-689-5298) Responsible for maintaining an
+  official list of [Realms Magic Items](#magic-item-rules). The list is
+  available to EHs online at <http://www.realmsnet.net>.
 
-__[Players' Meeting and Event Holders' Council
-Organizers](#meeting-organizers):__ John Berrini (<SgtBerrini@gmail.com>,
-603-398-6352) and Neil Tozier. Responsible for organizing, announcing, and
-running both the Players' Meeting and the Event Holders' Council for the
-following calendar year.
+[Players' Meeting and Event Holders' Council Organizers]{#meeting-organizers}:
+: John Berrini (<SgtBerrini@gmail.com>, 603-398-6352) and Neil Tozier.
+  Responsible for organizing, announcing, and running both the Players' Meeting
+  and the Event Holders' Council for the following calendar year.
 
 At the end of the Event Holders' Council, the EHs will discuss and vote on
 whether to and how to grandfather spells based on the changes made to the
