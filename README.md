@@ -19,6 +19,12 @@ with asterisks. Markdown has a lot of features we won't use, so this guide will
 only show you some ways of doing certain things that can be done in other ways.
 For the sake of consistency, please try to use the same methods shown here.
 
+There are many different types of markdown. The specific one we're using is
+Pandoc's version of markdown. Pandoc is a tool designed to convert between a lot
+of different formats, and its version of markdown has basically everything we
+want to use for the Omnibus. GitHub has its own version, which is very similar,
+but it's missing a couple things.
+
 As with many plaintext formats, a blank line is needed to create a new
 paragraph. The reason that a single new line won't create a new paragraph is so
 that we have the option to keep individual lines of code shorter. This isn't
@@ -87,37 +93,39 @@ me do it, because I'm the one who picked markdown. Of course, the OEC is allowed
 to reformat things, so if you think of a way to present the same information
 without a table, feel free to try it out.
 
-    +----------+----------+--------------+
-    | Column 1 | Column 2 | Wider Column |
-    +==========+==========+==============+
-    | apple    | banana   | lots of text |
-    |          |          | that doesn't |
-    |          |          | fit on one   |
-    |          |          | row of code  |
-    +----------+----------+--------------+
-    | text\    | ugh      | tables suck  |
-    | with\    |          |              |
-    | explicit |          |              |
-    | line\    |          |              |
-    | breaks   |          |              |
-    +----------+----------+--------------+
+    +----------+----------+------------------------+
+    | Column 1 | Column 2 | Wider Column           |
+    +==========+==========+========================+
+    | apple    | banana   | lots of text           |
+    |          |          | that doesn't           |
+    |          |          | fit on one             |
+    |          |          | row of code            |
+    +----------+----------+------------------------+
+    | text\    | ugh      | tables suck            |
+    | with an  |          |                        |
+    | explicit |          |                        |
+    | line     |          |                        |
+    | break    |          |                        |
+    +----------+----------+------------------------+
 
-And let's look at what that turns into:
+And let's look at what that turns into. (GitHub's markdown doesn't support this
+type of table, so make sure you view this page
+[here](https://3geek14.github.io/Realms/).)
 
-+----------+----------+--------------+
-| Column 1 | Column 2 | Wider Column |
-+==========+==========+==============+
-| apple    | banana   | lots of text |
-|          |          | that doesn't |
-|          |          | fit on one   |
-|          |          | row of code  |
-+----------+----------+--------------+
-| text\    | ugh      | tables suck  |
-| with\    |          |              |
-| explicit |          |              |
-| line\    |          |              |
-| breaks   |          |              |
-+----------+----------+--------------+
++----------+----------+------------------------+
+| Column 1 | Column 2 | Wider Column           |
++==========+==========+========================+
+| apple    | banana   | lots of text           |
+|          |          | that doesn't           |
+|          |          | fit on one             |
+|          |          | row of code            |
++----------+----------+------------------------+
+| text\    | ugh      | tables suck            |
+| with an  |          |                        |
+| explicit |          |                        |
+| line     |          |                        |
+| break    |          |                        |
++----------+----------+------------------------+
 
 So yeah, tables kind of suck. The relative widths of the columns in the code
 becomes the relative widths of the columns in the result.
