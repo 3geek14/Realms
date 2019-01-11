@@ -60,7 +60,7 @@ on. There is so much that can happen at an event that it is better experienced
 than explained. Attending practices is also helpful, as you not only become
 acquainted with the combat system, but also get introduced to other players.
 
-### Realms Events ###
+### Realms Events ### {#realms-events}
 
 An event is where the game is played. There are basically three kinds of events
 in the Realms: Feasts, Tournaments, and Quests. Some events take on qualities of
@@ -89,7 +89,7 @@ Quests
 
 ## 1.4: Attending an Event ## {#attending-an-event}
 
-### Registration ###
+### Registration ### {#registration}
 
 A list of events can be found on realmsnet.net under the Realms Calendar or the
 Events tab. Whenever you plan on attending an event, you should register for it
@@ -100,12 +100,12 @@ for events also helps give the event staff an idea of how many players they
 might expect, and helps them to plan accordingly. It is also important to
 register any dietary or medical restrictions you may have.
 
-### Check In ###
+### Check In ### {#check-in-section}
 
 When you arrive at an event, there are a few things you must do before beginning
 play:
 
-### Event Fees ###
+### Event Fees ### {#event-fees}
 
 You must pay any event fees; failure to do so means you will not be able
 participate in the event and may be asked to leave site. Some events will waive
@@ -114,7 +114,7 @@ check with the event holder first. As event fees help pay for the site, props,
 prizes, food, and costuming that goes into throwing events, without them future
 events would not be able to occur.
 
-### Waivers ###
+### Waivers ### {#waivers}
 
 You may be required to sign a waiver. Waivers serve two purposes: protection
 for the EH(s) or the land owners from legal action, and to keep track of how
@@ -123,7 +123,7 @@ Event Holders' Council to determine whether or not an event is legal (more on
 what makes a legal event in [Part 7: Realms
 Administration](#realms-administration)).
 
-### Magic Items ###
+### Magic Items ### {#magic-items-check-in}
 
 Magic items must be checked in with the EH or the event's Magic Marshal (MM)
 before the start of the event. EHs and MMs must know about every magic item at
@@ -140,7 +140,7 @@ Magic](#regional-magic)) also generally find out what their magic of the day is
 at check-in. Using spells at an event without first gaining approval by the EH
 or MM is cheating.
 
-### Weapon Inspection ###
+### Weapon Inspection ### {#weapon-inspection-check-in}
 
 Before beginning play, you must inspect your own weapons before they are used.
 If you are unsure of a weapon's safety, ask a marshal to inspect it for you. EHs
@@ -254,7 +254,7 @@ play out the scene.
 The safety rules are out-of-character (hereafter referred to as OOC). They are
 for our safety, and provide the guidelines that we should all be playing by.
 
-### The Rules We Play By ###
+### The Rules We Play By ### {#the-rules-we-play-by}
 
 1. We should all be doing this to have fun. If you get mad or uncontrolled, it
    is up to you to remove yourself from the game until you have regained your
@@ -306,7 +306,7 @@ for our safety, and provide the guidelines that we should all be playing by.
    Should Know](#basic-magic-effects-everyone-should-know)), any specific rule
    will always override these general rules.
 
-### The Rules We Fight By ###
+### The Rules We Fight By ### {#the-rules-we-fight-by}
 
 11. This is a lightest touch sport. ANY contact with a weapon to a body is to be
     taken as a hit. Ignoring a "light" blow is cheating and a marshal may remove
@@ -353,7 +353,7 @@ these shots as normal blows. In all cases, the phrase, "if you are struck,"
 refers to any time you are struck by the padded surface of any weapon or spell
 prop that does damage as a weapon.
 
-### Hit Locations ###
+### Hit Locations ### {#hit-locations}
 
 Your body is separated into seven locations of which there are two kinds. Your
 arms and legs are "limbs," while your head and the front and back of your torso
@@ -362,7 +362,7 @@ stops and another begins, thinking of a Barbie™ doll may help. The buttocks of
 person are considered leg shots. If you are hit in the buttock(s), you lose the
 appropriate leg(s).
 
-### Killing Blows ###
+### Killing Blows ### {#killing-blows}
 
 If you are struck in a kill location your PC is dead (see [Section 3.4:
 Character Death](#character-death) and [Section 3.5: Scalping](#scalping) for
@@ -372,7 +372,7 @@ If you are hit on the top of the shoulder, your PC is dead. If you are wearing
 armor, a blow to the top of the shoulder is considered a blow to the front or
 back depending on whether your opponent is in front of you or behind you.
 
-### Limb Shots ###
+### Limb Shots ### {#limb-shots}
 
 If you are struck in a limb, your PC loses the use of that entire limb. If you
 are struck in a limb that has already been lost, and that limb blocked what
@@ -383,7 +383,7 @@ been disabled, it should be put behind you. This keeps it out of the way as well
 as provides a visual cue to other players that your PC is hurt. Once you have
 lost a limb, your PC cannot use that limb at all. Don't limp on a damaged leg.
 
-### Hand-on-Weapon ###
+### Hand-on-Weapon ### {#hand-on-weapon}
 
 If you are struck on a hand that is holding anything that is legal to block or
 parry with (weapons and shields, but not bows, javelins or arrows), it is
@@ -393,7 +393,7 @@ you can parry with, even if you have just taken it off for a second, it is
 considered a legal limb shot and your PC has to suffer the consequences. Your
 hand is considered everything below the wrist bone.
 
-### How to Take Multiple Hits ###
+### How to Take Multiple Hits ### {#how-to-take-multiple-hits}
 
 Should an opponent's weapon (be it a melee weapon, missile weapon, or spell
 prop) hit you in more than one location with the same swing, all points of
@@ -406,7 +406,7 @@ everyone, combat etiquette, which is OOC, has been developed. Using combat
 etiquette helps avoid confusion and promotes the same kind of behavior when
 someone else is fighting you.
 
-### Calling Hits ###
+### Calling Hits ### {#calling-hits}
 
 It is your responsibility to call where you were hit in combat. This is to let
 the other participant(s) and the marshals know that you were hit, and where you
@@ -417,7 +417,7 @@ participant is consistently miscalling their hits, missing shots, or some other
 form of cheating, please alert a marshal. It is acceptable to ask your opponent
 if they were hit, calling their attention to the location.
 
-### Late Shots ###
+### Late Shots ### {#late-shots}
 
 Sometimes you will strike another participant immediately after receiving a hit
 that injures or kills your PC. For example, just before your sword makes contact
@@ -431,7 +431,7 @@ shots, you may not declare that someone else hit you late. If you think someone
 is failing to call their late shots, question them after combat ends, or bring
 your concern to a marshal.
 
-### Illegal Hits ###
+### Illegal Hits ### {#illegal-hits}
 
 Sometimes you may hit someone with a part of your weapon that doesn't actually
 damage their PC, such as the pipe of a weapon, the side of a thrust-only weapon
@@ -442,7 +442,7 @@ the hit never occurred. A player may also call "shaft" if they received an
 illegal hit from an arrow or javelin, or call "slash" if they received an
 illegal hit from a thrust-only weapon.
 
-### Missing Shots ###
+### Missing Shots ### {#missing-shots}
 
 Sometimes in the thick of battle people miss shots, because of adrenaline or
 focus. This is generally unintentional and accidental. It often stops once a
@@ -451,7 +451,7 @@ missing shots or intentionally missing shots is different and is cheating. If
 you repeatedly miss shots, you may be asked to get retrained in fighting, or may
 be asked to stop playing.
 
-### Off-Target Areas ###
+### Off-Target Areas ### {#off-target-areas}
 
 Your face and the front of your throat are off-target; players should never aim
 attacks there. If you are hit in either location, you should announce it even
@@ -476,9 +476,9 @@ you frequently target these sensitive areas it will indicate to others that you
 are not a safe and controlled fighter, and you may be asked to sit out by a
 marshal.
 
-## 3.3: Armor ## {#armor}
+## 3.3: Armor ## {#armor-section}
 
-### Types of Armor ###
+### Types of Armor ### {#types-of-armor}
 
 Your PC may be able to wear armor. Armor allows a PC to take blows without
 taking injuries. There are two kinds of armor: heavy and light. Heavy armor will
@@ -499,7 +499,7 @@ heavy armor.
 Armor must allow you to feel blows through it and it must look like it would fit
 in a medieval or fantasy setting. 
 
-### Calling Your Armor ###
+### Calling Your Armor ### {#calling-your-armor}
 
 Armor protects by hit location, so if you have more than one piece of armor on a
 hit location, it is all considered damaged when you are struck there. On the
@@ -539,7 +539,7 @@ the armor in those locations is completely destroyed.
 As players experience the game through the eyes of their characters, PC death
 becomes an important aspect of the game.
 
-### Death ###
+### Death ### {#death}
 
 Death occurs in many ways. Usually, death of a character happens when something,
 such as a weapon, hits a character in an unarmored kill location. Certain spells
@@ -575,7 +575,7 @@ them they see a deep wound in your back.
 When your PC is killed (dead, but not scalped) and then raised, they may
 remember everything up until the point of their death.
 
-### Playing Dead ###
+### Playing Dead ### {#playing-dead}
 
 It is legal for characters to lie down and pretend they are dead, but they may
 not put their weapons over their head. If someone asks a player if their
@@ -594,7 +594,7 @@ body. It is a more serious form of death that requires more than a simple spell
 to repair. Scalped characters cannot be raised or animated until their soul has
 been restored.
 
-### Scalps ###
+### Scalps ### {#scalps}
 
 A scalp is a token carried by each player, which represents the life essence of
 that player's character. Players must be carrying their PC's scalp at all times;
@@ -604,7 +604,7 @@ player's name and the PC's name written legibly on it. A scalp does not exist
 physically in the IC world therefore it cannot be searched. A scalp is a
 non-magical and non-stealable marshaling tool.
 
-### How Characters are Scalped ###
+### How Characters are Scalped ### {#how-characters-are-scalped}
 
 In order to scalp a body, you must strike 200 blows with a weapon beside the
 body of the character being scalped. More than one person may scalp a body at a
@@ -634,7 +634,7 @@ died should they manage to be raised.
 Should your PC be dead at the end of an event without being raised, even if the
 character was not actively scalped, the PC will be considered scalped.
 
-### Fixing a Scalped Character ###
+### Fixing a Scalped Character ### {#fixing-a-scalped-character}
 
 To restore someone to life after scalping, characters must first have the body
 of the person needing to be raised. Then characters must either cast a [Call the
@@ -712,7 +712,7 @@ smaller than 12", and cannot exceed 8' in length.
 
 Table: Weapon Length Quick Guide
 
-### One-Handed Weapons ###
+### One-Handed Weapons ### {#one-handed-weapons}
 
 You can wield a one-handed weapon or shield in one hand and still use another
 one-handed weapon or shield in the other hand. Using two one-handed weapons (up
@@ -720,14 +720,14 @@ to 3'8" each) together, one in each hand, is commonly called a "Florentine"
 combination. Magic Missiles are also considered one-handed weapons, but follow
 special rules (see [Magic Missile](#magic-missile), under Spell Descriptions).
 
-### Hand-and-a-Half Weapons ###
+### Hand-and-a-Half Weapons ### {#hand-and-a-half-weapons}
 
 If a weapon is considered hand-and-a-half, then you can use the weapon with one
 hand, but your other arm or hand cannot be holding a weapon or a shield.
 Lightning bolts are also considered hand-and-a-half weapons. Bows are wielded as
 hand-and-a-half weapons, but follow special rules (see [Bows](#bows) below).
 
-### Two-Handed Weapons ###
+### Two-Handed Weapons ### {#two-handed-weapons}
 
 If a weapon is two-handed, you may only wield the weapon with two hands. Every
 blow you strike must be started with two hands. If you lose an arm while
@@ -740,7 +740,7 @@ weapon. If you let go with one hand during the swing, the swing is still legal.
 Once the initial swing has ended, the attacker will have to grab the weapon with
 two hands again before making another attack.
 
-### Thrust-Only Weapons ###
+### Thrust-Only Weapons ### {#thrust-only-weapons}
 
 Thrust-only weapons cannot strike an opponent with a "slashing" or side-to-side
 motion. If you slash at an opponent with a thrust-only weapon, you must tell
@@ -749,7 +749,7 @@ motion the blow must be taken. If you are not certain that a thrust-only strike
 landed properly, you must assume it was a slash and tell your opponent not to
 take the shot.
 
-### Spears (Thrust-only) ###
+### Spears (Thrust-only) ### {#spears}
 
 A spear is a thrust-only weapon between 4' and 5' in length. These weapons may
 be used as a single-handed weapon if used alone or with a shield. Spears may not
@@ -775,13 +775,13 @@ longer be used in combat. Anyone can fix a broken bow by holding the bow with
 both hands, then counting to 200 seconds. You cannot actively parry with a bow
 or an arrow.
 
-### Javelins ###
+### Javelins ### {#javelins}
 
 A javelin is wielded as if it were a single-handed weapon. This means that it
 may be held when a weapon or shield is being wielded in your other hand. A
 javelin is considered a weapon for the purposes of spells.
 
-### Missile Weapons ###
+### Missile Weapons ### {#missile-weapons}
 
 Projectile weapons such as arrows, crossbow bolts, spells (like Magic Missile),
 and javelins cannot be targeted at your opponent's head. Head shots from
@@ -867,7 +867,7 @@ Be sure to follow these guidelines when constructing a weapon:
 \* add 5" camp/yoga foam sleeve starting beneath the foam disk extending away
 from the tip
 
-### Double-bladed weapons (including Marns) ###
+### Double-bladed weapons (including Marns) ### {#double-bladed-weapons}
 
 * No surface of a double-bladed one-handed slashing weapon may be shorter than
   6".
@@ -879,7 +879,7 @@ from the tip
   must provide non-damaging covering foam or other padding as a courtesy to
   shield the exposed core.
 
-### Arrows, Javelins, and other Missile Weapons ###
+### Arrows, Javelins, and other Missile Weapons ### {#arrows-javelins-and-other-missile-weapons}
 
 __T8 and Aqua Tube Arrows__
 
@@ -956,14 +956,14 @@ for the purpose of ensuring safety and should never be used for strategic or
 tactical purposes. The EH or a designated marshal retains final ruling on the
 approval for use of any armor, weapon, or shield.
 
-### Armor Inspection ###
+### Armor Inspection ### {#armor-inspection}
 
 Armor can be failed or the point value of armor may be adjusted for many
 reasons. Armor can have exposed edges that could cause a safety concern for the
 wearer or other combatants. The EH or designated marshal retains final ruling on
 the point value and approval for use of armor.
 
-### Shield Inspection ###
+### Shield Inspection ### {#shield-inspection}
 
 Shields can be failed for many reasons. A shield can have exposed edges or
 protrusions that could cause a safety concern for the wearer or other
@@ -971,7 +971,7 @@ combatants. A shield can be failed if it has seen too much abuse and has not
 been repaired recently. The EH or designated marshal retains final ruling on the
 approval for use of a shield.
 
-### Weapon Inspection ###
+### Weapon Inspection ### {#weapon-inspection-construction}
 
 Weapons can be failed for many reasons. A weapon can have too much "whip" (one
 that flexes too much) or not enough "whip" (one that doesn't flex at all). There
@@ -986,7 +986,7 @@ the approval for use of a weapon.
 Combat calls are what you may hear yelled in combat, and you must know how these
 calls affect your PC.
 
-### Armor ###
+### Armor ### {#armor-call}
 
 Negates a hit attack. When "Armor" (or "Armor 1," "Armor 2," or "Armored Cloak")
 is called in combat, it means that the person calling armor is protected against
@@ -1109,7 +1109,7 @@ differently than being hit by a normal weapon.
 
 ## 4.1: In-Character and Out-of-Character ## {#in-character-and-out-of-character}
 
-### Being In-Character ###
+### Being In-Character ### {#being-in-character}
 
 Generally, events officially begin after the safety rules, any specific site
 rules, and other special event rules have been read aloud to the gathered
@@ -1130,7 +1130,7 @@ Sometimes staying IC is challenging, especially when you know something that
 your character shouldn't logically know, but you should try to remain IC when
 playing. Likewise, when the game is done, leave your character behind.
 
-### Breaking Character ###
+### Breaking Character ### {#breaking-character}
 
 Once an event has begun, breaking character should be done only when necessary.
 If you must do so, what you say should be prefaced with "Out-of-character," as
@@ -1143,7 +1143,7 @@ whether animosity or other emotions are completely IC. It is acceptable to break
 character to make sure everything is in fact still IC and no one's feelings are
 getting hurt OOC.
 
-### Out-of-Character-Only Terms ###
+### Out-of-Character-Only Terms ### {#out-of-character-only-terms}
 
 There are a few terms that should only be used when speaking OOC: "Hold" and
 "Medic." Hold is only used in emergencies as it stops the game. Read [Section
@@ -1153,7 +1153,7 @@ medical attention for any reason: an allergic reaction to a bee-sting, a twisted
 ankle, an asthma attack, etc. Do not call "Medic" for imaginary (IC) injuries.
 If you need IC medical attention, call "Healer!"
 
-### Out-of-Play Areas and Time-Out ###
+### Out-of-Play Areas and Time-Out ### {#out-of-play-areas-and-time-out}
 
 The EH has the option of declaring portions of the event site as "out-of-play"
 for safety reasons or for NPC use. Never use these out-of-play areas as safe
@@ -1197,7 +1197,7 @@ word "Stealable" is likely written somewhere on the object.
 Players must assume that any props or items used by event staff are not
 stealable unless labeled as such or told otherwise by event staff.
 
-### Searching ###
+### Searching ### {#searching}
 
 Searching is a touchy subject. In the real world, if a bandit has just killed
 someone they can just take everything they own. In the Realms, an object has to
@@ -1213,7 +1213,7 @@ searching in the past. The rule is mostly common sense. Once you think about it,
 it will seem quite simple. There are two ways you can search someone, using a
 Point Search or Full Search.
 
-### Point Search ###
+### Point Search ### {#point-search}
 
 To simulate ransacking a character's pouches, weapons, and clothing quickly, a
 player can "point search." Essentially, the searcher says "Search" and tells the
@@ -1228,7 +1228,7 @@ individually; left and right sleeves, boots, gloves, etc., all have to be
 searched separately, one at a time. Only one person can point search a victim at
 a time. Point searching does not wake up an unconscious character.
 
-### Full Search ###
+### Full Search ### {#full-search}
 
 The other way to search someone is to simulate taking your time to do it
 thoroughly. That is, the character simulates stripping the body from head to
@@ -1246,7 +1246,7 @@ they are performing, then it is assumed that they are performing a point search.
 If told only that they are being searched, the player whose character is being
 searched must assume it is a point search and respond, "Where?"
 
-### Realms Thieves ###
+### Realms Thieves ### {#realms-thieves}
 
 The only objects that are always in-play, are fair game for theft, and can be
 stolen without consulting the bearer of the object, are those considered
@@ -1275,7 +1275,7 @@ not acceptable and will not be upheld.
 
 ## 4.4: In-Game Items ## {#in-game-items}
 
-### Currency ###
+### Currency ### {#currency}
 
 Various groups and nations issue different currencies for use as treasure and to
 pay for goods and services in-game. These currencies are often represented by
@@ -1291,12 +1291,12 @@ Issues and worth of coins fluctuate. If you're in doubt as to what a coin is
 worth, ask the merchants and the gamblers. Realms currency cannot be
 counterfeited; to do so is cheating.
 
-### Silver Weapons ###
+### Silver Weapons ### {#silver-weapons}
 
 Silver weapons are created by players with the spell [Reforge](#reforge) or are
 released by EHs.
 
-### Magic Items and Magic Weapons ###
+### Magic Items and Magic Weapons ### {#magic-items-and-magic-weapons}
 
 All magic items and magic weapons are stealable.
 
@@ -1381,7 +1381,7 @@ stated in the [Enchanted Beings Caveat](#enchanted-beings).
 
 ## 5.4: Being a Realms Spellcaster ## {#being-a-realms-spellcaster}
 
-### Basics ###
+### Basics ### {#basics-of-being-a-caster}
 
 The magic system is based on a simple path setup. There are many different paths
 available to a spellcaster, with each path consisting of a list of spells. A
@@ -1390,7 +1390,7 @@ progress, with weapon use becoming more restricted as the number of paths
 learned increases. Being a spellcaster requires two things: a spellbook and
 knowledge of the magic system.
 
-### Spellbooks ###
+### Spellbooks ### {#spellbooks}
 
 All spellcasters must have a spellbook, which records details of the spells the
 spellcaster knows. It is a marshaling tool and cannot be stolen from the PC. A
@@ -1445,26 +1445,26 @@ the inspecting Event Holder or Magic Marshal.
 
 In all cases, spellbooks remain non-stealable items.
 
-### Knowledge of the Magic System ###
+### Knowledge of the Magic System ### {#knowledge-of-the-magic-system}
 
 All spellcasters are responsible for knowing how the magic system works,
 specifically the spells they can cast. A spellcaster who misuses their spells is
 not allowed to claim ignorance as an excuse.
 
-### Spell Resets ###
+### Spell Resets ### {#spell-resets}
 
 During some Realms events, you may be told a spell reset has occurred. This
 means some portion of your magical resources have been restored to your PC. The
 specific effects of a spell reset will change from event to event, so be sure to
 ask the EH or MM for details.
 
-### Checking In ###
+### Checking In ### {#checking-in-spellcasters}
 
 As mentioned previously, a spellcaster must check in their spellbook with the EH
 or the appointed MM before using or learning spells (see [Section 1.4: Attending
 an Event](#attending-an-event) for more details).
 
-### Weapon Restrictions and Magic ###
+### Weapon Restrictions and Magic ### {#weapon-restrictions-and-magic}
 
 Weapon restrictions are a matter of game balance. See below:
 
@@ -1515,7 +1515,7 @@ being blocked by a weapon they are carrying for a friend, they have the option
 of either the previous penalty or taking the blow that was blocked. This
 decision must be made immediately.
 
-### Armor ###
+### Armor ### {#armor-restriction}
 
 Armor restrictions are a matter of game balance. Spellcasters may only use light
 armor (1-point) but at a cost to wear it. See below:
@@ -1580,7 +1580,7 @@ The following are some rules about spells that can have an effect on your
 character on a day-to-day basis. They are included here with some basic
 information about how they affect you both IC and OOC.
 
-### Healing Spells ###
+### Healing Spells ### {#healing-spells}
 
 When your character is injured or killed, only magic can fix the damage. To
 raise a character means to return a character to life. Raising a character
@@ -1615,7 +1615,7 @@ examined by another person, wounds can be seen to be regenerating. If you are
 [diseased](#disease), it takes twice as long to regenerate. The effect ends when
 you are raised.
 
-### Combat Spells ###
+### Combat Spells ### {#combat-spells}
 
 Certain combat calls (see [Lightning Bolt](#lightning-bolt-call) and [Magic
 Missile](#magic-call) in [Section 3.11: Combat Calls](#combat-calls-section))
@@ -1626,7 +1626,7 @@ hidden (e.g., putting a bucket over it). The prop is not considered a weapon and
 does not cause [Spell Failure](#spell-failure) except while the spell is active
 (i.e. from when the prop is thrown until it comes to rest).
 
-### Undeath ###
+### Undeath ### {#undeath}
 
 Certain spells make your character undead for their duration. Your character
 will remember what happened to them while they were undead. While undead, your
@@ -1710,7 +1710,7 @@ used again.
 * [Potion of Heal Limb](#potion-of-heal-limb): it heals all of a character's
   injured limbs when used.
 
-### Blacksmith Spells ###
+### Blacksmith Spells ### {#blacksmith-spells}
 
 Certain spells repair damaged armor and broken items.
 
@@ -1722,7 +1722,7 @@ Certain spells repair damaged armor and broken items.
   fixes the entire item. For example, all hit locations of someone's armor, a
   bow, a boulder-crushed weapon, a shield, etc.
 
-### Other Spells and Things You Should Know ###
+### Other Spells and Things You Should Know ### {#other-spells-and-things-you-should-know}
 
 * [Create Poison](#create-poison): if you ingest food or drink that is poisoned
   through the use of this spell, you will be handed a scroll upon which is
@@ -1774,7 +1774,7 @@ may choose a different spell from the list, a new spell, or nothing.
 
 ## 6.2: Learning and Unlearning Spells ## {#learning-and-unlearning-spells}
 
-### Choosing Spells ###
+### Choosing Spells ### {#choosing-spells}
 
 The first step in choosing spells is to decide which 1st circle spell you want
 to learn. Each path of magic is a list of spells of 5 increasing circles. 
@@ -1792,13 +1792,13 @@ learn one spell from each of 2nd through 6th circles, possibly learning some
 spells for a second time. If they learn a third path, they again learn one spell
 from each of 1st through 5th circles.
 
-### Learning Progessions ###
+### Learning Progression ### {#learning-progression}
 
 At every event a character attends, they have the possibility of learning one or
 more spells. If they do not learn a spell at that event, for whatever reason,
 the opportunity is wasted and they may try again at the next event.
 
-### Learning a Spell ###
+### Learning a Spell ### {#learning-a-spell}
 
 There are three ways to learn a spell. You should find a PC who knows the spell
 and learn it from them. The PC who is teaching the spell must have the spell in
@@ -1824,7 +1824,7 @@ and play that PC. Teaching yourself from Spell Mastery counts as a single
 teacher's signature. A teacher or quest giver may only sign off on one spell per
 player per event.
 
-### Unlearning Spells ###
+### Unlearning Spells ### {#unlearning-spells}
 
 Any number of spells may be unlearned at check-in of an event. You may not learn
 a spell at an event where you are unlearning any spells. If you unlearn all the
@@ -1885,7 +1885,7 @@ Basic Potions
 
 ## 6.3: The Basics of a Spell ## {#the-basics-of-a-spell}
 
-### Spell Components ###
+### Spell Components ### {#spell-components}
 
 Spells have components that are necessary in order to cast the spells. Some are
 specific, and every player must use the same component to make sure that
@@ -4082,25 +4082,24 @@ streamline the administration involved with running the Realms. Below you will
 find the titles, names, contact information, and a brief description of their
 duties:
 
-__[Death Marshal]{#death-marshal}:__ Keith Cronyn (<Keith.Cronyn@gmail.com>,
-603-819-8689). Tracks and maintains ticks that are reported by EHs from their
-event for a character, or reported by a character's player for their own
-character.
+[Death Marshal]{#death-marshal}:
+: Keith Cronyn (<Keith.Cronyn@gmail.com>, 603-819-8689). Tracks and maintains
+  ticks that are reported by EHs from their event for a character, or reported
+  by a character's player for their own character.
 
-__[Event List Administrator](#event-list-administer):__ Ian Pushee
-(<bright@giantsquid.net>). Responsible for maintaining an official list of
-events. The list is available online at <http://www.realmsnet.net>.
+[Event List Administrator]{#event-list-administer}:
+: Ian Pushee (<bright@giantsquid.net>). Responsible for maintaining an official
+  list of events. The list is available online at <http://www.realmsnet.net>.
 
-__[Keeper of the List of Realms Magic Items](#magic-item-marshal):__ Neil Tozier
-(<iamtmib@gmail.com>, 603-689-5298) Responsible for maintaining an official list
-of [Realms Magic Items](#magic-item-rules). The list is available to EHs online
-at <http://www.realmsnet.net>.
+[Keeper of the List of Realms Magic Items]{#magic-item-marshal}:
+: Neil Tozier (<iamtmib@gmail.com>, 603-689-5298) Responsible for maintaining an
+  official list of [Realms Magic Items](#magic-item-rules). The list is
+  available to EHs online at <http://www.realmsnet.net>.
 
-__[Players' Meeting and Event Holders' Council
-Organizers](#meeting-organizers):__ John Berrini (<SgtBerrini@gmail.com>,
-603-398-6352) and Neil Tozier. Responsible for organizing, announcing, and
-running both the Players' Meeting and the Event Holders' Council for the
-following calendar year.
+[Players' Meeting and Event Holders' Council Organizers]{#meeting-organizers}:
+: John Berrini (<SgtBerrini@gmail.com>, 603-398-6352) and Neil Tozier.
+  Responsible for organizing, announcing, and running both the Players' Meeting
+  and the Event Holders' Council for the following calendar year.
 
 At the end of the Event Holders' Council, the EHs will discuss and vote on
 whether to and how to grandfather spells based on the changes made to the
