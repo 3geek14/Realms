@@ -1,3 +1,5 @@
+% Markdown Tutorial
+
 [Index](https://3geek14.github.io/Realms/)
 
 # Markdown Tutorial #
@@ -67,7 +69,7 @@ numbered. Here are some examples from the Omnibus:
     ### Realms Events ###
 
 ::: {.example}
-# 1: General Player Information #
+# 1: General Player Information # {#general-player-information-1}
 
 ## 1.3: How Do I Start Playing? ##
 

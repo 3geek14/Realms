@@ -1,11 +1,11 @@
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
-
 # Realms #
 
 This repository maintains the Realms Omnibus, and is primarily used by the
 Omnibus Editorial Committee. If you happen to prefer git pull requests over the
 proposal system on the Realms website, Pi is willing to convert pull requests
-from here into proposals on [RealmsNet](https://www.realmsnet.net/).
+from here into proposals on [RealmsNet](https://www.realmsnet.net/). Please do
+not assume your pull requests will be merged if you aren't on the OEC; they will
+most likely be closed.
 
 # Guides #
 
