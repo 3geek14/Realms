@@ -16,7 +16,9 @@ code is consistent.
 
 To convert from Markdown to HTML, we use Pandoc. [Pandoc's
 website](http://www.pandoc.org/installing.html) has installation instructions.
-Once installed, you can compile a new version of the Omnibus with the command:
+Please use version 2.5, which is the most recent version, so that you have the
+same version as everyone else. Once installed, you can compile a new version of
+the Omnibus with the command:
 
     pandoc -o Omnibus.html -s -c pandoc.css Omnibus.md
 
