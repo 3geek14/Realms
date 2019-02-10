@@ -2753,10 +2753,11 @@ uses drama and theatrics has a better chance of success.
 [__Embrace Death__ (6th Circle)]{#embrace-death}
 
 __Uses:__ 1 - __Verbal:__ 40 words - __Material:__ A container at least 4 inches
-in diameter able to hold the spellcaster's scalp token. The container cannot be
-placed into [Deep Pockets](#deep-pockets). - __Caveats:__ [Enchanted
-Items](#enchanted-items), [Regeneration](#regeneration-caveat), [Basic
-Regeneration](#basic-regeneration), [Undead](#undead)
+in diameter able to hold the spellcaster's scalp token[, labeled with
+"Event-Stealable"]{.new}. The container cannot be placed into [Deep
+Pockets](#deep-pockets). - __Caveats:__ [Enchanted Items](#enchanted-items),
+[Regeneration](#regeneration-caveat), [Basic Regeneration](#basic-regeneration),
+[Undead](#undead)
 
 This spell allows the spellcaster to remove their soul from their body, giving
 them the ability to defy death. The spellcaster's scalp token is the only thing
@@ -2764,10 +2765,10 @@ which may be stored in the MC (hereafter referred to as the phylactery). When
 the spell is learned, the spellcaster must scribe in their spellbook a
 description of exactly what the phylactery looks like. Upon casting this spell,
 the spellcaster places their scalp token within the phylactery, which becomes an
-[event-stealable](#event-stealable) item for the duration of the spell and
-should be marked as such. The spellcaster may do whatever they want with the
-phylactery: place it in a mundane pocket, hide it, give it to someone, etc.
-However, the phylactery may not be put into [Deep Pockets](#deep-pockets).
+[event-stealable](#event-stealable) item for the duration of the spell. The
+spellcaster may do whatever they want with the phylactery: place it in a mundane
+pocket, hide it, give it to someone, etc. However, the phylactery may not be put
+into [Deep Pockets](#deep-pockets).
 
 While under the effects of this spell, the spellcaster is undead (see the
 [Undead Caveat](#undead)) and is not affected by poisons, diseases, or the
@@ -2859,13 +2860,13 @@ should choose their targets wisely.
 [__Familiar__ (5th Circle)]{#familiar}
 
 __Uses:__ 1. The spellcaster may only have one in-play - __Material:__ A stuffed
-or toy animal that must be at least 4" tall - __Caveats:__
+or toy animal that must be at least 4" tall[, labeled with the spellcaster's
+name and the words "Event-Stealable"]{.new} - __Caveats:__
 [Suspension](#suspension)
 
 The spellcaster has a familiar that grants them more spell potential,
 represented by a specific stuffed or toy animal. The familiar cannot be slain or
-disenchanted, but can be stolen. The stuffed animal must be labeled with the
-spellcaster's name and the words "Event-Stealable."
+disenchanted, but can be stolen.
 
 Any additional spells provided by the familiar require the presence of the
 familiar to cast it and maintain it, as if the familiar were a spell focus or
