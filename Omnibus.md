@@ -2188,7 +2188,7 @@ All spells known after grandfathering may be added to the spellcaster's "Spell
 Mastery" section, in addition to the list they had before grandfathering (if
 any).
 
-## 6.6: The Spells ## {#the-spells}
+## 6.6: [Spell Chart]{.new} ## {#spell-chart}
 
 +:----------------------------------------------------:+:----------------------------------------------------:+:----------------------------------------------------:+
 |                                                      | 1st Circle Spells                                    |                                                      |
@@ -2239,7 +2239,7 @@ any).
 | [Intervention](#intervention)                        | [Resist Death](#resist-death)                        | [Transformation](#transformation)                    |
 +------------------------------------------------------+------------------------------------------------------+------------------------------------------------------+
 
-### Spell Descriptions ### {#spell-descriptions}
+## [6.7:]{.new} Spell Descriptions ## {#spell-descriptions}
 
 [__Animal Companion__ (4th Circle)]{#animal-companion}
 
