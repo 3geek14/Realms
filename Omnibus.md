@@ -2505,8 +2505,8 @@ __Uses:__ 3
 
 Allows the spellcaster to gain one casting of any First Circle spell, chosen at
 the time of casting. The spell gained must be cast following the rules for that
-spell, including VC, MC, and ACs. This spell cannot be used with
-[Implement](#implement).
+spell, including VC, MC, and ACs. This spell cannot be used [to cast]{.new}
+[Implement](#implement) [or [Strange Brew](#strange-brew)]{.new}.
 
 [__Circle of Healing__ (5th Circle)]{#circle-of-healing}
 
