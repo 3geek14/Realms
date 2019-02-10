@@ -3694,8 +3694,9 @@ __Uses:__ Special, see [Alchemy](#alchemy) - __Caveats:__
 [Potions](#potions-caveat)
 
 You may create 2 additional types of potions listed below using
-[Alchemy](#alchemy). Upon learning Strange Brew, you must write down the potions
-you are choosing to learn and their specific rules:
+[Alchemy](#alchemy). Upon learning Strange Brew, you must [record]{.new} the
+potions you are choosing to learn and their specific rules [in your
+spellbook]{.new}:
 
 * Potion of Acid (5 Points): Deals 200 blows to a body, only usable on
   non-living objects.
