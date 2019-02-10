@@ -766,9 +766,10 @@ is legal to fire it with one hand— if you can! A bow is not considered a
 "weapon" for purposes of determining whether a spell fails; arrows are
 considered weapons and will cause some spells to fail.
 
-Bows must have a draw-weight of 30 pounds or less. Just like melee weapons, you
-should be careful on how hard your arrows are striking your opponent. Arrows
-should be drawn with the minimal pull necessary to score a successful hit.
+Bows must have a [full]{.new} draw-weight of 30 pounds or less. Just like melee
+weapons, you should be careful on how hard your arrows are striking your
+opponent. Arrows should be drawn with the minimal pull necessary to score a
+successful hit.
 
 If a weapon hits a wielded bow or nocked arrow, the bow is "broken" and may no
 longer be used in combat. Anyone can fix a broken bow by holding the bow with
