@@ -153,8 +153,8 @@ repaired.
 ## 1.5: Alcohol Policy ## {#alcohol-policy}
 
 Alcohol is not permitted unless explicitly allowed by the Event Holder. An event
-advertised as damp or wet is informing attendants that alcohol is allowed in
-accordance with state and federal laws.
+advertised as damp or wet is informing attendants that alcohol is allowed[,
+subject to]{.new} state and federal laws.
 
 # 2: Core Rules # {#core-rules}
 
