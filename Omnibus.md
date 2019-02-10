@@ -2070,12 +2070,12 @@ is complete.
 
 ### Advanced Regeneration ### {#advanced-regeneration}
 
-An advanced regeneration is a regeneration from death or scalping which begins
-when the character dies (or is scalped if it brings a character back from
-scalping). Each time they die, the spellcaster may choose to double the length
-of their regeneration (to 240 seconds, or 480 if diseased). The regeneration is
-not considered used if the target is raised before their regeneration is
-complete.
+An advanced regeneration is a regeneration from death [(]{.new}or scalping[, if
+specified in the spell description)]{.new} which begins when the character dies
+(or is scalped[,]{.new} if it brings a character back from scalping). Each time
+they die, the spellcaster may choose to double the length of their regeneration
+(to 240 seconds, or 480 if diseased). The regeneration is not considered used if
+the target is raised before their regeneration is complete.
 
 ### Spell Sash ### {#spell-sash}
 
@@ -3444,9 +3444,9 @@ spellcaster's scalp, with some sort of indication that it is their second scalp
 - __Caveats:__ [Regeneration](#regeneration-caveat), [Advanced
 Regeneration](#advanced-regeneration)
 
-This spell grants an advanced regeneration which will return a character to life
-from scalping. After regenerating in this fashion, the material component
-becomes the spellcaster's new scalp token.
+This spell grants an advanced regeneration which [returns]{.new} a character to
+life from scalping [only]{.new}. After regenerating in this fashion, the
+material component becomes the spellcaster's new scalp token.
 
 [__Regeneration__ (5th Circle)]{#regeneration-spell}
 
