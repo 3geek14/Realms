@@ -914,8 +914,8 @@ __LARP Arrows__
 
 [__Lightning Bolts__]{#lightning-bolt-construction}
 
-A Lightning Bolt prop is an arrow or javelin made with the following additional
-details:
+A Lightning Bolt prop is a [T8, golf tube, or aqua tube]{.new} arrow[,]{.new} or
+[a]{.new} javelin made with the following additional details:
 
 * It must be primarily white. 
 * It must be between 2'6" and 3'6" in length. The prop is not subject to the
@@ -3191,16 +3191,9 @@ white boff arrow or javelin prop between 2'6" and 3'6" long - __Caveats:__
 [Combat Calls](#combat-calls-caveat)
 
 This spell allows the spellcaster to throw a stronger bolt of magic than [Magic
-Missile](#magic-missile). The MC for the spell is a golf tube, aqua tube, or T8
-fluorescent light cover arrow or javelin prop made following the [Weapon
-Construction](#weapon-construction) rules for arrows and javelins with the
-following additions:
-
-* The prop must be primarily white.
-* The prop must be between 2'6" and 3'6" in length and cannot have an arrow
-  nock. The prop is not subject to the spellcaster's weapon length restriction.
-* The prop must have the words "Lightning Bolt" and the spellcaster's name
-  written visibly along the shaft.
+Missile](#magic-missile). The MC for the spell [must be made following the
+[Weapon Construction rules for Lightning
+Bolts](#lightning-bolt-construction)]{.new}
 
 The prop is a physical representation of the magic. After it comes to rest, it
 cannot be affected or moved by anyone other than the spellcaster, but it may
