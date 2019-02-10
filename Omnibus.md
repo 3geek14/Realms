@@ -3012,9 +3012,8 @@ gathered into the circle. The spellcaster(s) must then recite the VC, which
 empowers the circle.
 
 The next spell from the accepted list cast into this circle by any spellcaster
-affects all within as if it had been cast on each individually; in most cases
-any MC is only used once. The [Immunity to Poison](#immunity-to-poison) spell
-still requires the necessary components to cast for each character affected.
+affects all within as if it had been cast on each individually. [If the spell
+has any MC, only one is used.]{.new}
 
 [__Guidance__ (2nd Circle)]{#guidance}
 
