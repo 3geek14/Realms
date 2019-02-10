@@ -2515,15 +2515,15 @@ Touch the rope - __Caveats:__ [Circles](#circles), [Suspension](#suspension)
 
 This spell allows the spellcaster to create a Circle of Healing. The spellcaster
 may name the circle with [Cure Disease](#cure-disease), [Heal Limb](#heal-limb),
-or [Raise Dead](#raise-dead), chosen at the time of casting. Until the Circle of
-Healing is broken, the spellcaster need only stand in the circle, touch the
-recipient of the healing spell, and recite the named spell's VC to cast the
-spell. This does not use up any castings of the named healing spell, and can be
-done as many times as desired. No one but the spellcaster may use the Circle of
-Healing in this manner. This spell is broken if a weapon crosses the plane of
-the circle. For this purpose, a weapon is considered to be anything with a legal
-striking surface - therefore, swords and arrows are weapons, although bows and
-shields are not.
+or [Raise Dead](#raise-dead), chosen at the time of casting. [While the
+spellcaster is standing in the Circle of Healing, they may cast the named spell
+as many times as desired without consuming a use of that spell. Except for the
+MC of Cure Disease, all of the requirements of the named spell must be met for
+each casting, including the AC and VC.]{.new} No one but the spellcaster may use
+the Circle of Healing in this manner. This spell is broken if a weapon crosses
+the plane of the circle. For this purpose, a weapon is considered to be anything
+with a legal striking surface - therefore, swords and arrows are weapons,
+although bows and shields are not.
 
 [__Circle of Protection__ (4th Circle)]{#circle-of-protection}
 
