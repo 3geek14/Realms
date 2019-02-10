@@ -2202,18 +2202,18 @@ any).
 +------------------------------------------------------+------------------------------------------------------+------------------------------------------------------+
 |                                                      | 2nd Circle Spells                                    |                                                      |
 +------------------------------------------------------+------------------------------------------------------+------------------------------------------------------+
-| [Aura of Protection](#aura-of-protection)\           | [Group Healing](#group-healing)\                     | [Protection from Missile](#protection-from-missile)\ |
-| [Death Watch](#death-watch)\                         | [Guidance](#guidance)\                               | [Repair Item](#repair-item)\                         |
-| [Deep Pockets](#deep-pockets)                        | [Heal Limb](#heal-limb)                              | [Ward: Undead](#ward-undead)                         |
+| [Aura of Protection](#aura-of-protection)\           | [Enchant Weapon](#enchant-weapon){.new}\             | [Protect the Soul](#protect-the-soul){.new}\         |
+| [Death Watch](#death-watch)\                         | [Group Healing](#group-healing)\                     | [Protection from Missile](#protection-from-missile)\ |
+| [Deep Pockets](#deep-pockets)\                       | [Guidance](#guidance)\                               | [Repair Item](#repair-item)\                         |
+| [Disenchant](#disenchant){.new}                      | [Heal Limb](#heal-limb)                              | [Ward: Undead](#ward-undead)                         |
 +------------------------------------------------------+------------------------------------------------------+------------------------------------------------------+
 |                                                      | 3rd Circle Spells                                    |                                                      |
 +------------------------------------------------------+------------------------------------------------------+------------------------------------------------------+
-| [Animate Lesser Undead](#animate-lesser-undead)\     | [Enchant Weapon](#enchant-weapon)\                   | [Protect the Soul](#protect-the-soul)\               |
-| [Beckon Corpse](#beckon-corpse)\                     | [Enfeeble Being](#enfeeble-being)\                   | [Purity to Disease](#purity-to-disease)\             |
-| [Cantrip](#cantrip)\                                 | [Feign Death](#feign-death)\                         | [Purity to Poison](#purity-to-poison)\               |
-| [Commune with Spirit](#commune-with-spirit)\         | [Fortune Tell](#fortune-tell)\                       | [Raise Dead](#raise-dead)\                           |
-| [Disease Weapon](#disease-weapon)\                   | [Precognition](#precognition)\                       | [Skew Divination](#skew-divination)\                 |
-| [Disenchant](#disenchant)                            |                                                      | [Soul Bane](#soul-bane)                              |
+| [Animate Lesser Undead](#animate-lesser-undead)\     | [Enfeeble Being](#enfeeble-being)\                   | [Purity to Disease](#purity-to-disease)\             |
+| [Beckon Corpse](#beckon-corpse)\                     | [Feign Death](#feign-death)\                         | [Purity to Poison](#purity-to-poison)\               |
+| [Cantrip](#cantrip)\                                 | [Fortune Tell](#fortune-tell)\                       | [Raise Dead](#raise-dead)\                           |
+| [Commune with Spirit](#commune-with-spirit)\         | [Precognition](#precognition)                        | [Skew Divination](#skew-divination)\                 |
+| [Disease Weapon](#disease-weapon)                    |                                                      | [Soul Bane](#soul-bane)                              |
 +------------------------------------------------------+------------------------------------------------------+------------------------------------------------------+
 |                                                      | 4th Circle Spells                                    |                                                      |
 +------------------------------------------------------+------------------------------------------------------+------------------------------------------------------+
@@ -2693,7 +2693,7 @@ This spell allows the spellcaster to temporarily enchant their weapon. After
 preparing it with the spell, it is considered a diseased weapon and the
 spellcaster must call "[Disease](#disease)" on the next swing of the weapon.
 
-[__Disenchant__ (3rd Circle)]{#disenchant}
+[__Disenchant__ ([2nd]{.new} Circle)]{#disenchant}
 
 __Uses:__ 2 - __Verbal:__ 30 words - __Active:__ Touch the target item
 
@@ -2828,7 +2828,7 @@ require the caster to currently have the spell [Repair Armor](#repair-armor) or
 have any remaining castings of [Repair Armor](#repair-armor) in order to use
 this effect.
 
-[__Enchant Weapon__ (3rd Circle)]{#enchant-weapon}
+[__Enchant Weapon__ ([2nd]{.new} Circle)]{#enchant-weapon}
 
 __Uses:__ 5 - __Verbal:__ 10 words - __Active:__ Hold the target weapon with
 both hands - __Caveats:__ [Combat Calls](#combat-calls-caveat), [Enchanted
@@ -3314,7 +3314,7 @@ boulder would not be destroyed, but the wielder would still suffer normal damage
 item may only have one casting of Protect Item on it at a time. This spell does
 not protect against [Disenchant](#disenchant).
 
-[__Protect the Soul__ (3rd Circle)]{#protect-the-soul}
+[__Protect the Soul__ ([2nd]{.new} Circle)]{#protect-the-soul}
 
 __Uses:__ 1 - __Verbal:__ 30 words and an explanation - __Material:__ Spell Sash
 - __Caveats:__ [Enchanted Items](#enchanted-items), [Spell Sash](#spell-sash)
