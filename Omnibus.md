@@ -2072,8 +2072,8 @@ takes 120 seconds. If you are [diseased](#disease), it takes twice as long to
 regenerate. You may only be under the effects of one basic regeneration and
 one advanced regeneration at a time. If more than one source is causing you to
 regenerate, you may choose which of those spells is causing you to regenerate.
-A regeneration will only work on someone who is soulless if the spell directly
-states that it can.
+A regeneration will only work on someone who is [soulless]{.new} if the spell
+directly states that it can.
 
 ### Basic Regeneration ### {#basic-regeneration}
 
