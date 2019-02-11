@@ -3982,11 +3982,12 @@ above and beyond a normal player.
 
 ## 7.3: Arbitration Committee ## {#arbitration-committee}
 
-The Arbitration Committee is a group of five members and two alternates
-nominated and elected yearly at the EHC that seeks to resolve issues by
-speaking or meeting with the affected individuals and, in the case where
-actions are detrimental to the community, levy penalties against individuals.
-The Arbitration Committee can be reached at <arbitration@lists.realmsnet.net>.
+The [Arbitration Committee](https://www.realmsnet.net/arbitration) is a group of
+five members and two alternates nominated and elected yearly at the EHC that
+seeks to resolve issues by speaking or meeting with the affected individuals
+and, in the case where actions are detrimental to the community, levy penalties
+against individuals. The Arbitration Committee can be reached at
+<arbitration@lists.realmsnet.net>.
 
 When individuals are found responsible for breaking rules by a simple majority
 of the Arbitration Committee, the committee may levy punishment consistent
@@ -3994,6 +3995,19 @@ with both the charge and a goal of working to resolve the issue in the future.
 
 At an emergency meeting of the EHC, a 2/3 vote of the council can overturn or
 amend the actions of the Arbitration Committee.
+
+[Every year, at the EHC, the Arbitration Committee must present a report which
+details:]{.new}
+
+* [The total number of items submitted in the past year]{.new}
+* [The number of non-actionable reports of behavior submitted in the past
+  year]{.new}
+* [The number of complaint forms submitted in the past year]{.new}
+* [The number of complaints that were actionable]{.new}
+* [A brief summary of each actionable complaint, including its conclusion]{.new}
+
+[The report should be made publicly available on
+[RealmsNet](https://www.realmsnet.net/arbitration).]{.new}
 
 The players elected to the 2018 Arbitration Committee are Angela Gray,
 Ben Greene, Hannah Blood, John Berrini, and Keith Cronyn.
