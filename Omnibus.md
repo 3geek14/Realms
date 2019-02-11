@@ -3119,7 +3119,8 @@ Gain the following abilities for 1 point each:
   be done once.
 * The AC for [Death Watch](#death-watch) is changed to "Spellcaster must kneel
   on one knee holding their Implement with both hands for 60 seconds before
-  being killed." [The spell no longer ends when the caster is raised.]{.new}
+  being killed." [Additionally, the spell no longer ends when the spellcaster is
+  raised.]{.new}
 * The spell [Death Watch](#death-watch) allows the caster to move their head
   while dead. They still may not speak, try to communicate, or move in any other
   way while dead.
