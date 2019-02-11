@@ -3319,12 +3319,13 @@ not protect against [Disenchant](#disenchant).
 __Uses:__ 1 - __Verbal:__ 30 words and an explanation - __Material:__ Spell Sash
 - __Caveats:__ [Enchanted Items](#enchanted-items), [Spell Sash](#spell-sash)
 
-This spell will protect the recipient from possession, [Animate
-Undead](#animate-undead), and the like. When targeted by any spell or effect
-against which Protect the Soul immunizes your PC, you must call "Protect the
-Soul!" The spell will last until the sash is disenchanted or removed by the
-spellcaster. The spell will not function if the recipient is scalped or their
-soul is not within their body for any other reason.
+This spell will protect the recipient from possession, [spells under the
+[compulsion](#compulsion) caveat]{.new}, and [similar effects as determined by
+the MM/EH]{.new}. When targeted by any spell or effect against which Protect the
+Soul immunizes your PC, you must call "Protect the Soul!" The spell will last
+until the sash is disenchanted or removed by the spellcaster. The spell will not
+function if the recipient is scalped or their soul is not within their body for
+any other reason.
 
 [__Protection from Boulder__ (1st Circle)]{#protection-from-boulder}
 
