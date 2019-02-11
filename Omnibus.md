@@ -2884,7 +2884,7 @@ while the familiar is not in the spellcaster's possession. Any blow that strikes
 the familiar must be taken as if the familiar is not there.
 
 The spellcaster has 5 points to spend on extra spells for every casting of this
-spell, up to 15 points total.
+spell, up to [20]{.new} points total.
 
 +---------------------------------+-------------------+
 | Benefit                         | Cost              |
