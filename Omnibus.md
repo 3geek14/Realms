@@ -2836,13 +2836,18 @@ __Uses:__ 5 - __Verbal:__ 10 words - __Active:__ Hold the target weapon with
 both hands - __Caveats:__ [Combat Calls](#combat-calls-caveat), [Enchanted
 Items](#enchanted-items)
 
-This spell gives the spellcaster the ability to temporarily enchant a weapon or
-bow. After preparing it with the spell, the weapon user must call
-"[Magic](#magic-call)" or "[Silver](#silver)" the next 3 times they swing that
-weapon or fire that bow. The caster chooses which option, Magic or Silver, upon
-casting the spell, and must inform the recipient which option they are imbuing
-it with. These calls are expended whether the user scores a successful hit or
-not.
+This spell gives the spellcaster the ability to temporarily enchant a weapon[,
+arrow,]{.new} or bow. After preparing it with the spell, the weapon[, bow, or
+arrow]{.new} user must call "[Magic](#magic-call)" or "[Silver](#silver)" the
+next 3 times they swing that weapon[, the next 3 times they]{.new} fire that
+bow[, or the next time they fire that arrow]{.new}. The caster chooses which
+option, Magic or Silver, upon casting the spell, and must inform the recipient
+which option they are imbuing it with. These calls are expended whether the user
+scores a successful hit or not. [If an enchanted arrow is fired by an enchanted
+bow, a call is expended from both the bow and arrow. If an arrow is enchanted
+with a particular call and fired from a bow with a different call, the wielder
+may choose which call to use; regardless of the call chosen, a call is expended
+from both the bow and the arrow.]{.new}
 
 [__Enfeeble Being__ (3rd Circle)]{#enfeeble-being}
 
