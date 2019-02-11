@@ -3182,7 +3182,7 @@ be used if they are affected by a [Disrupt Light](#disrupt-light) spell. The
 spellcaster may not give a glow stick to anyone who is going to travel beyond
 easy speaking distance. It is possible for this spell to be disrupted. It is the
 spellcaster's responsibility to know what the Disrupt Light spell is, how to
-recognize it, and how to respond to it. It is a first circle spell.
+recognize it, and how to respond to it.
 
 [__Lightning Bolt__ (6th Circle)]{#lightning-bolt-spell}
 
