@@ -2177,13 +2177,14 @@ prepared weapon, the preparation is lost, and must be reapplied.
 
 ## 6.5: Grandfathering ## {#grandfathering}
 
-For the 2018 year only, all characters who were in existence (first attended an
-event) before February 25th, 2018 are allowed to have up to 15 spells, making a
-legal build following the rules of the current Omnibus. At the first event that
-their PC attends in the 2018 season where the Omnibus is available, they must
-get their spellbook checked in and signed by the Event Holder or their
-designated Magic Marshal(s). This signature counts for the signature
-requirements for all spells the PC grandfathers at this event.
+For the 201[9]{.new} year only, all characters who were in existence (first
+attended an event) before February [9]{.new}th, 201[9]{.new} are allowed to have
+up to 15 spells, making a legal build following the rules of the current
+Omnibus. At the first event that their PC attends in the 201[9]{.new} season
+where the Omnibus is available, they must get their spellbook checked in and
+signed by the Event Holder or their designated Magic Marshal(s). This signature
+counts for the signature requirements for all spells the PC grandfathers at this
+event.
 
 All spells known after grandfathering may be added to the spellcaster's "Spell
 Mastery" section, in addition to the list they had before grandfathering (if
