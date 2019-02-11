@@ -3803,6 +3803,10 @@ Miscellaneous Abilities:
   per the spell.
 * _[Heartiness](#heartiness):_ 1 point. As per the spell.
 
+[Spells gained through transformation are as per the spell specified, including
+number of castings. Each time you transform, the uses reset. Spells gained this
+way may only be cast while transformed.]{.new}
+
 [__Transmute Self__ (4th Circle)]{#transmute-self}
 
 __Uses:__ 3 - __Verbal:__ 10 word chant, repeated. The verbal must be chanted
