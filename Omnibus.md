@@ -487,15 +487,18 @@ will absorb one blow per hit location.
 
 Light armor is a thin, pliable kind of armor. Light armor can be made out of
 multiple layers of quilting or a moderate weight of leather [(approximately 2-4
-oz)]{.new}. A quilted cloth jerkin or a thin leather helmet are examples of
-1-point armor. Garment-weight leather (such as suede pants or moccasins) is not
-suitable for light armor.
+oz)]{.new}. A quilted cloth jerkin [(such as a piece that is thin, and does not
+easily return to its proper shape after bunching]{.new} or a thin leather
+helmet are examples of 1-point armor. Garment-weight leather (such as suede
+pants or moccasins) is not suitable for light armor.
 
 Heavy armor is in general bulkier, rigid, and more cumbersome than light armor.
-Hard-boiled leather, heavy-weight leather [(approximately 5+ oz)]{.new}, studded
-leather/cloth, brigandine, and chainmail/platemail are classic examples of
-2-point armor. Any armor that is studded must have at least one metallic
-component every square inch to count as heavy armor.
+Hard-boiled leather[;]{.new} heavy-weight leather [(approximately 5+ oz);]{.new}
+studded leather/cloth[; cloth that has obvious thickness to it, is made from
+multiple layers of material, and when bunched and released, quickly returns to
+its proper shape;]{.new} brigandine[;]{.new} and chainmail/platemail are classic
+examples of 2-point armor. Any armor that is studded must have at least one
+metallic component every square inch to count as heavy armor.
 
 Armor must allow you to feel blows through it and it must look like it would fit
 in a medieval or fantasy setting. 
