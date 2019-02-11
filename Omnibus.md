@@ -153,8 +153,8 @@ repaired.
 ## 1.5: Alcohol Policy ## {#alcohol-policy}
 
 Alcohol is not permitted unless explicitly allowed by the Event Holder. An event
-advertised as damp or wet is informing attendants that alcohol is allowed in
-accordance with state and federal laws.
+advertised as damp or wet is informing attendants that alcohol is allowed[,
+subject to]{.new} state and federal laws.
 
 # 2: Core Rules # {#core-rules}
 
@@ -486,15 +486,19 @@ absorb two blows per hit location before you have to take the shot. Light armor
 will absorb one blow per hit location.
 
 Light armor is a thin, pliable kind of armor. Light armor can be made out of
-multiple layers of quilting or a moderate weight of leather. A quilted cloth
-jerkin or a thin leather helmet are examples of 1-point armor. Garment-weight
-leather (such as suede pants or moccasins) is not suitable for light armor.
+multiple layers of quilting or a moderate weight of leather [(approximately 2-4
+oz)]{.new}. A quilted cloth jerkin [(such as a piece that is thin, and does not
+easily return to its proper shape after bunching]{.new} or a thin leather
+helmet are examples of 1-point armor. Garment-weight leather (such as suede
+pants or moccasins) is not suitable for light armor.
 
 Heavy armor is in general bulkier, rigid, and more cumbersome than light armor.
-Hard-boiled leather, heavy-weight leather, studded leather/cloth, brigandine,
-and chainmail/platemail are classic examples of 2-point armor. Any armor that is
-studded must have at least one metallic component every square inch to count as
-heavy armor.
+Hard-boiled leather[;]{.new} heavy-weight leather [(approximately 5+ oz);]{.new}
+studded leather/cloth[; cloth that has obvious thickness to it, is made from
+multiple layers of material, and when bunched and released, quickly returns to
+its proper shape;]{.new} brigandine[;]{.new} and chainmail/platemail are classic
+examples of 2-point armor. Any armor that is studded must have at least one
+metallic component every square inch to count as heavy armor.
 
 Armor must allow you to feel blows through it and it must look like it would fit
 in a medieval or fantasy setting. 
@@ -766,9 +770,10 @@ is legal to fire it with one hand— if you can! A bow is not considered a
 "weapon" for purposes of determining whether a spell fails; arrows are
 considered weapons and will cause some spells to fail.
 
-Bows must have a draw-weight of 30 pounds or less. Just like melee weapons, you
-should be careful on how hard your arrows are striking your opponent. Arrows
-should be drawn with the minimal pull necessary to score a successful hit.
+Bows must have a [full]{.new} draw-weight of 30 pounds or less. Just like melee
+weapons, you should be careful on how hard your arrows are striking your
+opponent. Arrows should be drawn with the minimal pull necessary to score a
+successful hit.
 
 If a weapon hits a wielded bow or nocked arrow, the bow is "broken" and may no
 longer be used in combat. Anyone can fix a broken bow by holding the bow with
@@ -858,11 +863,6 @@ Be sure to follow these guidelines when constructing a weapon:
 | Pikes\             | bamboo        | 3" *      | 1/4"      | 3"        | One-third     |
 | (>78" - 96")       |               |           |           |           | weapon length |
 +--------------------+---------------+-----------+-----------+-----------+---------------+
-| Arrows             | golf tube,    | 2"        | Not       | 2"        | 6"+           |
-|                    | aqua tube, T8 |           | Required  |           |               |
-|                    | fluorescent   |           |           |           |               |
-|                    | light covers  |           |           |           |               |
-+--------------------+---------------+-----------+-----------+-----------+---------------+
 
 \* add 5" camp/yoga foam sleeve starting beneath the foam disk extending away
 from the tip
@@ -881,7 +881,7 @@ from the tip
 
 ### Arrows, Javelins, and other Missile Weapons ### {#arrows-javelins-and-other-missile-weapons}
 
-__T8 and Aqua Tube Arrows__
+__T8[, golf tube,]{.new} and Aqua Tube Arrows__
 
 * All arrows must have 2" thrusting tips, 4" of pipe foam, and 2" squishy-foam
   tips to be considered safe.
@@ -914,8 +914,8 @@ __LARP Arrows__
 
 [__Lightning Bolts__]{#lightning-bolt-construction}
 
-A Lightning Bolt prop is an arrow or javelin made with the following additional
-details:
+A Lightning Bolt prop is a [T8, golf tube, or aqua tube]{.new} arrow[,]{.new} or
+[a]{.new} javelin[,]{.new} made with the following additional details:
 
 * It must be primarily white. 
 * It must be between 2'6" and 3'6" in length. The prop is not subject to the
@@ -1766,11 +1766,12 @@ A spellcaster may choose one of four options for each circle of a path:
 * A Regional Magic spell [(see below)](#regional-magic){.new}
 * Alchemy [(see below)](#alchemy){.new}
 
-When a spellcaster learns their first path of magic, they learn one spell from
-each of 1st through 5th circles, in order. If they learn a second path, they
-learn one spell from each of 2nd through 6th circles, possibly learning some
-spells for a second time. If they learn a third path, they again learn one spell
-from each of 1st through 5th circles.
+When a spellcaster learns their first path of magic, they [gain spell slots
+for]{.new} each of 1st through 5th circles, in order. If they learn a second
+path, they [gain spell slots for]{.new} each of 2nd through 6th circles, [in
+order]{.new}. If they learn a third path, they again [gain spell slots
+for]{.new} each of 1st through 5th circles. [The same spell may be taken
+multiple times.]{.new}
 
 ### Learning Progression ### {#learning-progression}
 
@@ -2072,12 +2073,12 @@ is complete.
 
 ### Advanced Regeneration ### {#advanced-regeneration}
 
-An advanced regeneration is a regeneration from death or scalping which begins
-when the character dies (or is scalped if it brings a character back from
-scalping). Each time they die, the spellcaster may choose to double the length
-of their regeneration (to 240 seconds, or 480 if diseased). The regeneration is
-not considered used if the target is raised before their regeneration is
-complete.
+An advanced regeneration is a regeneration from death [(]{.new}or scalping[, if
+specified in the spell description)]{.new} which begins when the character dies
+(or is scalped[,]{.new} if it brings a character back from scalping). Each time
+they die, the spellcaster may choose to double the length of their regeneration
+(to 240 seconds, or 480 if diseased). The regeneration is not considered used if
+the target is raised before their regeneration is complete.
 
 ### Spell Sash ### {#spell-sash}
 
@@ -2178,13 +2179,14 @@ prepared weapon, the preparation is lost, and must be reapplied.
 
 ## [6.6:]{.new} Grandfathering ## {#grandfathering}
 
-For the 2018 year only, all characters who were in existence (first attended an
-event) before February 25th, 2018 are allowed to have up to 15 spells, making a
-legal build following the rules of the current Omnibus. At the first event that
-their PC attends in the 2018 season where the Omnibus is available, they must
-get their spellbook checked in and signed by the Event Holder or their
-designated Magic Marshal(s). This signature counts for the signature
-requirements for all spells the PC grandfathers at this event.
+For the 201[9]{.new} year only, all characters who were in existence (first
+attended an event) before February [9]{.new}th, 201[9]{.new} are allowed to have
+up to 15 spells, making a legal build following the rules of the current
+Omnibus. At the first event that their PC attends in the 201[9]{.new} season
+where the Omnibus is available, they must get their spellbook checked in and
+signed by the Event Holder or their designated Magic Marshal(s). This signature
+counts for the signature requirements for all spells the PC grandfathers at this
+event.
 
 All spells known after grandfathering may be added to the spellcaster's "Spell
 Mastery" section, in addition to the list they had before grandfathering (if
@@ -2204,18 +2206,18 @@ any).
 +------------------------------------------------------+------------------------------------------------------+------------------------------------------------------+
 |                                                      | 2nd Circle Spells                                    |                                                      |
 +------------------------------------------------------+------------------------------------------------------+------------------------------------------------------+
-| [Aura of Protection](#aura-of-protection)\           | [Group Healing](#group-healing)\                     | [Protection from Missile](#protection-from-missile)\ |
-| [Death Watch](#death-watch)\                         | [Guidance](#guidance)\                               | [Repair Item](#repair-item)\                         |
-| [Deep Pockets](#deep-pockets)                        | [Heal Limb](#heal-limb)                              | [Ward: Undead](#ward-undead)                         |
+| [Aura of Protection](#aura-of-protection)\           | [Enchant Weapon](#enchant-weapon){.new}\             | [Protect the Soul](#protect-the-soul){.new}\         |
+| [Death Watch](#death-watch)\                         | [Group Healing](#group-healing)\                     | [Protection from Missile](#protection-from-missile)\ |
+| [Deep Pockets](#deep-pockets)\                       | [Guidance](#guidance)\                               | [Repair Item](#repair-item)\                         |
+| [Disenchant](#disenchant){.new}                      | [Heal Limb](#heal-limb)                              | [Ward: Undead](#ward-undead)                         |
 +------------------------------------------------------+------------------------------------------------------+------------------------------------------------------+
 |                                                      | 3rd Circle Spells                                    |                                                      |
 +------------------------------------------------------+------------------------------------------------------+------------------------------------------------------+
-| [Animate Lesser Undead](#animate-lesser-undead)\     | [Enchant Weapon](#enchant-weapon)\                   | [Protect the Soul](#protect-the-soul)\               |
-| [Beckon Corpse](#beckon-corpse)\                     | [Enfeeble Being](#enfeeble-being)\                   | [Purity to Disease](#purity-to-disease)\             |
-| [Cantrip](#cantrip)\                                 | [Feign Death](#feign-death)\                         | [Purity to Poison](#purity-to-poison)\               |
-| [Commune with Spirit](#commune-with-spirit)\         | [Fortune Tell](#fortune-tell)\                       | [Raise Dead](#raise-dead)\                           |
-| [Disease Weapon](#disease-weapon)\                   | [Precognition](#precognition)\                       | [Skew Divination](#skew-divination)\                 |
-| [Disenchant](#disenchant)                            |                                                      | [Soul Bane](#soul-bane)                              |
+| [Animate Lesser Undead](#animate-lesser-undead)\     | [Enfeeble Being](#enfeeble-being)\                   | [Purity to Disease](#purity-to-disease)\             |
+| [Beckon Corpse](#beckon-corpse)\                     | [Feign Death](#feign-death)\                         | [Purity to Poison](#purity-to-poison)\               |
+| [Cantrip](#cantrip)\                                 | [Fortune Tell](#fortune-tell)\                       | [Raise Dead](#raise-dead)\                           |
+| [Commune with Spirit](#commune-with-spirit)\         | [Precognition](#precognition)                        | [Skew Divination](#skew-divination)\                 |
+| [Disease Weapon](#disease-weapon)                    |                                                      | [Soul Bane](#soul-bane)                              |
 +------------------------------------------------------+------------------------------------------------------+------------------------------------------------------+
 |                                                      | 4th Circle Spells                                    |                                                      |
 +------------------------------------------------------+------------------------------------------------------+------------------------------------------------------+
@@ -2507,8 +2509,8 @@ __Uses:__ 3
 
 Allows the spellcaster to gain one casting of any First Circle spell, chosen at
 the time of casting. The spell gained must be cast following the rules for that
-spell, including VC, MC, and ACs. This spell cannot be used with
-[Implement](#implement).
+spell, including VC, MC, and ACs. This spell cannot be used [to cast]{.new}
+[Implement](#implement) [or [Strange Brew](#strange-brew)]{.new}.
 
 [__Circle of Healing__ (5th Circle)]{#circle-of-healing}
 
@@ -2517,15 +2519,15 @@ Touch the rope - __Caveats:__ [Circles](#circles), [Suspension](#suspension)
 
 This spell allows the spellcaster to create a Circle of Healing. The spellcaster
 may name the circle with [Cure Disease](#cure-disease), [Heal Limb](#heal-limb),
-or [Raise Dead](#raise-dead), chosen at the time of casting. Until the Circle of
-Healing is broken, the spellcaster need only stand in the circle, touch the
-recipient of the healing spell, and recite the named spell's VC to cast the
-spell. This does not use up any castings of the named healing spell, and can be
-done as many times as desired. No one but the spellcaster may use the Circle of
-Healing in this manner. This spell is broken if a weapon crosses the plane of
-the circle. For this purpose, a weapon is considered to be anything with a legal
-striking surface - therefore, swords and arrows are weapons, although bows and
-shields are not.
+or [Raise Dead](#raise-dead), chosen at the time of casting. [While the
+spellcaster is standing in the Circle of Healing, they may cast the named spell
+as many times as desired without consuming a use of that spell. Except for the
+MC of Cure Disease, all of the requirements of the named spell must be met for
+each casting, including the AC and VC.]{.new} No one but the spellcaster may use
+the Circle of Healing in this manner. This spell is broken if a weapon crosses
+the plane of the circle. For this purpose, a weapon is considered to be anything
+with a legal striking surface - therefore, swords and arrows are weapons,
+although bows and shields are not.
 
 [__Circle of Protection__ (4th Circle)]{#circle-of-protection}
 
@@ -2695,7 +2697,7 @@ This spell allows the spellcaster to temporarily enchant their weapon. After
 preparing it with the spell, it is considered a diseased weapon and the
 spellcaster must call "[Disease](#disease)" on the next swing of the weapon.
 
-[__Disenchant__ (3rd Circle)]{#disenchant}
+[__Disenchant__ ([2nd]{.new} Circle)]{#disenchant}
 
 __Uses:__ 2 - __Verbal:__ 30 words - __Active:__ Touch the target item
 
@@ -2755,10 +2757,11 @@ uses drama and theatrics has a better chance of success.
 [__Embrace Death__ (6th Circle)]{#embrace-death}
 
 __Uses:__ 1 - __Verbal:__ 40 words - __Material:__ A container at least 4 inches
-in diameter able to hold the spellcaster's scalp token. The container cannot be
-placed into [Deep Pockets](#deep-pockets). - __Caveats:__ [Enchanted
-Items](#enchanted-items), [Regeneration](#regeneration-caveat), [Basic
-Regeneration](#basic-regeneration), [Undead](#undead)
+in diameter able to hold the spellcaster's scalp token[, labeled with
+"Event-Stealable"]{.new}. The container cannot be placed into [Deep
+Pockets](#deep-pockets). - __Caveats:__ [Enchanted Items](#enchanted-items),
+[Regeneration](#regeneration-caveat), [Basic Regeneration](#basic-regeneration),
+[Undead](#undead)
 
 This spell allows the spellcaster to remove their soul from their body, giving
 them the ability to defy death. The spellcaster's scalp token is the only thing
@@ -2766,10 +2769,10 @@ which may be stored in the MC (hereafter referred to as the phylactery). When
 the spell is learned, the spellcaster must scribe in their spellbook a
 description of exactly what the phylactery looks like. Upon casting this spell,
 the spellcaster places their scalp token within the phylactery, which becomes an
-[event-stealable](#event-stealable) item for the duration of the spell and
-should be marked as such. The spellcaster may do whatever they want with the
-phylactery: place it in a mundane pocket, hide it, give it to someone, etc.
-However, the phylactery may not be put into [Deep Pockets](#deep-pockets).
+[event-stealable](#event-stealable) item for the duration of the spell. The
+spellcaster may do whatever they want with the phylactery: place it in a mundane
+pocket, hide it, give it to someone, etc. However, the phylactery may not be put
+into [Deep Pockets](#deep-pockets).
 
 While under the effects of this spell, the spellcaster is undead (see the
 [Undead Caveat](#undead)) and is not affected by poisons, diseases, or the
@@ -2830,19 +2833,24 @@ require the caster to currently have the spell [Repair Armor](#repair-armor) or
 have any remaining castings of [Repair Armor](#repair-armor) in order to use
 this effect.
 
-[__Enchant Weapon__ (3rd Circle)]{#enchant-weapon}
+[__Enchant Weapon__ ([2nd]{.new} Circle)]{#enchant-weapon}
 
 __Uses:__ 5 - __Verbal:__ 10 words - __Active:__ Hold the target weapon with
 both hands - __Caveats:__ [Combat Calls](#combat-calls-caveat), [Enchanted
 Items](#enchanted-items)
 
-This spell gives the spellcaster the ability to temporarily enchant a weapon or
-bow. After preparing it with the spell, the weapon user must call
-"[Magic](#magic-call)" or "[Silver](#silver)" the next 3 times they swing that
-weapon or fire that bow. The caster chooses which option, Magic or Silver, upon
-casting the spell, and must inform the recipient which option they are imbuing
-it with. These calls are expended whether the user scores a successful hit or
-not.
+This spell gives the spellcaster the ability to temporarily enchant a weapon[,
+arrow,]{.new} or bow. After preparing it with the spell, the weapon[, bow, or
+arrow]{.new} user must call "[Magic](#magic-call)" or "[Silver](#silver)" the
+next 3 times they swing that weapon[, the next 3 times they]{.new} fire that
+bow[, or the next time they fire that arrow]{.new}. The caster chooses which
+option, Magic or Silver, upon casting the spell, and must inform the recipient
+which option they are imbuing it with. These calls are expended whether the user
+scores a successful hit or not. [If an enchanted arrow is fired by an enchanted
+bow, a call is expended from both the bow and arrow. If an arrow is enchanted
+with a particular call and fired from a bow with a different call, the wielder
+may choose which call to use; regardless of the call chosen, a call is expended
+from both the bow and the arrow.]{.new}
 
 [__Enfeeble Being__ (3rd Circle)]{#enfeeble-being}
 
@@ -2861,13 +2869,13 @@ should choose their targets wisely.
 [__Familiar__ (5th Circle)]{#familiar}
 
 __Uses:__ 1. The spellcaster may only have one in-play - __Material:__ A stuffed
-or toy animal that must be at least 4" tall - __Caveats:__
+or toy animal that must be at least 4" tall[, labeled with the spellcaster's
+name and the words "Event-Stealable"]{.new} - __Caveats:__
 [Suspension](#suspension)
 
 The spellcaster has a familiar that grants them more spell potential,
 represented by a specific stuffed or toy animal. The familiar cannot be slain or
-disenchanted, but can be stolen. The stuffed animal must be labeled with the
-spellcaster's name and the words "Event-Stealable."
+disenchanted, but can be stolen.
 
 Any additional spells provided by the familiar require the presence of the
 familiar to cast it and maintain it, as if the familiar were a spell focus or
@@ -2879,7 +2887,7 @@ while the familiar is not in the spellcaster's possession. Any blow that strikes
 the familiar must be taken as if the familiar is not there.
 
 The spellcaster has 5 points to spend on extra spells for every casting of this
-spell, up to 15 points total.
+spell, up to [20]{.new} points total.
 
 +---------------------------------+-------------------+
 | Benefit                         | Cost              |
@@ -3014,9 +3022,8 @@ gathered into the circle. The spellcaster(s) must then recite the VC, which
 empowers the circle.
 
 The next spell from the accepted list cast into this circle by any spellcaster
-affects all within as if it had been cast on each individually; in most cases
-any MC is only used once. The [Immunity to Poison](#immunity-to-poison) spell
-still requires the necessary components to cast for each character affected.
+affects all within as if it had been cast on each individually. [If the spell
+has any MC, only one is used.]{.new}
 
 [__Guidance__ (2nd Circle)]{#guidance}
 
@@ -3184,7 +3191,7 @@ be used if they are affected by a [Disrupt Light](#disrupt-light) spell. The
 spellcaster may not give a glow stick to anyone who is going to travel beyond
 easy speaking distance. It is possible for this spell to be disrupted. It is the
 spellcaster's responsibility to know what the Disrupt Light spell is, how to
-recognize it, and how to respond to it. It is a first circle spell.
+recognize it, and how to respond to it.
 
 [__Lightning Bolt__ (6th Circle)]{#lightning-bolt-spell}
 
@@ -3193,16 +3200,9 @@ white boff arrow or javelin prop between 2'6" and 3'6" long - __Caveats:__
 [Combat Calls](#combat-calls-caveat)
 
 This spell allows the spellcaster to throw a stronger bolt of magic than [Magic
-Missile](#magic-missile). The MC for the spell is a golf tube, aqua tube, or T8
-fluorescent light cover arrow or javelin prop made following the [Weapon
-Construction](#weapon-construction) rules for arrows and javelins with the
-following additions:
-
-* The prop must be primarily white.
-* The prop must be between 2'6" and 3'6" in length and cannot have an arrow
-  nock. The prop is not subject to the spellcaster's weapon length restriction.
-* The prop must have the words "Lightning Bolt" and the spellcaster's name
-  written visibly along the shaft.
+Missile](#magic-missile). The MC for the spell [must be made following the
+[Weapon Construction rules for Lightning
+Bolts](#lightning-bolt-construction)]{.new}
 
 The prop is a physical representation of the magic. After it comes to rest, it
 cannot be affected or moved by anyone other than the spellcaster, but it may
@@ -3316,17 +3316,18 @@ boulder would not be destroyed, but the wielder would still suffer normal damage
 item may only have one casting of Protect Item on it at a time. This spell does
 not protect against [Disenchant](#disenchant).
 
-[__Protect the Soul__ (3rd Circle)]{#protect-the-soul}
+[__Protect the Soul__ ([2nd]{.new} Circle)]{#protect-the-soul}
 
 __Uses:__ 1 - __Verbal:__ 30 words and an explanation - __Material:__ Spell Sash
 - __Caveats:__ [Enchanted Items](#enchanted-items), [Spell Sash](#spell-sash)
 
-This spell will protect the recipient from possession, [Animate
-Undead](#animate-undead), and the like. When targeted by any spell or effect
-against which Protect the Soul immunizes your PC, you must call "Protect the
-Soul!" The spell will last until the sash is disenchanted or removed by the
-spellcaster. The spell will not function if the recipient is scalped or their
-soul is not within their body for any other reason.
+This spell will protect the recipient from possession, [spells under the
+[compulsion](#compulsion) caveat]{.new}, and [similar effects as determined by
+the MM/EH]{.new}. When targeted by any spell or effect against which Protect the
+Soul immunizes your PC, you must call "Protect the Soul!" The spell will last
+until the sash is disenchanted or removed by the spellcaster. The spell will not
+function if the recipient is scalped or their soul is not within their body for
+any other reason.
 
 [__Protection from Boulder__ (1st Circle)]{#protection-from-boulder}
 
@@ -3446,9 +3447,9 @@ spellcaster's scalp, with some sort of indication that it is their second scalp
 - __Caveats:__ [Regeneration](#regeneration-caveat), [Advanced
 Regeneration](#advanced-regeneration)
 
-This spell grants an advanced regeneration which will return a character to life
-from scalping. After regenerating in this fashion, the material component
-becomes the spellcaster's new scalp token.
+This spell grants an advanced regeneration which [returns]{.new} a character to
+life from scalping [only]{.new}. After regenerating in this fashion, the
+material component becomes the spellcaster's new scalp token.
 
 [__Regeneration__ (5th Circle)]{#regeneration-spell}
 
@@ -3593,17 +3594,12 @@ and is given back their soul if they were scalped.
 [__Seed of Life__ (6th Circle)]{#seed-of-life}
 
 __Uses:__ Unlimited, while spellcaster has MC handy - __Verbal:__ 30 words and
-an explanation - __Material:__ 1 token with the spellcaster's name and the words
-"Seed of Life" on it - __Caveats:__ [Regeneration](#regeneration-caveat), [Basic
-Regeneration](#basic-regeneration)
+an explanation - __Material:__ [2 tokens]{.new} with the spellcaster's name and
+the words "Seed of Life" on it - __Caveats:__
+[Regeneration](#regeneration-caveat), [Basic Regeneration](#basic-regeneration)
 
 When cast on a dead body, this spell grants the recipient a basic regeneration.
-The spellcaster must hand the MC to the recipient when the spell is cast. The
-spellcaster may choose to remain with the target, and as long as the spellcaster
-continuously recites the verbal (explanation not required) and keeps two hands
-touching the target, the target will regenerate in 60 seconds instead. If the
-spellcaster stops the verbal or breaks contact the spell will continue as normal
-and the target will take the full 120 seconds to regenerate.
+The spellcaster must hand the MC to the recipient when the spell is cast.
 
 Once the spell ends, the recipient should return the MC to the spellcaster as
 soon as reasonably possible. Other than this, the MC is neither stealable nor
@@ -3809,6 +3805,10 @@ Miscellaneous Abilities:
   per the spell.
 * _[Heartiness](#heartiness):_ 1 point. As per the spell.
 
+[Spells gained through transformation are as per the spell specified, including
+number of castings. Each time you transform, the uses reset. Spells gained this
+way may only be cast while transformed.]{.new}
+
 [__Transmute Self__ (4th Circle)]{#transmute-self}
 
 __Uses:__ 3 - __Verbal:__ 10 word chant, repeated. The verbal must be chanted
@@ -3985,11 +3985,12 @@ above and beyond a normal player.
 
 ## 7.3: Arbitration Committee ## {#arbitration-committee}
 
-The Arbitration Committee is a group of five members and two alternates
-nominated and elected yearly at the EHC that seeks to resolve issues by
-speaking or meeting with the affected individuals and, in the case where
-actions are detrimental to the community, levy penalties against individuals.
-The Arbitration Committee can be reached at <arbitration@lists.realmsnet.net>.
+The [Arbitration Committee](https://www.realmsnet.net/arbitration) is a group of
+five members and two alternates nominated and elected yearly at the EHC that
+seeks to resolve issues by speaking or meeting with the affected individuals
+and, in the case where actions are detrimental to the community, levy penalties
+against individuals. The Arbitration Committee can be reached at
+<arbitration@lists.realmsnet.net>.
 
 When individuals are found responsible for breaking rules by a simple majority
 of the Arbitration Committee, the committee may levy punishment consistent
@@ -3997,6 +3998,19 @@ with both the charge and a goal of working to resolve the issue in the future.
 
 At an emergency meeting of the EHC, a 2/3 vote of the council can overturn or
 amend the actions of the Arbitration Committee.
+
+[Every year, at the EHC, the Arbitration Committee must present a report which
+details:]{.new}
+
+* [The total number of items submitted in the past year]{.new}
+* [The number of non-actionable reports of behavior submitted in the past
+  year]{.new}
+* [The number of complaint forms submitted in the past year]{.new}
+* [The number of complaints that were actionable]{.new}
+* [A brief summary of each actionable complaint, including its conclusion]{.new}
+
+[The report should be made publicly available on
+[RealmsNet](https://www.realmsnet.net/arbitration).]{.new}
 
 The players elected to the 2018 Arbitration Committee are Angela Gray,
 Ben Greene, Hannah Blood, John Berrini, and Keith Cronyn.
@@ -4110,10 +4124,12 @@ Omnibus.
 Any serious issue(s) may be brought to the attention of the Event Holders'
 List. If at least 50% of the EHs agree that a personal meeting is required to
 discuss the issue(s), then an emergency EH meeting can be called. This meeting
-must be attended by at least 50% of legal Event Holders. The person calling
-for the meeting will work with the organizers of the upcoming Players' Meeting
-and Event Holders' Council. Meetings of this nature will not have the ability
-to make changes to the Omnibus.
+must be attended by at least 50% of legal Event Holders. [For this purpose, a
+legal event holder has thrown a legal event this calendar year or was eligible
+to vote at the most recent EHC.]{.new} The person calling for the meeting will
+work with the organizers of the upcoming Players' Meeting and Event Holders'
+Council. Meetings of this nature will not have the ability to make changes to
+the Omnibus.
 
 An emergency EH meeting must be advertised with full event information at
 least two weeks before the date of the intended meeting. Advertisement must
