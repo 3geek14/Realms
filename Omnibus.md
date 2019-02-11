@@ -1883,7 +1883,7 @@ Basic Potions
   cannot be used to reset a 6th circle spell. (Example: a caster may spend 10
   points to make a potion to reset a 5th circle spell.) [Each level of Power
   Potion requires either its own unique sigil or to be clearly marked with the
-  spell circle it was creates to reset.]{.new}
+  spell circle it was created to reset.]{.new}
 
 ## 6.3: The Basics of a Spell ## {#the-basics-of-a-spell}
 
