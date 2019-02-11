@@ -4001,7 +4001,7 @@ amend the actions of the Arbitration Committee.
 details:]{.new}
 
 * [The total number of items submitted in the past year]{.new}
-* [The number of non-actionable reports of behaviour submitted in the past
+* [The number of non-actionable reports of behavior submitted in the past
   year]{.new}
 * [The number of complaint forms submitted in the past year]{.new}
 * [The number of complaints that were actionable]{.new}
