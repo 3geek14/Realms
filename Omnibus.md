@@ -860,11 +860,6 @@ Be sure to follow these guidelines when constructing a weapon:
 | Pikes\             | bamboo        | 3" *      | 1/4"      | 3"        | One-third     |
 | (>78" - 96")       |               |           |           |           | weapon length |
 +--------------------+---------------+-----------+-----------+-----------+---------------+
-| Arrows             | golf tube,    | 2"        | Not       | 2"        | 6"+           |
-|                    | aqua tube, T8 |           | Required  |           |               |
-|                    | fluorescent   |           |           |           |               |
-|                    | light covers  |           |           |           |               |
-+--------------------+---------------+-----------+-----------+-----------+---------------+
 
 \* add 5" camp/yoga foam sleeve starting beneath the foam disk extending away
 from the tip
@@ -883,7 +878,7 @@ from the tip
 
 ### Arrows, Javelins, and other Missile Weapons ### {#arrows-javelins-and-other-missile-weapons}
 
-__T8 and Aqua Tube Arrows__
+__T8[, golf tube,]{.new} and Aqua Tube Arrows__
 
 * All arrows must have 2" thrusting tips, 4" of pipe foam, and 2" squishy-foam
   tips to be considered safe.
