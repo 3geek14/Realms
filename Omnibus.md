@@ -1882,7 +1882,9 @@ Basic Potions
 * [Power Potion]{#power-potion} (Special): Resets a single spell of the
   recipient equal to half of the points spent to create it, rounded down. This
   cannot be used to reset a 6th circle spell. (Example: a caster may spend 10
-  points to make a potion to reset a 5th circle spell.)
+  points to make a potion to reset a 5th circle spell.) [Each level of Power
+  Potion requires either its own unique sigil or to be clearly marked with the
+  spell circle it was created to reset.]{.new}
 
 ## 6.3: The Basics of a Spell ## {#the-basics-of-a-spell}
 
