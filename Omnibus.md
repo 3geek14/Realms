@@ -915,7 +915,7 @@ __LARP Arrows__
 [__Lightning Bolts__]{#lightning-bolt-construction}
 
 A Lightning Bolt prop is a [T8, golf tube, or aqua tube]{.new} arrow[,]{.new} or
-[a]{.new} javelin made with the following additional details:
+[a]{.new} javelin[,]{.new} made with the following additional details:
 
 * It must be primarily white. 
 * It must be between 2'6" and 3'6" in length. The prop is not subject to the
