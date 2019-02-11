@@ -4108,7 +4108,7 @@ Omnibus.
 Any serious issue(s) may be brought to the attention of the Event Holders'
 List. If at least 50% of the EHs agree that a personal meeting is required to
 discuss the issue(s), then an emergency EH meeting can be called. This meeting
-must be attended by at least 50% of legal Event Holders. [For this putpose, a
+must be attended by at least 50% of legal Event Holders. [For this purpose, a
 legal event holder has thrown a legal event this calendar year or was eligible
 to vote at the most recent EHC.]{.new} The person calling for the meeting will
 work with the organizers of the upcoming Players' Meeting and Event Holders'
