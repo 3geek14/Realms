@@ -3586,17 +3586,12 @@ and is given back their soul if they were scalped.
 [__Seed of Life__ (6th Circle)]{#seed-of-life}
 
 __Uses:__ Unlimited, while spellcaster has MC handy - __Verbal:__ 30 words and
-an explanation - __Material:__ 1 token with the spellcaster's name and the words
-"Seed of Life" on it - __Caveats:__ [Regeneration](#regeneration-caveat), [Basic
-Regeneration](#basic-regeneration)
+an explanation - __Material:__ [2 tokens]{.new} with the spellcaster's name and
+the words "Seed of Life" on it - __Caveats:__
+[Regeneration](#regeneration-caveat), [Basic Regeneration](#basic-regeneration)
 
 When cast on a dead body, this spell grants the recipient a basic regeneration.
-The spellcaster must hand the MC to the recipient when the spell is cast. The
-spellcaster may choose to remain with the target, and as long as the spellcaster
-continuously recites the verbal (explanation not required) and keeps two hands
-touching the target, the target will regenerate in 60 seconds instead. If the
-spellcaster stops the verbal or breaks contact the spell will continue as normal
-and the target will take the full 120 seconds to regenerate.
+The spellcaster must hand the MC to the recipient when the spell is cast.
 
 Once the spell ends, the recipient should return the MC to the spellcaster as
 soon as reasonably possible. Other than this, the MC is neither stealable nor
