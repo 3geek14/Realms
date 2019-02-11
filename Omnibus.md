@@ -1788,11 +1788,12 @@ A spellcaster may choose one of four options for each circle of a path:
 * A Regional Magic spell.
 * Alchemy
 
-When a spellcaster learns their first path of magic, they learn one spell from
-each of 1st through 5th circles, in order. If they learn a second path, they
-learn one spell from each of 2nd through 6th circles, possibly learning some
-spells for a second time. If they learn a third path, they again learn one spell
-from each of 1st through 5th circles.
+When a spellcaster learns their first path of magic, they [gain spell slots
+for]{.new} each of 1st through 5th circles, in order. If they learn a second
+path, they [gain spell slots for]{.new} each of 2nd through 6th circles, [in
+order]{.new}. If they learn a third path, they again [gain spell slots
+for]{.new} each of 1st through 5th circles. [The same spell may be taken
+multiple times.]{.new}
 
 ### Learning Progression ### {#learning-progression}
 
