@@ -3906,15 +3906,16 @@ To be a Realms legal event, the following conditions must apply:
 
 * It should be open to the public.
 * It needs to have been advertised with full event information at least two
-  weeks before the date of the event. Advertisement must include at least one
-  of the following means: Publication in The *View from Valehaven* or
-  *Creathorne Chronicles*, posted on the *RealmsNet* Event Calendar, or sent
-  through a mass mailing or electronic mailing, which must include the known
-  addresses of all Realms EHs who have held Realms events in the previous year.
+  weeks before the date of the event [on RealmsNet]{.new}. [If RealmsNet is
+  unavailable, a]{.new}dvertisement must include at least one of the following
+  means [instead]{.new}: Publication in The *View from Valehaven* or *Creathorne
+  Chronicles*, or sent through a mass mailing or electronic mailing, which must
+  include the known addresses of all Realms EHs who have held Realms events in
+  the previous year.
 * The location and the price of the event must be announced at least two weeks
   before the event is scheduled to take place. Any significant rule changes,
   especially those affecting normally legal powers and abilities of PCs, must
-  be announced in the advertisement or mailing.
+  be announced in the advertisement.
 * The names of the EHs, at most one per day, must be announced at least 5 days
   before the event is scheduled to take place.
 * A site must be confirmed before an event can be advertised as a legal Realms
@@ -4114,11 +4115,11 @@ and Event Holders' Council. Meetings of this nature will not have the ability
 to make changes to the Omnibus.
 
 An emergency EH meeting must be advertised with full event information at
-least two weeks before the date of the intended meeting. Advertisement must
-include at least one of the following:
+least two weeks before the date of the intended meeting. Advertisement must [be
+on RealmsNet. If RealmsNet is unavailable, advertisement must]{.new} include at
+least one of the following:
 
 * publication in The View from Valehaven or Creathorne Chronicles;
-* posting on the RealmsNet Event Calendar;
 * sent through a mass mailing or electronic mailing, which must include the
   known addresses of all Realms EHs who’ve held events in the previous year.
 
