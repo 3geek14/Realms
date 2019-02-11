@@ -3577,22 +3577,23 @@ __Uses:__ 1 - __Verbal:__ 20 words to start - __Material:__ 3-minute
 hourglass/timer.
 
 This spell allows the spellcaster to have an extended discussion with a spirit,
-either one of another world or of a soulless character. Upon informing the EH
-or MM of their intent to cast this spell, the spellcaster must start the ritual
-by flipping the hourglass. If the spirit does not arrive within the first three
-minutes, then the casting is not used. If the spirit arrives, let the glass run
-out and flip it again. The spellcaster and spirit may then speak freely until
-all the sands have fallen. If the spirit stays longer than three minutes, the
-spellcaster may continue to converse with it. Please note that this spell does
-not change any behavior on the part of the spirit, and it may choose not to
-talk.
+either one of another world or of a [soulless]{.new} character. Upon informing
+the EH or MM of their intent to cast this spell, the spellcaster must start the
+ritual by flipping the hourglass. If the spirit does not arrive within the
+first three minutes, then the casting is not used. If the spirit arrives, let
+the glass run out and flip it again. The spellcaster and spirit may then speak
+freely until all the sands have fallen. If the spirit stays longer than three
+minutes, the spellcaster may continue to converse with it. Please note that
+this spell does not change any behavior on the part of the spirit, and it may
+choose not to talk.
 
-Whether a soulless character can answer is entirely up to the discretion of the
-EH or MM, who must be present for the ritual. This spell in no way grants the
-knowledge of the circumstances of a soulless character's death. If they are
-allowed to be contacted, the soulless PC can still refuse to answer, is not
-compelled to speak, can lie or tell the truth freely, and can end the séance at
-any time. A PC contacted with a séance must leave after three minutes.
+Whether a [soulless]{.new} character can answer is entirely up to the
+discretion of the EH or MM, who must be present for the ritual. This spell in
+no way grants the knowledge of the circumstances of a [soulless]{.new}
+character's death. If they are allowed to be contacted, the [soulless]{.new}
+PC can still refuse  to answer, is not compelled to speak, can lie or tell the
+truth freely, and  can end the séance at any time. A PC contacted with a
+séance must leave after three minutes.
 
 [__Second Chance__ (6th Circle)]{#second-chance}
 
@@ -3629,11 +3630,11 @@ and the target will take the full 120 seconds to regenerate.
 
 Once the spell ends, the recipient should return the MC to the spellcaster as
 soon as reasonably possible. Other than this, the MC is neither stealable nor
-transferable in any way. If the recipient is rendered soulless, returned to
-life, or raised as undead, the spell ends. If the recipient is diseased,
-this spell will also cure them of their disease upon completion of the spell
-(although the regeneration time will still be doubled from the effects of
-the disease). This spell has no effect on the undead.
+transferable in any way. If the recipient is [rendered soulless]{.new},
+returned to life, or raised as undead, the spell ends. If the recipient is
+diseased, this spell will also cure them of their disease upon completion of
+the spell (although the regeneration time will still be doubled from the
+effects of the disease). This spell has no effect on the undead.
 
 [__Shapeshifting__ (4th Circle)]{#shapeshifting}
 
