@@ -3996,6 +3996,18 @@ with both the charge and a goal of working to resolve the issue in the future.
 At an emergency meeting of the EHC, a 2/3 vote of the council can overturn or
 amend the actions of the Arbitration Committee.
 
+[Every year, at the EHC, the Arbitration Committee must present a report which
+details:]{.new}
+
+* [The total number of items submitted in the past year]{.new}
+* [The number of non-actionable reports of behaviour submitted in the past
+  year]{.new}
+* [The number of complaint forms submitted in the past year]{.new}
+* [The number of complaints that were actionable]{.new}
+* [A brief summary of each actionable complaint, including its conclusion]{.new}
+
+[The report should be made publicly available on RealmsNet.]{.new}
+
 The players elected to the 2018 Arbitration Committee are Angela Gray,
 Ben Greene, Hannah Blood, John Berrini, and Keith Cronyn.
 
