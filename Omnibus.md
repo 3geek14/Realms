@@ -2649,15 +2649,15 @@ cast.
 [__Death Watch__ (2nd Circle)]{#death-watch}
 
 __Uses:__ Unlimited, one at a time - __Active:__ Spellcaster must sit without
-weapons in-hand for 60 seconds before they are killed. Each time the spellcaster
-is killed, they need to re-cast the spell.
+weapons in-hand for 60 seconds before they are killed.
 
 Enables the spellcaster to see and hear while they are dead. You may not speak
 or move while dead, except for addressing marshaling calls or OOC
 unsafe/uncomfortable situations. If the spellcaster is
 [rendered soulless]{.new}. all memories acquired through the current
 casting of Death Watch are erased (i.e., all memories acquired from the time
-of your PC's last death).
+of your PC's last death). [The spell ends when
+the spellcaster is raised (either as alive or as undead).]{.new}
 
 [__Death Wish__ (4th Circle)]{#death-wish}
 
@@ -3153,7 +3153,8 @@ Gain the following abilities for 1 point each:
   be done once.
 * The AC for [Death Watch](#death-watch) is changed to "Spellcaster must kneel
   on one knee holding their Implement with both hands for 60 seconds before
-  being killed." The requirement for recasting the spell is also removed.
+  being killed." [Additionally, the spell no longer ends when the spellcaster is
+  raised.]{.new}
 * The spell [Death Watch](#death-watch) allows the caster to move their head
   while dead. They still may not speak, try to communicate, or move in any other
   way while dead.
@@ -3720,8 +3721,9 @@ __Uses:__ Special, see [Alchemy](#alchemy) - __Caveats:__
 [Potions](#potions-caveat)
 
 You may create 2 additional types of potions listed below using
-[Alchemy](#alchemy). Upon learning Strange Brew, you must write down the potions
-you are choosing to learn and their specific rules:
+[Alchemy](#alchemy). Upon learning Strange Brew, you must [record]{.new} the
+potions you are choosing to learn[,]{.new} and their specific rules[, in your
+spellbook]{.new}:
 
 * Potion of Acid (5 Points): Deals 200 blows to a body, only usable on
   non-living objects.
