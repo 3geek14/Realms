@@ -599,9 +599,9 @@ more serious form of death that requires more than a simple spell to repair.
 [A character who has lost their soul]{.new} cannot be raised or animated
 until their soul has been restored.
 
-### [Soul Token]{.new} ### {#soul-tokens}
+### [Soul Tokens]{.new} ### {#soul-tokens}
 
-A [soul token]{.new} is a token carried by each player, which represents
+A [soul token]{.new} is a token carried by each player which represents
 the life essence of that player's character. Players must be carrying their PC's
 [soul token]{.new} at all times, unless the PC is dead and
 [soulless]{.new} (see below), or unless they are under the influence of a
