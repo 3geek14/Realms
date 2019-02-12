@@ -558,8 +558,8 @@ Magic Effects Everyone Should Know](#basic-magic-effects-everyone-should-know)
 for more details on what causes and cures death.
 
 In the Realms there are two states of death. They are death (or dead), and
-[soulless]{.new} (see [Section 3.5](#soul-loss) for more information on soul
- loss).
+[soulless]{.new} (see [Section 3.5](#soul-loss) for more information on [soul
+ loss]{.new}).
 
 If your PC is dead or [soulless]{.new}, you should lie or sit still. Try not
 to look around or talk. Do your best to role-play a corpse. Don't get upset if
@@ -613,9 +613,9 @@ does not exist physically in the IC world therefore it cannot be searched. A
 ### [Destroying a Body]{.new} ### {#destroying-a-body}
 
 In order [for a player to separate a soul from a body, they must destroy
-it by]{.new} striking 200 blows with a weapon beside the body of the character
-being destroyed. More than one person may [destroy]{.new} a body at a time.
-More than one weapon may be used to [destroy]{.new} a body as well. This
+it by]{.new} striking 200 blows with a weapon beside the body of the character 
+being [destroyed]{.new}. More than one person may [destroy]{.new} a body at 
+a time. More than one weapon may be used to [destroy]{.new} a body as well. This 
 effectively divides the number of blows to be struck between the number of
 participants and number of weapons used. Some monsters and characters under
 certain spells may require more blows to completely [destroy]{.new}. If you
@@ -628,7 +628,7 @@ body]{.new}.
 After the [body is destroyed]{.new}, the character whose body has been
 destroyed is [rendered soulless]{.new}.  The player of the
 [soulless]{.new} character must present their character's [soul]{.new}
-token to the character that just destroyed their body. It is
+token to the character that just [destroyed their body]{.new}. It is
 then that player's responsibility to present the [soul]{.new} token to an
 EH or an appointed marshal. The EH must be informed immediately of the
 [body's destruction]{.new}, thus allowing the EH time to prepare for those
@@ -645,7 +645,7 @@ If your PC is killed and [their body is destroyed]{.new}, they will not
 remember anything about how they died should they manage to be raised.
 
 Should your PC be dead at the end of an event without being raised,
-even if the character's body was not actively destroyed, the PC will be
+even if the character['s body was not actively destroyed]{.new}, the PC will be
 considered [soulless]{.new}.
 
 ### Fixing a [Soulless]{.new} Character ### {#fixing-a-soulless-character}
@@ -2087,7 +2087,7 @@ is complete.
 
 An advanced regeneration is a regeneration from death [(]{.new}or 
 [soul loss, if specified in the spell description)]{.new} which begins when 
-the character dies (or is rendered soulless,]{.new} if it brings a character 
+the character dies (or is [rendered soulless,]{.new} if it brings a character 
 back from [losing their soul]{.new}. Each time they die, the spellcaster may 
 choose to double the length of their regeneration (to 240 seconds, or 480 if 
 diseased). The regeneration is not considered used if the target is raised 
@@ -3071,14 +3071,15 @@ be moving their arms (e.g., parrying, so long as they don't step backwards).
 
 __Uses:__ Unlimited, one at a time
 
-Having this spell makes it harder to destroy the spellcaster's body. The next
-time the spellcaster's body is destroyed it will take 200 extra blows to
-successfully destroy their body. If struck for only 200 blows, instead of
-the full 400 blows, the spellcaster must inform the individual(s) destroying
-their body  that "The job is not yet done." A spellcaster can only be under
-the effect of one Heartiness spell at a time. A use is considered to be over
-whenever the spellcaster receives at least 200 body destroying blows, but is
-in effect until their body is destroyed or they are raised.
+Having this spell makes [it harder to destroy the spellcaster's body]{.new}. 
+The next time the spellcaster['s body is destroyed]{.new} it will take 200 
+extra blows to successfully [destroy their body]{.new}. If struck for only 
+200 blows, instead of the full 400 blows, the spellcaster must inform the 
+[individual(s) destroying their body]{.new} that "The job is not yet done." 
+A spellcaster can only be under the effect of one Heartiness spell at a time. 
+A use is considered to be over whenever the spellcaster receives at least 
+200 [body destroying]{.new} blows, but is in effect until either [their body 
+is destroyed]{.new} or they are raised.
 
 [__Identify__ (1st Circle)]{#identify}
 
