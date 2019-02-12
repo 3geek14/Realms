@@ -1896,7 +1896,9 @@ Basic Potions
 * [Power Potion]{#power-potion} (Special): Resets a single spell of the
   recipient equal to half of the points spent to create it, rounded down. This
   cannot be used to reset a 6th circle spell. (Example: a caster may spend 10
-  points to make a potion to reset a 5th circle spell.)
+  points to make a potion to reset a 5th circle spell.) [Each level of Power
+  Potion requires either its own unique sigil or to be clearly marked with the
+  spell circle it was created to reset.]{.new}
 
 ## 6.3: The Basics of a Spell ## {#the-basics-of-a-spell}
 
@@ -2092,7 +2094,6 @@ back from [losing their soul]{.new}. Each time they die, the spellcaster may
 choose to double the length of their regeneration (to 240 seconds, or 480 if 
 diseased). The regeneration is not considered used if the target is raised 
 before their regeneration is complete.
-
 
 ### Spell Sash ### {#spell-sash}
 
@@ -2776,6 +2777,7 @@ uses drama and theatrics has a better chance of success.
 
 __Uses:__ 1 - __Verbal:__ 40 words - __Material:__ A container at least 4 inches
 in diameter able to hold the spellcaster's [soul]{.new} token[, labeled with
+
 "Event-Stealable"]{.new}. The container cannot be placed into [Deep
 Pockets](#deep-pockets). - __Caveats:__ [Enchanted Items](#enchanted-items),
 [Regeneration](#regeneration-caveat), [Basic Regeneration](#basic-regeneration),
@@ -3352,7 +3354,6 @@ until the sash is disenchanted or removed by the spellcaster. The spell will not
 function if the recipient is [soulless]{.new} or their soul is not within their 
 body for any other reason.
 
-
 [__Protection from Boulder__ (1st Circle)]{#protection-from-boulder}
 
 __Uses:__ 2 - __Verbal:__ 20 words - __Material:__ Spell Sash - __Caveats:__
@@ -3475,6 +3476,7 @@ __Caveats:__ [Regeneration](#regeneration-caveat),
 This spell grants an advanced regeneration which [returns]{.new} a character to
 life from [soullessness only]{.new}. After regenerating in this fashion, the
 material component becomes the spellcaster's new [soul]{.new} token.
+
 
 [__Regeneration__ (5th Circle)]{#regeneration-spell}
 
