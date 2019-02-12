@@ -2631,14 +2631,14 @@ cast.
 [__Death Watch__ (2nd Circle)]{#death-watch}
 
 __Uses:__ Unlimited, one at a time - __Active:__ Spellcaster must sit without
-weapons in-hand for 60 seconds before they are killed. Each time the spellcaster
-is killed, they need to re-cast the spell.
+weapons in-hand for 60 seconds before they are killed.
 
 Enables the spellcaster to see and hear while they are dead. You may not speak
 or move while dead, except for addressing marshaling calls or OOC
 unsafe/uncomfortable situations. If the spellcaster is scalped, all memories
 acquired through the current casting of Death Watch are erased (i.e., all
-memories acquired from the time of your PC's last death).
+memories acquired from the time of your PC's last death). [The spell ends when
+the spellcaster is raised (either as alive or as undead).]{.new}
 
 [__Death Wish__ (4th Circle)]{#death-wish}
 
@@ -3128,7 +3128,8 @@ Gain the following abilities for 1 point each:
   be done once.
 * The AC for [Death Watch](#death-watch) is changed to "Spellcaster must kneel
   on one knee holding their Implement with both hands for 60 seconds before
-  being killed." The requirement for recasting the spell is also removed.
+  being killed." [Additionally, the spell no longer ends when the spellcaster is
+  raised.]{.new}
 * The spell [Death Watch](#death-watch) allows the caster to move their head
   while dead. They still may not speak, try to communicate, or move in any other
   way while dead.
@@ -3692,8 +3693,9 @@ __Uses:__ Special, see [Alchemy](#alchemy) - __Caveats:__
 [Potions](#potions-caveat)
 
 You may create 2 additional types of potions listed below using
-[Alchemy](#alchemy). Upon learning Strange Brew, you must write down the potions
-you are choosing to learn and their specific rules:
+[Alchemy](#alchemy). Upon learning Strange Brew, you must [record]{.new} the
+potions you are choosing to learn[,]{.new} and their specific rules[, in your
+spellbook]{.new}:
 
 * Potion of Acid (5 Points): Deals 200 blows to a body, only usable on
   non-living objects.
@@ -3908,15 +3910,16 @@ To be a Realms legal event, the following conditions must apply:
 
 * It should be open to the public.
 * It needs to have been advertised with full event information at least two
-  weeks before the date of the event. Advertisement must include at least one
-  of the following means: Publication in The *View from Valehaven* or
-  *Creathorne Chronicles*, posted on the *RealmsNet* Event Calendar, or sent
-  through a mass mailing or electronic mailing, which must include the known
-  addresses of all Realms EHs who have held Realms events in the previous year.
+  weeks before the date of the event [on RealmsNet]{.new}. [If RealmsNet is
+  unavailable, a]{.new}dvertisement must include at least one of the following
+  means [instead]{.new}: Publication in The *View from Valehaven* or *Creathorne
+  Chronicles*, or sent through a mass mailing or electronic mailing, which must
+  include the known addresses of all Realms EHs who have held Realms events in
+  the previous year.
 * The location and the price of the event must be announced at least two weeks
   before the event is scheduled to take place. Any significant rule changes,
   especially those affecting normally legal powers and abilities of PCs, must
-  be announced in the advertisement or mailing.
+  be announced in the advertisement.
 * The names of the EHs, at most one per day, must be announced at least 5 days
   before the event is scheduled to take place.
 * A site must be confirmed before an event can be advertised as a legal Realms
@@ -4132,11 +4135,11 @@ Council. Meetings of this nature will not have the ability to make changes to
 the Omnibus.
 
 An emergency EH meeting must be advertised with full event information at
-least two weeks before the date of the intended meeting. Advertisement must
-include at least one of the following:
+least two weeks before the date of the intended meeting. Advertisement must [be
+on RealmsNet. If RealmsNet is unavailable, advertisement must]{.new} include at
+least one of the following:
 
 * publication in The View from Valehaven or Creathorne Chronicles;
-* posting on the RealmsNet Event Calendar;
 * sent through a mass mailing or electronic mailing, which must include the
   known addresses of all Realms EHs who’ve held events in the previous year.
 
