@@ -603,17 +603,18 @@ until their soul has been restored.
 
 A [soul token]{.new} is a token carried by each player which represents
 the life essence of that player's character. Players must be carrying their PC's
-[soul token]{.new} at all times, unless the PC is dead and
-[soulless]{.new} (see below), or unless they are under the influence of a
-spell which removes the PC's [soul. Soul tokens]{.new} must have their
-player's name and the PC's name written legibly on it. A [soul token]{.new}
-does not exist physically in the IC world therefore it cannot be searched. A
-[soul token]{.new} is a non-magical and non-stealable marshaling tool.
+[soul token]{.new} at all times unless the PC is dead and
+[soulless]{.new} (see [[Destroying a Body](#destroying-a-body) below), or 
+unless they are under the influence of a spell which removes the PC's 
+[soul. A soul token]{.new} must have it's player's name and the PC's name 
+written legibly on it. A [soul token]{.new} does not exist physically in the 
+IC world; therefore it cannot be searched. A [soul token]{.new} is a 
+non-magical and non-stealable marshaling tool.
 
 ### [Destroying a Body]{.new} ### {#destroying-a-body}
 
 In order [for a player to separate a soul from a body, they must destroy
-it by]{.new} striking 200 blows with a weapon beside the body of the character 
+it by striking]{.new} 200 blows with a weapon beside the body of the character 
 being [destroyed]{.new}. More than one person may [destroy]{.new} a body at 
 a time. More than one weapon may be used to [destroy]{.new} a body as well. This 
 effectively divides the number of blows to be struck between the number of
@@ -625,11 +626,11 @@ is not yet destroyed]{.new}. Some spells, such as
 [Assassin's Blade](#assassins-blade), may accelerate the act of [destroying a
 body]{.new}.
 
-After the [body is destroyed]{.new}, the character whose body has been
-destroyed is [rendered soulless]{.new}.  The player of the
-[soulless]{.new} character must present their character's [soul]{.new}
-token to the character that just [destroyed their body]{.new}. It is
-then that player's responsibility to present the [soul]{.new} token to an
+After the [body is destroyed]{.new}, [the character whose body has been
+destroyed is rendered soulless. T]{.new}he player of the
+[soulless]{.new} character must present their character's [soul
+token]{.new} to the character that just [destroyed their body]{.new}. It is
+then that player's responsibility to present the [soul token]{.new} to an
 EH or an appointed marshal. The EH must be informed immediately of the
 [body's destruction]{.new}, thus allowing the EH time to prepare for those
 who might wish to return the [soulless]{.new} character to life.
@@ -655,7 +656,7 @@ characters must first have the body of the person needing to be raised. Then
 characters must either cast a [Call the Soul](#call-the-soul), an
 [Intervention](#intervention) spell, or administer a
 [Potion of Soul Snare](#potion-of-soul-snare)
-(see [Strange Brew](#strange-brew)) to summon and reattach the soul. If
+(see [Strange Brew](#strange-brew)) to summon and reattach the [soul]{.new}. If
 characters lack the body, only an [Intervention](#intervention) spell will
 be able to return the [soulless]{.new} PC back to life. When the body and
 [soul]{.new} are reunited, characters must cast one [Raise Dead](#raise-dead)
@@ -678,8 +679,8 @@ returned to life before the end of the event, they do not get a tick.
 
 For a [body's complete destruction]{.new} to be official, it must be
 brought to the EH's attention. The EH must provide the Death Marshal with this
-information from  their events. A tick may only be issued or reported by a
-legal EH of the event  where the tick was incurred or by the player whose PC
+information from their events. A tick may only be issued or reported by a
+legal EH of the event where the tick was incurred or by the player whose PC
 received the tick. The Death Marshal will keep track of this information. The
 current Death Marshal is Keith Cronyn who can be reached at
 <Keith.Cronyn@gmail.com> or at 603-819-8689.
@@ -2092,7 +2093,7 @@ is complete.
 An advanced regeneration is a regeneration from death [(]{.new}or 
 [soul loss, if specified in the spell description)]{.new} which begins when 
 the character dies (or is [rendered soulless,]{.new} if it brings a character 
-back from [losing their soul]{.new}. Each time they die, the spellcaster may 
+back from [losing their soul)]{.new}. Each time they die, the spellcaster may 
 choose to double the length of their regeneration (to 240 seconds, or 480 if 
 diseased). The regeneration is not considered used if the target is raised 
 before their regeneration is complete.
@@ -2398,8 +2399,8 @@ undead at the end of the event, that PC is considered dead and
 [soulless]{.new}. This spell will not work on a body without its
 [soul]{.new}. A character that is created as undead can be slain and raised
 or simply raised while undead to return to life. If a character under the
-effects  of [Embrace Death](#embrace-death) has this cast on them, it acts as
-the spell  [Animate Lesser Undead](#animate-lesser-undead) instead. You may
+effects of [Embrace Death](#embrace-death) has this cast on them, it acts as
+the spell [Animate Lesser Undead](#animate-lesser-undead) instead. You may
 have at most one undead general at a time.
 
 In addition, the Undead General gains the ability to cast the spell [Animate
@@ -2465,7 +2466,7 @@ utilize the special call with it. The weapon is one-handed, but may not be used
 in conjunction with another weapon or shield by the spellcaster. If the MC is IC
 broken, it will retain its magical properties if repaired.
 
-In addition, any [body destroying blow]{.new} dealt by an Assassin's Blade
+In addition, any [body destroying]{.new} blow dealt by an Assassin's Blade
 counts as two blows dealt.
 
 ### Aura of Protection (2nd Circle) ### {#aura-of-protection}
@@ -2514,9 +2515,9 @@ and shape, four of one color or design and one of a second color or design, and
 an opaque pouch or other way to keep them hidden - __Active:__ A quest may be
 required
 
-Allows the spellcaster to possibly find and reattach the [soul]{.new} of a
+Allows the spellcaster to possibly find and reattach the soul of a
 [soulless]{.new} character. When cast, the spellcaster presents the pouch
-of objects to  the [soulless]{.new} character, who must then reach in and
+of objects to the [soulless]{.new} character, who must then reach in and
 take one without looking. If the object is one of the four, the soul is
 reattached. If the object is the second color or design, nothing happens. This
 spell must be cast in the presence of the MM, who may require an additional
