@@ -1752,26 +1752,6 @@ Certain spells repair damaged armor and broken items.
   ask a dead character a single question per casting. Your PC MUST answer
   truthfully or abstain, using the words, "Yes," "No," or "Abstain."
 
-### Regional Magic ### {#regional-magic}
-
-At any given event, the EH may wish or require that certain magical abilities be
-available to the players. One of the ways they can accomplish this is through
-Regional Magic. Regional Magic is usually an additional number of spells that
-spellcasters can choose from. Spellcasters can only choose from this list if
-they had filled at least one spell slot with a Regional Magic spell. Regional
-Magic is learned and unlearned just like any other spell, and may be learned
-from anyone who knows it at any circle.
-
-At some events, the Regional Magic your PC will receive is based on which circle
-spell slot you filled with the Regional Magic spell. At some events, all of the
-Regional Magic spells are the same, no matter which circle slot you filled with
-Regional Magic. Others are completely random. Some EHs may require you perform
-certain actions before gaining the Regional Magic. The details of Regional Magic
-are left entirely up to the EH. No Regional Magic spell will have a lingering
-effect that lasts longer than the end of the event. One thing to keep in mind is
-that while Regional Magic is more versatile, it is also more unreliable. An EH
-may choose a different spell from the list, a new spell, or nothing.
-
 ## 6.2: Learning and Unlearning Spells ## {#learning-and-unlearning-spells}
 
 ### Choosing Spells ### {#choosing-spells}
@@ -1781,10 +1761,10 @@ to learn. Each path of magic is a list of spells of 5 increasing circles.
 
 A spellcaster may choose one of four options for each circle of a path:
 
-* Any of the spells listed for that circle.
-* Any spell of a lower circle.
-* A Regional Magic spell.
-* Alchemy
+* Any of the spells listed for that circle
+* Any spell of a lower circle
+* A Regional Magic spell [(see below)](#regional-magic){.new}
+* Alchemy [(see below)](#alchemy){.new}
 
 When a spellcaster learns their first path of magic, they [gain spell slots
 for]{.new} each of 1st through 5th circles, in order. If they learn a second
@@ -1854,38 +1834,6 @@ he doesn't want to give up the option of learning spells again later that year.
 At the beginning of the next event he attends, he unlearns all of his spells and
 starts as a fighter.
 
-### Alchemy ### {#alchemy}
-
-A spellcaster may choose to take Alchemy in a spell slot instead of learning a
-spell. This still requires someone to teach and sign off their spellbook. Any
-spellcaster that knows Alchemy must include a points total on their spell list
-page. Whenever a spellcaster learns Alchemy they receive points equal the chart
-listed below. For example, if Samuel learns Alchemy in his third and fifth
-circle slot, he will have 12 points with which to make potions. All spellcasters
-know three basic potions, listed below, and can learn more with the Strange Brew
-spell. All Potions are governed by the Enchanted Item and Potions Caveat.
-
-+-----------------+----+----+----+----+----+----+
-| Spell Circle    | 1  | 2  | 3  | 4  | 5  | 6  |
-+-----------------+----+----+----+----+----+----+
-| Points Gained   | 1  | 2  | 4  | 6  | 8  | 10 |
-+-----------------+----+----+----+----+----+----+
-
-Basic Potions
-
-* [Potion of Repair Armor]{#potion-of-repair-armor} (1 Point): Repairs one hit
-  location of armor. The potion is poured or applied to the damaged armor and
-  held there for a 15-second count. The armor does not need to be removed for
-  the potion to be applied to it.
-* [Potion of Mending]{#potion-of-mending} (2 Points): Recipient receives a basic
-  regeneration. This potion will have no effect on a living target.
-* [Power Potion]{#power-potion} (Special): Resets a single spell of the
-  recipient equal to half of the points spent to create it, rounded down. This
-  cannot be used to reset a 6th circle spell. (Example: a caster may spend 10
-  points to make a potion to reset a 5th circle spell.) [Each level of Power
-  Potion requires either its own unique sigil or to be clearly marked with the
-  spell circle it was created to reset.]{.new}
-
 ## 6.3: The Basics of a Spell ## {#the-basics-of-a-spell}
 
 ### Spell Components ### {#spell-components}
@@ -1937,7 +1885,61 @@ Here are the definitions of the different types of components:
 * Duration: Unless otherwise noted in the spell description or caveat, all
   spells end when the event ends.
 
-## 6.4: Caveats ## {#caveats}
+## [6.4: Alternatives to Spells]{.new} ## {#alternatives-to-spells}
+
+### Regional Magic ### {#regional-magic}
+
+At any given event, the EH may wish or require that certain magical abilities be
+available to the players. One of the ways they can accomplish this is through
+Regional Magic. Regional Magic is usually an additional number of spells that
+spellcasters can choose from. Spellcasters can only choose from this list if
+they had filled at least one spell slot with a Regional Magic spell. Regional
+Magic is learned and unlearned just like any other spell, and may be learned
+from anyone who knows it at any circle.
+
+At some events, the Regional Magic your PC will receive is based on which circle
+spell slot you filled with the Regional Magic spell. At some events, all of the
+Regional Magic spells are the same, no matter which circle slot you filled with
+Regional Magic. Others are completely random. Some EHs may require you perform
+certain actions before gaining the Regional Magic. The details of Regional Magic
+are left entirely up to the EH. No Regional Magic spell will have a lingering
+effect that lasts longer than the end of the event. One thing to keep in mind is
+that while Regional Magic is more versatile, it is also more unreliable. An EH
+may choose a different spell from the list, a new spell, or nothing.
+
+### Alchemy ### {#alchemy}
+
+A spellcaster may choose to take Alchemy in a spell slot instead of learning a
+spell. This still requires someone to teach and sign off their spellbook. Any
+spellcaster that knows Alchemy must include a points total on their spell list
+page. Whenever a spellcaster learns Alchemy they receive points equal the chart
+listed below. For example, if Samuel learns Alchemy in his third and fifth
+circle slot, he will have 12 points with which to make potions. All spellcasters
+know three basic potions, listed below, and can learn more with the Strange Brew
+spell. All Potions are governed by the Enchanted Item and Potions Caveat.
+
++-----------------+----+----+----+----+----+----+
+| Spell Circle    | 1  | 2  | 3  | 4  | 5  | 6  |
++-----------------+----+----+----+----+----+----+
+| Points Gained   | 1  | 2  | 4  | 6  | 8  | 10 |
++-----------------+----+----+----+----+----+----+
+
+Basic Potions
+
+* [Potion of Repair Armor]{#potion-of-repair-armor} (1 Point): Repairs one hit
+  location of armor. The potion is poured or applied to the damaged armor and
+  held there for a 15-second count. The armor does not need to be removed for
+  the potion to be applied to it.
+* [Potion of Mending]{#potion-of-mending} (2 Points): Recipient receives a basic
+  regeneration. This potion will have no effect on a living target.
+* [Power Potion]{#power-potion} (Special): Resets a single spell of the
+  recipient equal to half of the points spent to create it, rounded down. This
+  cannot be used to reset a 6th circle spell. (Example: a caster may spend 10
+  points to make a potion to reset a 5th circle spell.) [Each level of Power
+  Potion requires either its own unique sigil or to be clearly marked with the
+  spell circle it was created to reset.]{.new}
+
+## [6.5:]{.new} Caveats ## {#caveats}
 
 Caveats are general rules that apply to all spells or spell effects of a similar
 type. Each spell that is affected by a caveat is listed in the appropriate
@@ -2177,7 +2179,7 @@ discharged. The spellcaster's weapon may not be used by anyone else and still
 retain the enchanted status. If someone other than the spellcaster swings the
 prepared weapon, the preparation is lost, and must be reapplied.
 
-## 6.5: Grandfathering ## {#grandfathering}
+## [6.6:]{.new} Grandfathering ## {#grandfathering}
 
 For the 201[9]{.new} year only, all characters who were in existence (first
 attended an event) before February [9]{.new}th, 201[9]{.new} are allowed to have
@@ -2192,7 +2194,7 @@ All spells known after grandfathering may be added to the spellcaster's "Spell
 Mastery" section, in addition to the list they had before grandfathering (if
 any).
 
-## 6.6: The Spells ## {#the-spells}
+## [6.7:]{.new} The Spells ## {#the-spells}
 
 +:----------------------------------------------------:+:----------------------------------------------------:+:----------------------------------------------------:+
 |                                                      | 1st Circle Spells                                    |                                                      |
