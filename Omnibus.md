@@ -1766,26 +1766,6 @@ Certain spells repair damaged armor and broken items.
   ask a dead character a single question per casting. Your PC MUST answer
   truthfully or abstain, using the words, "Yes," "No," or "Abstain."
 
-### Regional Magic ### {#regional-magic}
-
-At any given event, the EH may wish or require that certain magical abilities be
-available to the players. One of the ways they can accomplish this is through
-Regional Magic. Regional Magic is usually an additional number of spells that
-spellcasters can choose from. Spellcasters can only choose from this list if
-they had filled at least one spell slot with a Regional Magic spell. Regional
-Magic is learned and unlearned just like any other spell, and may be learned
-from anyone who knows it at any circle.
-
-At some events, the Regional Magic your PC will receive is based on which circle
-spell slot you filled with the Regional Magic spell. At some events, all of the
-Regional Magic spells are the same, no matter which circle slot you filled with
-Regional Magic. Others are completely random. Some EHs may require you perform
-certain actions before gaining the Regional Magic. The details of Regional Magic
-are left entirely up to the EH. No Regional Magic spell will have a lingering
-effect that lasts longer than the end of the event. One thing to keep in mind is
-that while Regional Magic is more versatile, it is also more unreliable. An EH
-may choose a different spell from the list, a new spell, or nothing.
-
 ## 6.2: Learning and Unlearning Spells ## {#learning-and-unlearning-spells}
 
 ### Choosing Spells ### {#choosing-spells}
@@ -1795,10 +1775,10 @@ to learn. Each path of magic is a list of spells of 5 increasing circles.
 
 A spellcaster may choose one of four options for each circle of a path:
 
-* Any of the spells listed for that circle.
-* Any spell of a lower circle.
-* A Regional Magic spell.
-* Alchemy
+* Any of the spells listed for that circle
+* Any spell of a lower circle
+* A Regional Magic spell [(see below)](#regional-magic){.new}
+* Alchemy [(see below)](#alchemy){.new}
 
 When a spellcaster learns their first path of magic, they [gain spell slots
 for]{.new} each of 1st through 5th circles, in order. If they learn a second
@@ -1868,38 +1848,6 @@ he doesn't want to give up the option of learning spells again later that year.
 At the beginning of the next event he attends, he unlearns all of his spells and
 starts as a fighter.
 
-### Alchemy ### {#alchemy}
-
-A spellcaster may choose to take Alchemy in a spell slot instead of learning a
-spell. This still requires someone to teach and sign off their spellbook. Any
-spellcaster that knows Alchemy must include a points total on their spell list
-page. Whenever a spellcaster learns Alchemy they receive points equal the chart
-listed below. For example, if Samuel learns Alchemy in his third and fifth
-circle slot, he will have 12 points with which to make potions. All spellcasters
-know three basic potions, listed below, and can learn more with the Strange Brew
-spell. All Potions are governed by the Enchanted Item and Potions Caveat.
-
-+-----------------+----+----+----+----+----+----+
-| Spell Circle    | 1  | 2  | 3  | 4  | 5  | 6  |
-+-----------------+----+----+----+----+----+----+
-| Points Gained   | 1  | 2  | 4  | 6  | 8  | 10 |
-+-----------------+----+----+----+----+----+----+
-
-Basic Potions
-
-* [Potion of Repair Armor]{#potion-of-repair-armor} (1 Point): Repairs one hit
-  location of armor. The potion is poured or applied to the damaged armor and
-  held there for a 15-second count. The armor does not need to be removed for
-  the potion to be applied to it.
-* [Potion of Mending]{#potion-of-mending} (2 Points): Recipient receives a basic
-  regeneration. This potion will have no effect on a living target.
-* [Power Potion]{#power-potion} (Special): Resets a single spell of the
-  recipient equal to half of the points spent to create it, rounded down. This
-  cannot be used to reset a 6th circle spell. (Example: a caster may spend 10
-  points to make a potion to reset a 5th circle spell.) [Each level of Power
-  Potion requires either its own unique sigil or to be clearly marked with the
-  spell circle it was created to reset.]{.new}
-
 ## 6.3: The Basics of a Spell ## {#the-basics-of-a-spell}
 
 ### Spell Components ### {#spell-components}
@@ -1951,7 +1899,61 @@ Here are the definitions of the different types of components:
 * Duration: Unless otherwise noted in the spell description or caveat, all
   spells end when the event ends.
 
-## 6.4: Caveats ## {#caveats}
+## [6.4: Alternatives to Spells]{.new} ## {#alternatives-to-spells}
+
+### Regional Magic ### {#regional-magic}
+
+At any given event, the EH may wish or require that certain magical abilities be
+available to the players. One of the ways they can accomplish this is through
+Regional Magic. Regional Magic is usually an additional number of spells that
+spellcasters can choose from. Spellcasters can only choose from this list if
+they had filled at least one spell slot with a Regional Magic spell. Regional
+Magic is learned and unlearned just like any other spell, and may be learned
+from anyone who knows it at any circle.
+
+At some events, the Regional Magic your PC will receive is based on which circle
+spell slot you filled with the Regional Magic spell. At some events, all of the
+Regional Magic spells are the same, no matter which circle slot you filled with
+Regional Magic. Others are completely random. Some EHs may require you perform
+certain actions before gaining the Regional Magic. The details of Regional Magic
+are left entirely up to the EH. No Regional Magic spell will have a lingering
+effect that lasts longer than the end of the event. One thing to keep in mind is
+that while Regional Magic is more versatile, it is also more unreliable. An EH
+may choose a different spell from the list, a new spell, or nothing.
+
+### Alchemy ### {#alchemy}
+
+A spellcaster may choose to take Alchemy in a spell slot instead of learning a
+spell. This still requires someone to teach and sign off their spellbook. Any
+spellcaster that knows Alchemy must include a points total on their spell list
+page. Whenever a spellcaster learns Alchemy they receive points equal the chart
+listed below. For example, if Samuel learns Alchemy in his third and fifth
+circle slot, he will have 12 points with which to make potions. All spellcasters
+know three basic potions, listed below, and can learn more with the Strange Brew
+spell. All Potions are governed by the Enchanted Item and Potions Caveat.
+
++-----------------+----+----+----+----+----+----+
+| Spell Circle    | 1  | 2  | 3  | 4  | 5  | 6  |
++-----------------+----+----+----+----+----+----+
+| Points Gained   | 1  | 2  | 4  | 6  | 8  | 10 |
++-----------------+----+----+----+----+----+----+
+
+Basic Potions
+
+* [Potion of Repair Armor]{#potion-of-repair-armor} (1 Point): Repairs one hit
+  location of armor. The potion is poured or applied to the damaged armor and
+  held there for a 15-second count. The armor does not need to be removed for
+  the potion to be applied to it.
+* [Potion of Mending]{#potion-of-mending} (2 Points): Recipient receives a basic
+  regeneration. This potion will have no effect on a living target.
+* [Power Potion]{#power-potion} (Special): Resets a single spell of the
+  recipient equal to half of the points spent to create it, rounded down. This
+  cannot be used to reset a 6th circle spell. (Example: a caster may spend 10
+  points to make a potion to reset a 5th circle spell.) [Each level of Power
+  Potion requires either its own unique sigil or to be clearly marked with the
+  spell circle it was created to reset.]{.new}
+
+## [6.5:]{.new} Caveats ## {#caveats}
 
 Caveats are general rules that apply to all spells or spell effects of a similar
 type. Each spell that is affected by a caveat is listed in the appropriate
@@ -2192,7 +2194,7 @@ discharged. The spellcaster's weapon may not be used by anyone else and still
 retain the enchanted status. If someone other than the spellcaster swings the
 prepared weapon, the preparation is lost, and must be reapplied.
 
-## 6.5: Grandfathering ## {#grandfathering}
+## [6.6:]{.new} Grandfathering ## {#grandfathering}
 
 For the 201[9]{.new} year only, all characters who were in existence (first
 attended an event) before February [9]{.new}th, 201[9]{.new} are allowed to have
@@ -2207,7 +2209,7 @@ All spells known after grandfathering may be added to the spellcaster's "Spell
 Mastery" section, in addition to the list they had before grandfathering (if
 any).
 
-## 6.6: The Spells ## {#the-spells}
+## [6.7:]{.new} [Spell Chart]{.new} ## {#spell-chart}
 
 +:----------------------------------------------------:+:----------------------------------------------------:+:----------------------------------------------------:+
 |                                                      | 1st Circle Spells                                    |                                                      |
@@ -2258,10 +2260,9 @@ any).
 | [Intervention](#intervention)                        | [Resist Death](#resist-death)                        | [Transformation](#transformation)                    |
 +------------------------------------------------------+------------------------------------------------------+------------------------------------------------------+
 
+## [6.8: Spell Descriptions]{.new} ## {#spell-descriptions}
 
-### Spell Descriptions ### {#spell-descriptions}
-
-[__Animal Companion__ (4th Circle)]{#animal-companion}
+### Animal Companion (4th Circle) ### {#animal-companion}
 
 __Uses:__ 1, and the spellcaster may only have one in-play - __Material:__ A
 stuffed or toy animal that must be at least 4" tall - __Caveats:__
@@ -2304,7 +2305,7 @@ learning by giving it an additional spell and question. If the spellcaster
 unlearns a use of the spell, the animal companion becomes weaker and must be
 adjusted accordingly.
 
-[__Animate Lesser Undead__ (3rd Circle)]{#animate-lesser-undead}
+### Animate Lesser Undead (3rd Circle) ### {#animate-lesser-undead}
 
 __Uses:__ 3 - __Verbal:__ 30 words, and an explanation - __Material:__ A tabard,
 or sash which clearly states "Undead," "Skeleton," "Ghost" or the like, or an
@@ -2329,7 +2330,7 @@ event, they are considered dead and [soulless]{.new}. A character that is
 created as undead can be slain and raised or simply raised while undead to
 return to life.
 
-[__Animate Undead__ (4th Circle)]{#animate-undead}
+### Animate Undead (4th Circle) ### {#animate-undead}
 
 __Uses:__ 2 - __Verbal:__ 30 words, and an explanation - __Material:__ A tabard,
 or sash which clearly states "Undead," "Skeleton," "Ghost" or the like, or an
@@ -2361,7 +2362,7 @@ a PC is still undead at the end of the event, that PC is considered dead and
 [soul]{.new}. A character that is created as undead can be slain and
 raised or simply raised while undead to return to life.
 
-[__Animate Undead General__ (5th Circle)]{#animate-undead-general}
+### Animate Undead General (5th Circle) ### {#animate-undead-general}
 
 __Uses:__ 1 - __Verbal:__ 40 words, and an explanation - __Material:__ A tabard,
 or sash which clearly states "Undead," "Skeleton," "Ghost" or the like, or an
@@ -2408,7 +2409,7 @@ casting [Animate Lesser Undead](#animate-lesser-undead) again. If the Undead
 General casts [Animate Lesser Undead](#animate-lesser-undead) on anyone who is
 not under the effects of [Embrace Death](#embrace-death), they must use an MC.
 
-[__Armor-Piercing Weapon__ (5th Circle)]{#armor-piercing-weapon}
+### Armor-Piercing Weapon (5th Circle) ### {#armor-piercing-weapon}
 
 __Uses:__ 4 - __Material:__ A cloth - __Active:__ Wipe the entire length of the
 blade 5 times - __Caveats:__ [Combat Calls](#combat-calls-caveat), [Enchanted
@@ -2418,7 +2419,7 @@ This spell gives the spellcaster the ability to enhance their weapon to pass
 through and destroy armor. After preparing the spell the spellcaster must call
 "[Armor-Piercing](#armor-piercing)" on the next swing of the weapon.
 
-[__Armored Cloak__ (4th Circle)]{#armored-cloak}
+### Armored Cloak (4th Circle) ### {#armored-cloak}
 
 __Uses:__ Unlimited, one at a time - __Verbal:__ 30 words - __Material:__ A
 piece of garb with obvious runes or mystic symbols - __Active:__ Lie on back
@@ -2444,7 +2445,7 @@ absorbs one blow on either hit location (not both). All garments must meet the
 requirements of the spell, and are all charged through a single casting of the
 spell.
 
-[__Assassin's Blade__ (6th Circle)]{#assassins-blade}
+### Assassin's Blade (6th Circle) ### {#assassins-blade}
 
 __Uses:__ Unlimited, one at a time - __Material:__ A cloth, and either a single
 weapon up to 3' long or an arrow, labeled with "Assassin's Blade,"
@@ -2467,7 +2468,7 @@ broken, it will retain its magical properties if repaired.
 In addition, any [body destroying blow]{.new} dealt by an Assassin's Blade
 counts as two blows dealt.
 
-[__Aura of Protection__ (2nd Circle)]{#aura-of-protection}
+### Aura of Protection (2nd Circle) ### {#aura-of-protection}
 
 __Uses:__ Unlimited, one at a time per learning - __Verbal:__ 20 words -
 __Material:__ Spell Sash - __Active:__ Kneel or lie on back, no weapons in hand
@@ -2487,7 +2488,7 @@ casting of this spell may be in effect on a single PC. If the spellcaster casts
 this spell on another PC, they may not re-cast the spell until the sash is
 returned to them.
 
-[__Beckon Corpse__ (3rd Circle)]{#beckon-corpse}
+### Beckon Corpse (3rd Circle) ### {#beckon-corpse}
 
 __Uses:__ 5 - __Verbal:__ 20 words, repeated continuously, stating purpose of
 spell - __Active:__ Spellcaster must be stationary until finished - __Caveats:__
@@ -2506,7 +2507,7 @@ corpse. The spell will end if the corpse reaches the spellcaster, the
 spellcaster stops chanting to do something else, or they move from where they
 are standing (although they may be moving their arms).
 
-[__Call the Soul__ (4th Circle)]{#call-the-soul}
+### Call the Soul (4th Circle) ### {#call-the-soul}
 
 __Uses:__ 2 - __Verbal:__ 30 words - __Material:__ Five objects of equal size
 and shape, four of one color or design and one of a second color or design, and
@@ -2521,7 +2522,7 @@ reattached. If the object is the second color or design, nothing happens. This
 spell must be cast in the presence of the MM, who may require an additional
 quest be completed.
 
-[__Cantrip__ (3rd Circle)]{#cantrip}
+### Cantrip (3rd Circle) ### {#cantrip}
 
 __Uses:__ 3
 
@@ -2530,7 +2531,7 @@ the time of casting. The spell gained must be cast following the rules for that
 spell, including VC, MC, and ACs. This spell cannot be used [to cast]{.new}
 [Implement](#implement) [or [Strange Brew](#strange-brew)]{.new}.
 
-[__Circle of Healing__ (5th Circle)]{#circle-of-healing}
+### Circle of Healing (5th Circle) ### {#circle-of-healing}
 
 __Uses:__ 1 - __Verbal:__ 25 words - __Material:__ 10-foot rope - __Active:__
 Touch the rope - __Caveats:__ [Circles](#circles), [Suspension](#suspension)
@@ -2547,7 +2548,7 @@ the plane of the circle. For this purpose, a weapon is considered to be anything
 with a legal striking surface - therefore, swords and arrows are weapons,
 although bows and shields are not.
 
-[__Circle of Protection__ (4th Circle)]{#circle-of-protection}
+### Circle of Protection (4th Circle) ### {#circle-of-protection}
 
 __Uses:__ Unlimited, one at a time - __Verbal:__ 10 words - __Material:__
 15-foot white rope, or less - __Caveats:__ [Circles](#circles),
@@ -2572,7 +2573,7 @@ The spellcaster may decide to break their own circle whenever they choose by
 uncrossing the rope. The spellcaster can do this even if the circle was cast
 with other spellcasters.
 
-[__Combat Raise Dead__ (4th Circle)]{#combat-raise-dead}
+### Combat Raise Dead (4th Circle) ### {#combat-raise-dead}
 
 __Uses:__ 3 - __Verbal:__ 3 words - __Active:__ Must touch recipient of spell
 
@@ -2580,7 +2581,7 @@ This spell will raise a dead character, healing all of their injured limbs. The
 VC must clearly state the effects of the spell. For example, "Rise and fight" is
 a VC that would make it clear that the individual is being raised.
 
-[__Commune with Spirit__ (3rd Circle)]{#commune-with-spirit}
+### Commune with Spirit (3rd Circle) ### {#commune-with-spirit}
 
 __Uses:__ 1 - __Active:__ Ritual - it is required that the spellcaster not
 actively seek out the MM or EH. The ritual must, in effect, be spectacular
@@ -2594,7 +2595,7 @@ spirit does not have to answer the call of the spellcaster, and that sometimes
 instead of helping solve a problem, may give the spellcaster an awareness of
 more problems that need solving.
 
-[__Create Poison__ (4th Circle)]{#create-poison}
+### Create Poison (4th Circle) ### {#create-poison}
 
 __Uses:__ 6 - __Material:__ Disposable edible or drinkable component -
 __Caveats:__ [Potions](#potions), [Enchanted Items](#enchanted-items), [Combat
@@ -2630,7 +2631,7 @@ deadly poison. The next time the caster swings the weapon they must call
 "[Poison](#poison)." To use this spell this way, the MC becomes a cloth, and the
 AC becomes wipe the length of the blade 5 times with the MC.
 
-[__Cry of Life__ (6th Circle)]{#cry-of-life}
+### Cry of Life (6th Circle) ### {#cry-of-life}
 
 __Uses:__ 1 - __Verbal:__ "All in the sound of my voice, rise and fight."
 
@@ -2638,7 +2639,7 @@ This spell instantly raises all dead characters whose players hear the verbal.
 The spell affects all who hear it, including NPCs and characters fighting
 against the spellcaster.
 
-[__Cure Disease__ (1st Circle)]{#cure-disease}
+### Cure Disease (1st Circle) ### {#cure-disease}
 
 __Uses:__ 5 - __Verbal:__ 20 words - __Material:__ Disposable
 
@@ -2646,7 +2647,7 @@ This spell will cure the recipient of all diseases that are currently affecting
 them. It will not provide protection from catching a disease after the spell is
 cast.
 
-[__Death Watch__ (2nd Circle)]{#death-watch}
+### Death Watch (2nd Circle) ### {#death-watch}
 
 __Uses:__ Unlimited, one at a time - __Active:__ Spellcaster must sit without
 weapons in-hand for 60 seconds before they are killed.
@@ -2659,7 +2660,7 @@ casting of Death Watch are erased (i.e., all memories acquired from the time
 of your PC's last death). [The spell ends when
 the spellcaster is raised (either as alive or as undead).]{.new}
 
-[__Death Wish__ (4th Circle)]{#death-wish}
+### Death Wish (4th Circle) ### {#death-wish}
 
 __Uses:__ 2 - __Verbal:__ 30 words, and an explanation - __Material:__ A scroll
 containing the trigger phrase and command __Caveats:__ [Compulsion](#compulsion)
@@ -2676,7 +2677,7 @@ target may ignore any commands that violate the compulsions caveat.
 This spell will not work on a body without its [soul]{.new}. The spell
 [Protect the Soul](#protect-the-soul) negates all effects of this spell.
 
-[__Deep Pockets__ (2nd Circle)]{#deep-pockets}
+### Deep Pockets (2nd Circle) ### {#deep-pockets}
 
 __Uses:__ 3 - __Material:__ A bag no larger than 6" by 12" by 3"
 
@@ -2692,7 +2693,7 @@ simultaneously. One Deep Pockets bag may never contain another. No matter how
 many Deep Pockets castings are combined it does not combine the amount of people
 that need to search it; it only increases the size of the bag.
 
-[__Detect Magic__ (1st Circle)]{#detect-magic}
+### Detect Magic (1st Circle) ### {#detect-magic}
 
 __Uses:__ 5 - __Verbal:__ 20 words
 
@@ -2706,7 +2707,7 @@ and which item it is. If cast in this manner multiple times and there are
 multiple magical items, it will not repeat magic items until there are no new
 items to reveal.
 
-[__Disease Weapon__ (3rd Circle)]{#disease-weapon}
+### Disease Weapon (3rd Circle) ### {#disease-weapon}
 
 __Uses:__ 3 - __Verbal:__ 10 words - __Material:__ Spellcaster's weapon -
 __Caveats:__ [Combat Calls](#combat-calls-caveat), [Enchanted
@@ -2716,7 +2717,7 @@ This spell allows the spellcaster to temporarily enchant their weapon. After
 preparing it with the spell, it is considered a diseased weapon and the
 spellcaster must call "[Disease](#disease)" on the next swing of the weapon.
 
-[__Disenchant__ ([2nd]{.new} Circle)]{#disenchant}
+### Disenchant ([2nd]{.new} Circle) ### {#disenchant}
 
 __Uses:__ 2 - __Verbal:__ 30 words - __Active:__ Touch the target item
 
@@ -2729,7 +2730,7 @@ Protection](#circle-of-protection), [Light](#light), and other pure spells are
 not affected unless otherwise stated in their description. Only items specified
 by the EH are immune to this spell.
 
-[__Disrupt__ (4th Circle)]{#disrupt}
+### Disrupt (4th Circle) ### {#disrupt}
 
 __Uses:__ 5 - __Verbal:__ 30 words, starting with "I disrupt this (spell name)
 ..." - __Active:__ Clearly point at the target - __Caveats:__
@@ -2747,7 +2748,7 @@ of the target spell. Therefore, if the spellcaster has taken [Ward: Enchanted
 Beings](#ward-enchanted-beings) twice, they temporarily lose the ability to cast
 one, but retain the ability to cast the other.
 
-[__Disrupt Light__ (1st Circle)]{#disrupt-light}
+### Disrupt Light (1st Circle) ### {#disrupt-light}
 
 __Uses:__ 5 - __Verbal:__ 20 words, which must clearly state the effect of the
 spell
@@ -2761,7 +2762,7 @@ if they hear the spell while dead. Spellcasters so affected cannot recast the
 [Light](#light) spell for five minutes, after which time they may reuse the same
 chemical light sticks.
 
-[__Divine Aid__ (4th Circle)]{#divine-aid}
+### Divine Aid (4th Circle) ### {#divine-aid}
 
 __Uses:__ 1 - __Verbal:__ Speak to EH - __Material:__ A sacrifice may be
 required - __Active:__ A quest may be required
@@ -2773,7 +2774,7 @@ the request and say "No." This spell cannot create an effect that will last
 beyond the end of the event, other than for healing purposes. A spellcaster who
 uses drama and theatrics has a better chance of success.
 
-[__Embrace Death__ (6th Circle)]{#embrace-death}
+### Embrace Death (6th Circle) ### {#embrace-death}
 
 __Uses:__ 1 - __Verbal:__ 40 words - __Material:__ A container at least 4 inches
 in diameter able to hold the spellcaster's [soul]{.new} token[, labeled with
@@ -2836,7 +2837,7 @@ spellcaster is slain and considered [soulless]{.new}. If the spell is not
 ended before the end of the event, the spellcaster is considered dead and
 [soulless]{.new}.
 
-[__Enchant Armor__ (4th Circle)]{#enchant-armor}
+### Enchant Armor (4th Circle) ### {#enchant-armor}
 
 __Uses:__ 1 - __Verbal:__ 30 words and an explanation - __Material:__ A
 non-stealable token with the spellcaster's name and the words "Enchant Armor" on
@@ -2855,7 +2856,7 @@ require the caster to currently have the spell [Repair Armor](#repair-armor) or
 have any remaining castings of [Repair Armor](#repair-armor) in order to use
 this effect.
 
-[__Enchant Weapon__ ([2nd]{.new} Circle)]{#enchant-weapon}
+### Enchant Weapon ([2nd]{.new} Circle) ### {#enchant-weapon}
 
 __Uses:__ 5 - __Verbal:__ 10 words - __Active:__ Hold the target weapon with
 both hands - __Caveats:__ [Combat Calls](#combat-calls-caveat), [Enchanted
@@ -2874,7 +2875,7 @@ with a particular call and fired from a bow with a different call, the wielder
 may choose which call to use; regardless of the call chosen, a call is expended
 from both the bow and the arrow.]{.new}
 
-[__Enfeeble Being__ (3rd Circle)]{#enfeeble-being}
+### Enfeeble Being (3rd Circle) ### {#enfeeble-being}
 
 __Uses:__ 2 - __Verbal:__ 30 words, starting with "I declare you mundane ..."
 
@@ -2888,7 +2889,7 @@ proverbial "Big Bad Guy," but it might work on things like a troll, a lesser
 demon, or a goblin shaman. This spell will never work on PCs. A spellcaster
 should choose their targets wisely.
 
-[__Familiar__ (5th Circle)]{#familiar}
+### Familiar (5th Circle) ### {#familiar}
 
 __Uses:__ 1. The spellcaster may only have one in-play - __Material:__ A stuffed
 or toy animal that must be at least 4" tall[, labeled with the spellcaster's
@@ -2944,7 +2945,7 @@ abilities of their familiar upon completion of each learning. If the spellcaster
 unlearns a use of the spell Familiar, the familiar they have then becomes weaker
 and must be adjusted accordingly.
 
-[__Feign Death__ (3rd Circle)]{#feign-death}
+### Feign Death (3rd Circle) ### {#feign-death}
 
 __Uses:__ Unlimited - __Material:__ A cloth - __Active:__ Wipe cloth over face 5
 times
@@ -2960,7 +2961,7 @@ dead, the Feign Death does not end; only when they move themselves. If struck
 while using Feign Death, the spellcaster is still affected by the blow as
 normal.
 
-[__Fighter's Intuition__ (1st Circle)]{#fighters-intuition}
+### Fighter's Intuition (1st Circle) ### {#fighters-intuition}
 
 __Uses:__ 3 - __Material:__ Spell Sash - __Active:__ place sash on fighter -
 __Caveats:__ [Spell Sash](#spell-sash)
@@ -2975,7 +2976,7 @@ up to the event staff to decide to provide this information or not. The
 information can be anything: weakness, methods of defeating, or even what the
 NPC likes to eat.
 
-[__Find the Path__ (4th Circle)]{#find-the-path}
+### Find the Path (4th Circle) ### {#find-the-path}
 
 __Uses:__ 1 - __Verbal:__ 30 words - __Caveats:__ [Spell
 Failure](#spell-failure)
@@ -2989,7 +2990,7 @@ MM deems appropriate. Be aware that the answer may not always be the safest or
 shortest path. This spell will fail if an answer cannot be determined because of
 PC action.
 
-[__Foretell__ (4th Circle)]{#foretell}
+### Foretell (4th Circle) ### {#foretell}
 
 __Uses:__ 1 - __Verbal:__ A prediction that the EH/MM must be present for
 
@@ -3000,7 +3001,7 @@ The nature and power of this boon is up to the EH/MM. The greater the foretold
 event or more specific the prediction, the more powerful the resulting boon
 should be.
 
-[__Fortune Tell__ (3rd Circle)]{#fortune-tell}
+### Fortune Tell (3rd Circle) ### {#fortune-tell}
 
 __Uses:__ 2 - __Material:__ Fortune-telling paraphernalia, such as runes or a
 tarot deck
@@ -3017,7 +3018,7 @@ answer because the question asked relates to PC actions, an answer will not be
 given but the spell is still used. If the spell is cast and an answer cannot be
 given because of any of the above limitations, the casting is still used up.
 
-[__Ghost Blade__ (1st Circle)]{#ghost-blade}
+### Ghost Blade (1st Circle) ### {#ghost-blade}
 
 __Uses:__ 1 - __Verbal:__ 20 words - __Material:__ A white ribbon with the words
 "Ghost Blade" on it - __Caveats:__ [Enchanted Items](#enchanted-items)
@@ -3026,7 +3027,7 @@ This spell enchants a single weapon to no longer affect the casting of the
 spells Raise Dead or Regeneration or the breaking of Circle of Healing. Upon
 casting this spell, the spellcaster must tie the MC onto the enchanted weapon.
 
-[__Group Healing__ (2nd Circle)]{#group-healing}
+### Group Healing (2nd Circle) ### {#group-healing}
 
 __Uses:__ 2 - __Verbal:__ 10 words - __Material:__ 30' rope - __Active:__ Touch
 the rope - __Caveats:__ [Circles](#circles)
@@ -3048,7 +3049,7 @@ The next spell from the accepted list cast into this circle by any spellcaster
 affects all within as if it had been cast on each individually. [If the spell
 has any MC, only one is used.]{.new}
 
-[__Guidance__ (2nd Circle)]{#guidance}
+### Guidance (2nd Circle) ### {#guidance}
 
 __Uses:__ 2 - __Material:__ Divining paraphernalia to indicate a yes/no answer
 
@@ -3059,7 +3060,7 @@ be given in the form of "Yes" or "No" by the EH or MM. If the spell is cast and
 an answer cannot be given because of any of the above limitations, the casting
 is still used up.
 
-[__Heal Limb__ (2nd Circle)]{#heal-limb}
+### Heal Limb (2nd Circle) ### {#heal-limb}
 
 __Uses:__ Unlimited - __Verbal:__ 20 words - __Active:__ Spellcaster must be
 stationary, must touch the target limb
@@ -3069,7 +3070,7 @@ spellcaster must recite the VC while touching the recipient's injured limb. The
 spellcaster cannot move their feet while casting this spell, although they may
 be moving their arms (e.g., parrying, so long as they don't step backwards).
 
-[__Heartiness__ (1st Circle)]{#heartiness}
+### Heartiness (1st Circle) ### {#heartiness}
 
 __Uses:__ Unlimited, one at a time
 
@@ -3083,7 +3084,7 @@ A use is considered to be over whenever the spellcaster receives at least
 200 [body destroying]{.new} blows, but is in effect until either [their body 
 is destroyed]{.new} or they are raised.
 
-[__Identify__ (1st Circle)]{#identify}
+### Identify (1st Circle) ### {#identify}
 
 __Uses:__ 3 - __Verbal:__ 30 words
 
@@ -3094,7 +3095,7 @@ successfully reach visual inspection range, recite the verbal, and the creature
 is not hostile, it must state what race it is. The response is not IC speech by
 the creature, and it can answer while dead.
 
-[__Immunity to Poison__ (1st Circle)]{#immunity-to-poison}
+### Immunity to Poison (1st Circle) ### {#immunity-to-poison}
 
 __Uses:__ 3 - __Verbal:__ 10 words - __Material:__ Disposable
 
@@ -3111,7 +3112,7 @@ cast. This spell can also be cast as an antidote for any one poison that the
 recipient has been subjected to, but in this case it will not provide any
 further protection.
 
-[__Implement__ (1st Circle)]{#implement}
+### Implement (1st Circle) ### {#implement}
 
 __Uses:__ Special - __Material:__ Safe, non-weapon Staff (between 4' and 6'
 long, inclusive), Wand (between 12" and 18" long, inclusive), Orb (at least 4"
@@ -3188,7 +3189,7 @@ Gain the following abilities for 3 points each:
   know the spell to use this ability.
 * Gain one additional [Magic Missile](#magic-missile) prop.
 
-[__Intervention__ (6th Circle)]{#intervention}
+### Intervention (6th Circle) ### {#intervention}
 
 __Uses:__ 1 - __Verbal:__ Speak to EH - __Material:__ A sacrifice may be
 required - __Active:__ A quest may be required
@@ -3205,7 +3206,7 @@ chance of success, and simple, small requests are also more likely to be
 granted. Any requests that will unbalance the game will likely be either
 denied straight out, or assigned an unsolvable quest.
 
-[__Light__ (1st Circle)]{#light}
+### Light (1st Circle) ### {#light}
 
 __Uses:__ Unlimited - __Verbal:__ 3 syllables - __Material:__ Chemical light
 stick and dark bag - __Active:__ Snap and shake the stick
@@ -3219,7 +3220,7 @@ easy speaking distance. It is possible for this spell to be disrupted. It is the
 spellcaster's responsibility to know what the Disrupt Light spell is, how to
 recognize it, and how to respond to it.
 
-[__Lightning Bolt__ (6th Circle)]{#lightning-bolt-spell}
+### Lightning Bolt (6th Circle) ### {#lightning-bolt-spell}
 
 __Uses:__ 1 prop, unlimited use - __Verbal:__ "Lightning Bolt" - __Material:__ 1
 white boff arrow or javelin prop between 2'6" and 3'6" long - __Caveats:__
@@ -3240,7 +3241,7 @@ until the spellcaster recovers the prop. The prop is not considered a weapon and
 does not cause [Spell Failure](#spell-failure), except while the spell is active
 (i.e. from when the prop is thrown until it comes to rest).
 
-[__Magic Missile__ (4th Circle)]{#magic-missile}
+### Magic Missile (4th Circle) ### {#magic-missile}
 
 __Uses:__ Unlimited, while spellcaster has MC handy - __Verbal:__ "Magic
 Missile" - __Material:__ 2 beanbags or foam & duct tape blocks, about 3"
@@ -3259,7 +3260,7 @@ from when the prop is thrown until it comes to rest). The spellcaster may only
 throw their spell props, and may not pick up those thrown by another
 spellcaster.
 
-[__Masterwork Hammer__ (6th Circle)]{#masterwork-hammer}
+### Masterwork Hammer (6th Circle) ### {#masterwork-hammer}
 
 __Uses:__ 1 - __Verbal:__ 50 words - __Material:__ A boff hammer up to 3' in
 length with "[Event-Stealable](#event-stealable)," "Masterwork Hammer," and the
@@ -3276,7 +3277,7 @@ is broken the spellcaster may repair it by holding the item in both hands and
 reciting the verbal. Only the spellcaster may use any of the benefits of this
 spell.
 
-[__Mystic Forge__ (4th Circle)]{#mystic-forge}
+### Mystic Forge (4th Circle) ### {#mystic-forge}
 
 __Uses:__ 1 - __Verbal:__ 25 words - __Material:__ 10-foot rope - __Active:__
 Touch the rope - __Caveats:__ [Circles](#circles), [Suspension](#suspension)
@@ -3289,7 +3290,7 @@ and recite the named spell's VC to cast the spell. This does not use up any
 castings of the named spell, and this can be done as many times as desired. No
 one but the spellcaster may use the Mystic Forge in this manner.
 
-[__Pas__ (1st Circle)]{#pas}
+### Pas (1st Circle) ### {#pas}
 
 __Uses:__ 3 - __Verbal:__ Pas, friend... - __Material:__ Food, coin, or some
 offering - __Active:__ Offer the MC to the target - __Caveats:__
@@ -3304,7 +3305,7 @@ attacked. If the target is attacked or the spellcaster is slain this spell ends
 immediately. [Protect the Soul](#protect-the-soul) will block the effects of
 this spell as will [Resist Magic](#resist-magic).
 
-[__Precognition__ (3rd Circle)]{#precognition}
+### Precognition (3rd Circle) ### {#precognition}
 
 __Uses:__ 3 - __Material:__ Divining paraphernalia (such as a crystal ball or
 mirror)
@@ -3316,7 +3317,7 @@ of this spell will be presented to the spellcaster at check-in for the event. If
 a precognition is not given at the beginning of the event, the casting is not
 used.
 
-[__Prophecy__ (6th Circle)]{#prophecy}
+### Prophecy (6th Circle) ### {#prophecy}
 
 __Uses:__ 1 - __Active:__ Ritual (Optional)
 
@@ -3329,7 +3330,7 @@ spell, the EH or MM may choose to release additional information to the
 spellcaster at any time during the remainder of the event or until a spell
 reset.
 
-[__Protect Item__ (1st Circle)]{#protect-item}
+### Protect Item (1st Circle) ### {#protect-item}
 
 __Uses:__ 3 - __Verbal:__ 20 words - __Material:__ Ribbon tied onto the item
 protected. Remove the ribbon soon after the spell is expended/used to protect
@@ -3342,7 +3343,7 @@ boulder would not be destroyed, but the wielder would still suffer normal damage
 item may only have one casting of Protect Item on it at a time. This spell does
 not protect against [Disenchant](#disenchant).
 
-[__Protect the Soul__ ([2nd]{.new} Circle)]{#protect-the-soul}
+### Protect the Soul ([2nd]{.new} Circle) ### {#protect-the-soul}
 
 __Uses:__ 1 - __Verbal:__ 30 words and an explanation - __Material:__ Spell Sash
 - __Caveats:__ [Enchanted Items](#enchanted-items), [Spell Sash](#spell-sash)
@@ -3355,7 +3356,7 @@ until the sash is disenchanted or removed by the spellcaster. The spell will not
 function if the recipient is [soulless]{.new} or their soul is not within their 
 body for any other reason.
 
-[__Protection from Boulder__ (1st Circle)]{#protection-from-boulder}
+### Protection from Boulder (1st Circle) ### {#protection-from-boulder}
 
 __Uses:__ 2 - __Verbal:__ 20 words - __Material:__ Spell Sash - __Caveats:__
 [Enchanted Items](#enchanted-items), [Spell Sash](#spell-sash)
@@ -3363,7 +3364,7 @@ __Uses:__ 2 - __Verbal:__ 20 words - __Material:__ Spell Sash - __Caveats:__
 The spellcaster is protected from the next "boulder" call that strikes them.
 This protection extends to all equipment they are carrying.
 
-[__Protection from Missile__ (2nd Circle)]{#protection-from-missile}
+### Protection from Missile (2nd Circle) ### {#protection-from-missile}
 
 __Uses:__ Unlimited, one at a time - __Verbal:__ 10 words - __Material:__ Spell
 Sash - __Caveats:__ [Enchanted Items](#enchanted-items), [Spell
@@ -3382,7 +3383,7 @@ casting of this spell may be in effect on a single PC. If the spellcaster casts
 this spell on another PC, they may not re-cast the spell until the sash is
 returned to them.
 
-[__Purity to Disease__ (3rd Circle)]{#purity-to-disease}
+### Purity to Disease (3rd Circle) ### {#purity-to-disease}
 
 __Uses:__ 1, Self-only - __Verbal:__ 10 words - __Material:__ Spell Sash -
 __Active:__ Lie on back, no weapons in hand - __Caveats:__ [Combat
@@ -3392,7 +3393,7 @@ Sash](#spell-sash)
 Upon casting this spell, the spellcaster becomes completely immune to the
 effects of diseases.
 
-[__Purity to Poison__ (3rd Circle)]{#purity-to-poison}
+### Purity to Poison (3rd Circle) ### {#purity-to-poison}
 
 __Uses:__ 1, Self-only - __Verbal:__ 10 words - __Material:__ Spell Sash -
 __Active:__ Lie on back, no weapons in hand - __Caveats:__ [Combat
@@ -3402,7 +3403,7 @@ Sash](#spell-sash)
 Upon casting this spell, the spellcaster becomes completely immune to the
 effects of poisons.
 
-[__Raise Dead__ (3rd Circle)]{#raise-dead}
+### Raise Dead (3rd Circle) ### {#raise-dead}
 
 __Uses:__ 5 - __Verbal:__ 30 words - __Active:__ Spellcaster must be within 2
 feet of corpse and there can be no weapons within 10 feet of the spellcaster -
@@ -3415,7 +3416,7 @@ is considered to be anything with a legal striking surface - swords and arrows
 are weapons, although bows are not. The player of the character being raised
 must be present to represent the corpse. No proxy can be used for the corpse.
 
-[__Reforge__ (5th Circle)]{#reforge}
+### Reforge (5th Circle) ### {#reforge}
 
 __Uses:__ 2 - __Verbal:__ 30 words - __Material:__ Special - __Active:__ Special
 
@@ -3424,49 +3425,52 @@ it or repairing a magical item. The spellcaster may choose one of the following
 options when casting the spell. Each option has its own effects and requirements
 for casting the spell that must be met for the spell to be successfully cast.
 
-_Silver Weapon:_ this option will allow the spellcaster to create a permanent
-silver weapon. This option has an additional MC of the weapon's weight in silver
-coins (plain aluminum roofing tins, aluminum "Coin of the Realm," etc.). The
-spellcaster must write the words "Silver" and "Stealable" on the blade of the
-weapon. The spellcaster should also write "Silvered by" and the spellcaster's
-name on the blade. All of the silver that is collected for the casting of this
-spell must be handed over to the EH. All silver weapons are stealable, and the
-spellcaster must explain to anyone having a weapon made silver that it will be
-stealable, and will be considered property of the Realms, to be passed back and
-forth within the game as a searchable item, for as long as it is silver. A
-silver weapon will lose the quality of being silver if the writing on the blade
-fades to the point of no longer being readable or if the weapon is OOC or IC
-broken (such as by a boulder). Players may not protect the writing in any way
-and may not rewrite it. A silvered weapon broken IC (i.e., by any means other
-than the fading of the writing or the physical destruction of the prop) can be
-repaired by an expenditure of this spell, without having to provide the
-necessary silver. Repairing a weapon in this way does not allow you to remake
-the prop or rewrite the word "Silver" on the weapon. Silver Weapon will not
-allow you to silver an existing magic item.
+Silver Weapon
+: This option will allow the spellcaster to create a permanent silver weapon.
+  This option has an additional MC of the weapon's weight in silver coins (plain
+  aluminum roofing tins, aluminum "Coin of the Realm," etc.). The spellcaster
+  must write the words "Silver" and "Stealable" on the blade of the weapon. The
+  spellcaster should also write "Silvered by" and the spellcaster's name on the
+  blade. All of the silver that is collected for the casting of this spell must
+  be handed over to the EH. All silver weapons are stealable, and the
+  spellcaster must explain to anyone having a weapon made silver that it will be
+  stealable, and will be considered property of the Realms, to be passed back
+  and forth within the game as a searchable item, for as long as it is silver. A
+  silver weapon will lose the quality of being silver if the writing on the
+  blade fades to the point of no longer being readable or if the weapon is OOC
+  or IC broken (such as by a boulder). Players may not protect the writing in
+  any way and may not rewrite it. A silvered weapon broken IC (i.e., by any
+  means other than the fading of the writing or the physical destruction of the
+  prop) can be repaired by an expenditure of this spell, without having to
+  provide the necessary silver. Repairing a weapon in this way does not allow
+  you to remake the prop or rewrite the word "Silver" on the weapon. Silver
+  Weapon will not allow you to silver an existing magic item.
 
-_Reinforce Item:_ this option will allow the spellcaster to make a normal weapon
-or shield unbreakable for the duration of the event. This option has an
-additional MC of a ribbon with the words "Reinforce Item" attached to the target
-item. The reinforced item will not be broken by attacks that would normally
-damage them (e.g. a boulder hitting it) as long as the spell remains active. If
-disenchanted through the spell [Disenchant](#disenchant), the ribbon must be
-removed and the effect will end, but the weapon will otherwise remain intact.
-This option may not be used on a magic item, silver weapon, or bows.
+Reinforce Item
+: This option will allow the spellcaster to make a normal weapon or shield
+  unbreakable for the duration of the event. This option has an additional MC
+  of a ribbon with the words "Reinforce Item" attached to the target item. The
+  reinforced item will not be broken by attacks that would normally damage them
+  (e.g. a boulder hitting it) as long as the spell remains active. If
+  disenchanted through the spell [Disenchant](#disenchant), the ribbon must be
+  removed and the effect will end, but the weapon will otherwise remain intact.
+  This option may not be used on a magic item, silver weapon, or bows.
 
-_Restore Enchantment:_ this spell allows the spellcaster to restore a
-currently-backed [Realms Magic Item](#magic-item-rules) that has been broken or
-disenchanted to working order. This option may have an additional AC of a
-required quest. Potions and other spell components are not subject to repair. If
-an item has been physically broken or made unsafe, then the item must be
-physically repaired or replaced with a near duplicate of the item. Note that
-patching or minor repairs may be acceptable instead of a full prop replacement
-depending on the situation. Upon informing the MM or EH of their intention to
-cast this spell, the EH or MM may either present to the spellcaster a quest for
-the completion of this spell or simply declare the item "repaired" at their
-discretion. The spell is wasted if the quest fails or if permission for a repair
-is outright denied.
+Restore Enchantment
+: This spell allows the spellcaster to restore a currently-backed [Realms Magic
+  Item](#magic-item-rules) that has been broken or disenchanted to working
+  order. This option may have an additional AC of a required quest. Potions and
+  other spell components are not subject to repair. If an item has been
+  physically broken or made unsafe, then the item must be physically repaired or
+  replaced with a near duplicate of the item. Note that patching or minor
+  repairs may be acceptable instead of a full prop replacement depending on the
+  situation. Upon informing the MM or EH of their intention to cast this spell,
+  the EH or MM may either present to the spellcaster a quest for the completion
+  of this spell or simply declare the item "repaired" at their discretion. The
+  spell is wasted if the quest fails or if permission for a repair is outright
+  denied.
 
-[__Regenerate the [Soul]{.new}__ (5th Circle)]{#regenerate-the-soul}
+### Regenerate the [Soul]{.new} (5th Circle) ### {#regenerate-the-soul}
 
 __Uses:__ 1 - __Verbal:__ 30 words - __Material:__ An item similar to the
 spellcaster's [soul token]{.new}, with some sort of indication that it is
@@ -3479,7 +3483,7 @@ life from [soullessness only]{.new}. After regenerating in this fashion, the
 material component becomes the spellcaster's new [soul]{.new} token.
 
 
-[__Regeneration__ (5th Circle)]{#regeneration-spell}
+### Regeneration (5th Circle) ### {#regeneration-spell}
 
 __Uses:__ 2 - __Verbal:__ 30 words - __Active:__ Spellcaster must sit on the
 ground with weapons a minimum of 10 feet away while casting this spell -
@@ -3492,7 +3496,7 @@ may cast a [Raise Dead](#raise-dead) to "recharge" one usage. These recharges
 cannot come from [Circle of Healing](#circle-of-healing), or any other raising
 effects other than the [Raise Dead](#raise-dead) spell.
 
-[__Repair Armor__ (1st Circle)]{#repair-armor}
+### Repair Armor (1st Circle) ### {#repair-armor}
 
 __Uses:__ 5 - __Material:__ Disposable or focus - __Active:__ Hold armor and MC
 for 15 second count
@@ -3501,7 +3505,7 @@ This spell will repair one hit location of armor. The AC should simulate
 physically repairing the armor, such as tapping it with a focus, like a
 boff-hammer.
 
-[__Repair Item__ (2nd Circle)]{#repair-item}
+### Repair Item (2nd Circle) ### {#repair-item}
 
 __Uses:__ 5 - __Verbal:__ 20 words - __Active:__ Touch the target item with both
 hands
@@ -3512,7 +3516,7 @@ repair a weapon, shield, bow, or armor. It will repair all pieces of armor worn
 by someone that can be legally called in one casting. The spellcaster may have
 nothing else in their hands while casting this spell.
 
-[__Resist Death__ (6th Circle)]{#resist-death}
+### Resist Death (6th Circle) ### {#resist-death}
 
 __Uses:__ Unlimited, one at a time - __Verbal:__ 30 words - __Material:__ Spell
 Sash - __Active:__ Kneel or lie on back, no weapons in hand. - __Caveats:__
@@ -3521,7 +3525,7 @@ Sash - __Active:__ Kneel or lie on back, no weapons in hand. - __Caveats:__
 The spellcaster is protected from any damaging attack for 1 hit. The call for
 this is "Resist Death." The spellcaster can choose when to utilize this effect.
 
-[__Resist Magic__ (5th Circle)]{#resist-magic}
+### Resist Magic (5th Circle) ### {#resist-magic}
 
 __Uses:__ 3 - __Verbal:__ 20 words
 
@@ -3540,7 +3544,7 @@ spellcaster (although the spellcaster can use the Resist Magic to prevent the
 cannot be cast on anyone other than the spellcaster and will only protect the
 spellcaster, not anything they have or possess.
 
-[__Ritual of Banishment__ (6th Circle)]{#ritual-of-banishment}
+### Ritual of Banishment (6th Circle) ### {#ritual-of-banishment}
 
 __Uses:__ Special, see below - __Verbal:__ 40 words in "burst" form, otherwise
 special, see below
@@ -3578,7 +3582,7 @@ Upon completion of a more in-depth ritual, the spellcaster should ask the EH or
 MM how long this spell is exhausted for, which may be the rest of the day. If
 you know this spell, you must inform the EH or MM at check-in.
 
-[__Séance__ (4th Circle)]{#seance}
+### Séance (4th Circle) ### {#seance}
 
 __Uses:__ 1 - __Verbal:__ 20 words to start - __Material:__ 3-minute
 hourglass/timer.
@@ -3602,7 +3606,7 @@ PC can still refuse  to answer, is not compelled to speak, can lie or tell the
 truth freely, and  can end the séance at any time. A PC contacted with a
 séance must leave after three minutes.
 
-[__Second Chance__ (6th Circle)]{#second-chance}
+### Second Chance (6th Circle) ### {#second-chance}
 
 __Uses:__ 1 - __Verbal:__ 30 words - __Material:__ A token with the
 spellcaster's name
@@ -3620,7 +3624,7 @@ The MM will then place them somewhere on site (location determined by the MM)
 and return the token. Upon being placed, the spellcaster is alive and unwounded,
 and is given back their [soul token]{.new} if they were [soulless]{.new}.
 
-[__Seed of Life__ (6th Circle)]{#seed-of-life}
+### Seed of Life (6th Circle) ### {#seed-of-life}
 
 __Uses:__ Unlimited, while spellcaster has MC handy - __Verbal:__ 30 words and
 an explanation - __Material:__ [2 tokens]{.new} with the spellcaster's name and
@@ -3638,7 +3642,7 @@ diseased, this spell will also cure them of their disease upon completion of
 the spell (although the regeneration time will still be doubled from the
 effects of the disease). This spell has no effect on the undead.
 
-[__Shapeshifting__ (4th Circle)]{#shapeshifting}
+### Shapeshifting (4th Circle) ### {#shapeshifting}
 
 __Uses:__ 2 - __Material:__ Makeup and/or mask and any disguise garb -
 __Active:__ Change into disguise - __Caveats:__ [Enchanted
@@ -3665,7 +3669,8 @@ to borrow an appropriate mask for the event in order to complete the illusion.
 There is no guarantee that they will be able to provide the materials, so you
 should bring your own.
 
-[__Skew Divination__ (3rd Circle)]{#skew-divination}
+### Skew Divination (3rd Circle) ### {#skew-divination}
+
 __Uses:__ 2 - __Verbal:__ 30 words - __Material:__ Scroll with a name of an
 item, person, group, place, or situation - __Active:__ Give scroll to MM
 
@@ -3678,7 +3683,7 @@ MM. To cast this spell the spellcaster must write the name of the target (item,
 person, group, place, or situation) on a scroll, sign the scroll, and give the
 scroll to the MM.
 
-[__Soul Bane__ (3rd Circle)]{#soul-bane}
+### Soul Bane (3rd Circle) ### {#soul-bane}
 
 __Uses:__ 1 - __Active:__ [Destroy]{.new} a dead body. Following the final
 [body destroying]{.new} blow the spellcaster says "Soul Bane."
@@ -3690,7 +3695,7 @@ soon possible. The effect triggers the next time the target's soul is called.
 The spell ends after the first [Call the Soul](#call-the-soul), whether it was
 successful or not. Only one Soul Bane can be active on a person at a time.
 
-[__Speak__ (1st Circle)]{#speak}
+### Speak (1st Circle) ### {#speak}
 
 __Uses:__ 2 - __Verbal:__ "Speak, friend... " - __Material:__ An offering for
 the creature to be spoken with - __Active:__ The spellcaster approaches the
@@ -3704,7 +3709,7 @@ creature is no longer in possession of the offering. No creature approached has
 to take the offering, nor is there any guarantee that the creature will speak to
 you.
 
-[__Speak with Dead__ (1st Circle)]{#speak-with-dead}
+### Speak with Dead (1st Circle) ### {#speak-with-dead}
 
 __Uses:__ 10 - __Verbal:__ An explanation, followed by a question - __Caveats:__
 [Compulsion](#compulsion)
@@ -3715,7 +3720,7 @@ abstention means that the spirit cannot or does not want to answer the question.
 Before asking the questions, the spellcaster must explain to the corpse's player
 what the acceptable responses are and that the character may not lie.
 
-[__Strange Brew__ (1st Circle)]{#strange-brew}
+### Strange Brew (1st Circle) ### {#strange-brew}
 
 __Uses:__ Special, see [Alchemy](#alchemy) - __Caveats:__
 [Potions](#potions-caveat)
@@ -3749,7 +3754,7 @@ spellbook]{.new}:
 
 This does not grant any points to alchemy.
 
-[__Transformation__ (6th Circle)]{#transformation}
+### Transformation (6th Circle) ### {#transformation}
 
 __Uses:__ 2 - __Material:__ A pair of Transformation Claws - __Caveats:__
 [Regeneration](#regeneration-caveat), [Advanced
@@ -3839,7 +3844,7 @@ Miscellaneous Abilities:
 number of castings. Each time you transform, the uses reset. Spells gained this
 way may only be cast while transformed.]{.new}
 
-[__Transmute Self__ (4th Circle)]{#transmute-self}
+### Transmute Self (4th Circle) ### {#transmute-self}
 
 __Uses:__ 3 - __Verbal:__ 10 word chant, repeated. The verbal must be chanted
 loudly and clearly - __Caveats:__ [Chanting](#chanting),
@@ -3867,7 +3872,7 @@ regaining their proper form. The spellcaster should use their common sense when
 deciding where to transmute. Pick a safe location, not the middle of a trail or
 a high combat area.
 
-[__Vision__ (5th Circle)]{#vision}
+### Vision (5th Circle) ### {#vision}
 
 __Uses:__ 1
 
@@ -3875,7 +3880,7 @@ This spell allows the spellcaster to ask the EH or MM a question. The EH will
 then reveal to the spellcaster as complete a description as they are willing to
 give, giving them a vision relating to it.
 
-[__Ward: Enchanted Beings__ (5th Circle)]{#ward-enchanted-beings}
+### Ward: Enchanted Beings (5th Circle) ### {#ward-enchanted-beings}
 
 __Uses:__ Unlimited - __Verbal:__ 20 words, repeated continuously, stating
 purpose of spell - __Material:__ Focus - __Caveats:__ [Chanting](#chanting),
@@ -3884,7 +3889,7 @@ purpose of spell - __Material:__ Focus - __Caveats:__ [Chanting](#chanting),
 This spell prevents [Enchanted Beings](#enchanted-beings) from attacking the
 spellcaster while it is active.
 
-[__Ward: Undead__ (2nd Circle)]{#ward-undead}
+### Ward: Undead (2nd Circle) ### {#ward-undead}
 
 __Uses:__ Unlimited - __Verbal:__ 10 words, repeated continuously, stating
 purpose of spell - __Material:__ Focus - __Caveats:__ [Chanting](#chanting),
@@ -3893,7 +3898,7 @@ purpose of spell - __Material:__ Focus - __Caveats:__ [Chanting](#chanting),
 This spell prevents [Undead](#undead) from attacking the spellcaster while it is
 active.
 
-[__Zombie Walk__ (1st Circle)]{#zombie-walk}
+### Zombie Walk (1st Circle) ### {#zombie-walk}
 
 __Uses:__ Unlimited, 1 at a time - __Verbal:__ 10 words, plus an explanation -
 __Active:__ Touch the target - __Caveats:__ [Undead](#undead), [Walking
