@@ -606,18 +606,18 @@ the life essence of that player's character. Players must be carrying their PC's
 [soul token]{.new} at all times unless the PC is dead and
 [soulless]{.new} (see [[Destroying a Body](#destroying-a-body) below), or 
 unless they are under the influence of a spell which removes the PC's 
-[soul. A soul token]{.new} must have it's player's name and the PC's name 
+[soul. A soul token]{.new} must have [its]{.new} player's name and the PC's name 
 written legibly on it. A [soul token]{.new} does not exist physically in the 
-IC world; therefore it cannot be searched. A [soul token]{.new} is a 
+IC world[;]{.new} therefore it cannot be searched. A [soul token]{.new} is a 
 non-magical and non-stealable marshaling tool.
 
 ### [Destroying a Body]{.new} ### {#destroying-a-body}
 
 In order [for a player to separate a soul from a body, they must destroy
-it by striking]{.new} 200 blows with a weapon beside the body of the character 
-being [destroyed]{.new}. More than one person may [destroy]{.new} a body at 
-a time. More than one weapon may be used to [destroy]{.new} a body as well. This 
-effectively divides the number of blows to be struck between the number of
+the body. This is done by by striking]{.new} 200 blows with a weapon beside the 
+[body]{.new} being [destroyed]{.new}. More than one person may [destroy]{.new} a body 
+at  a time. More than one weapon may be used to [destroy]{.new} a body as well. 
+This effectively divides the number of blows to be struck between the number of
 participants and number of weapons used. Some monsters and characters under
 certain spells may require more blows to completely [destroy]{.new}. If you
 strike 200 blows and the victim says "The job is not yet done," then the [body
@@ -626,7 +626,7 @@ is not yet destroyed]{.new}. Some spells, such as
 [Assassin's Blade](#assassins-blade), may accelerate the act of [destroying a
 body]{.new}.
 
-After the [body is destroyed]{.new}, [the character whose body has been
+After the [body is destroyed the character whose body has been
 destroyed is rendered soulless. T]{.new}he player of the
 [soulless]{.new} character must present their character's [soul
 token]{.new} to the character that just [destroyed their body]{.new}. It is
@@ -1073,10 +1073,10 @@ the middle of a fight. This form of attack deals no damage to armor.
 ### Impale ### {#impale}
 
 Impaling is the act of holding a weapon in an opponent's kill location after
-death, and saying the word "Impale." It counts as continuous, [non-body
-destroying]{.new} blows to that location. The act of impaling will bypass any
-armor, damaged or not. While impaled, a character cannot be raised or animated
-and is unable to regenerate. The results can vary when impaling NPCs.
+death, and saying the word "Impale." It counts as continuous, 
+[non-body-destroying]{.new} blows to that location. The act of impaling will 
+bypass any armor, damaged or not. While impaled, a character cannot be raised 
+or animated and is unable to regenerate. The results can vary when impaling NPCs.
 
 ### Lightning Bolt ### {#lightning-bolt-call}
 
@@ -2093,7 +2093,7 @@ is complete.
 An advanced regeneration is a regeneration from death [(]{.new}or 
 [soul loss, if specified in the spell description)]{.new} which begins when 
 the character dies (or is [rendered soulless,]{.new} if it brings a character 
-back from [losing their soul)]{.new}. Each time they die, the spellcaster may 
+back from [losing their soul]{.new}). Each time they die, the spellcaster may 
 choose to double the length of their regeneration (to 240 seconds, or 480 if 
 diseased). The regeneration is not considered used if the target is raised 
 before their regeneration is complete.
@@ -3475,8 +3475,8 @@ Restore Enchantment
 
 __Uses:__ 1 - __Verbal:__ 30 words - __Material:__ An item similar to the
 spellcaster's [soul token]{.new}, with some sort of indication that it is
-their second [soul token]{.new} -
-__Caveats:__ [Regeneration](#regeneration-caveat),
+their second [soul token]{.new} -__Caveats:__ 
+[Regeneration](#regeneration-caveat), 
 [Advanced Regeneration](#advanced-regeneration)
 
 This spell grants an advanced regeneration which [returns]{.new} a character to
