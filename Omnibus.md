@@ -626,7 +626,7 @@ is not yet destroyed]{.new}. Some spells, such as
 [Assassin's Blade](#assassins-blade), may accelerate the act of [destroying a
 body]{.new}.
 
-After the [body is destroyed the character whose body has been
+After the [body is destroyed, the character whose body has been
 destroyed is rendered soulless. T]{.new}he player of the
 [soulless]{.new} character must present their character's [soul
 token]{.new} to the character that just [destroyed their body]{.new}. It is
