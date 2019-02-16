@@ -29,12 +29,12 @@ The document you are reading is the official rulebook to the Realms. Covered
 here you will find what you need to know about combat, magic, and other aspects
 of playing the game.
 
-Be sure to know the 2018 Omnibus rules, as well as any specific rules at each
-event you attend. At their events, an Event Holder (a player who volunteers to
-run an event, hereafter referred to as an EH) may choose to change some of the
-rules, including (among other things) announcing special weapon calls, defining
-special event-specific spells (Regional Magic), and allowing play-testing of new
-rules.
+Be sure to know the [2019]{.new} Omnibus rules, as well as any specific rules at
+each event you attend. At their events, an Event Holder (a player who volunteers
+to run an event, hereafter referred to as an EH) may choose to change some of
+the rules, including (among other things) announcing special weapon calls,
+defining special event-specific spells (Regional Magic), and allowing
+play-testing of new rules.
 
 The game rules and the rulebook are updated once a year by a council of EHs in
 order to make the game more fun, make the game safer, clarify existing rules,
@@ -2181,14 +2181,13 @@ prepared weapon, the preparation is lost, and must be reapplied.
 
 ## [6.6:]{.new} Grandfathering ## {#grandfathering}
 
-For the 201[9]{.new} year only, all characters who were in existence (first
-attended an event) before February [9]{.new}th, 201[9]{.new} are allowed to have
-up to 15 spells, making a legal build following the rules of the current
-Omnibus. At the first event that their PC attends in the 201[9]{.new} season
-where the Omnibus is available, they must get their spellbook checked in and
-signed by the Event Holder or their designated Magic Marshal(s). This signature
-counts for the signature requirements for all spells the PC grandfathers at this
-event.
+For the [2019]{.new} year only, all characters who were in existence (first
+attended an event) before [February 9th, 2019]{.new} are allowed to have up to
+15 spells, making a legal build following the rules of the current Omnibus. At
+the first event that their PC attends in the [2019]{.new} season where the
+Omnibus is available, they must get their spellbook checked in and signed by the
+Event Holder or their designated Magic Marshal(s). This signature counts for the
+signature requirements for all spells the PC grandfathers at this event.
 
 All spells known after grandfathering may be added to the spellcaster's "Spell
 Mastery" section, in addition to the list they had before grandfathering (if
@@ -4022,11 +4021,12 @@ details:]{.new}
 [The report should be made publicly available on
 [RealmsNet](https://www.realmsnet.net/arbitration).]{.new}
 
-The players elected to the 2018 Arbitration Committee are Angela Gray,
-Ben Greene, Hannah Blood, John Berrini, and Keith Cronyn.
+The players elected to the [2019]{.new} Arbitration Committee are [Matt
+Butler]{.new}, Keith Cronyn, [Dave Hayden]{.new}, [Lani Jones]{.new}, and [Aaron
+Metzger]{.new}.
 
-The two alternates elected to the 2018 Arbitration Committee are James Murphy
-and Matt Butler.
+The two alternates elected to the [2019]{.new} Arbitration Committee are [Hannah
+Blood]{.new} and James Murphy.
 
 ## 7.4: Magic Item Rules ## {#magic-item-rules}
 
@@ -4123,7 +4123,7 @@ duties:
   available to EHs online at <http://www.realmsnet.net>.
 
 [Players' Meeting and Event Holders' Council Organizers]{#meeting-organizers}:
-: John Berrini (<SgtBerrini@gmail.com>, 603-398-6352) and Neil Tozier.
+: [Aaron Metzger (<relzhirah@gmail.com>)]{.new} and [Ian Pushee]{.new}.
   Responsible for organizing, announcing, and running both the Players' Meeting
   and the Event Holders' Council for the following calendar year.
 
@@ -4202,5 +4202,5 @@ Omnibus and voted upon at the following year's Event Holders' Council. The
 Omnibus Editorial Committee must keep a log of all changes made, which must be
 made available to the Event Holders upon request.
 
-The Editorial Committee for the 2018 Omnibus is Becky Baron, John Berrini,
-Patrick Bobell, Nicholas Contrino, and Pi Fisher.
+The Editorial Committee for the [2019]{.new} Omnibus is John Berrini, Patrick
+Bobell, [Alex Cannamela]{.new}, Pi Fisher, and [Aaron Metzger]{.new}.
