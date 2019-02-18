@@ -365,8 +365,8 @@ appropriate leg(s).
 ### Killing Blows ### {#killing-blows}
 
 If you are struck in a kill location your PC is dead (see [Section 3.4:
-Character Death](#character-death) and [Section 3.5: Scalping](#scalping) for
-more details).
+Character Death](#character-death) and
+[Section 3.5: [Soul Loss]{.new}](#soul-loss) for more details).
 
 If you are hit on the top of the shoulder, your PC is dead. If you are wearing
 armor, a blow to the top of the shoulder is considered a blow to the front or
@@ -501,18 +501,18 @@ examples of 2-point armor. Any armor that is studded must have at least one
 metallic component every square inch to count as heavy armor.
 
 Armor must allow you to feel blows through it and it must look like it would fit
-in a medieval or fantasy setting. 
+in a medieval or fantasy setting.
 
 ### Calling Your Armor ### {#calling-your-armor}
 
 Armor protects by hit location, so if you have more than one piece of armor on a
 hit location, it is all considered damaged when you are struck there. On the
-other hand, if one piece of armor covers more 
+other hand, if one piece of armor covers more
 than one hit location, it is treated as separate hit locations. The armor hit
 locations are divided up by the hit locations for taking wounds and kills. Light
 armor allows you to call out "Armor 1" on that hit location and the next blow
 will do damage. If you are wearing heavy armor you should call out "Armor 1"
-then "Armor 2" before the hit location takes damage. 
+then "Armor 2" before the hit location takes damage.
 
 You can be wearing armor on a hit location yet still have some areas of that hit
 location that are not covered. These sections are also considered armored if at
@@ -558,12 +558,13 @@ Magic Effects Everyone Should Know](#basic-magic-effects-everyone-should-know)
 for more details on what causes and cures death.
 
 In the Realms there are two states of death. They are death (or dead), and
-scalped (see [Section 3.5](#scalping) for more information on Scalping).
+[soulless]{.new} (see [Section 3.5](#soul-loss) for more information on [soul
+ loss]{.new}).
 
-If your PC is dead or scalped, you should lie or sit still. Try not to look
-around or talk. Do your best to role-play a corpse. Don't get upset if someone
-hits you with a killing blow when you are already dead. If somebody does this
-just say, "Dead." They are making sure that you really are dead.
+If your PC is dead or [soulless]{.new}, you should lie or sit still. Try not
+to look around or talk. Do your best to role-play a corpse. Don't get upset if
+someone hits you with a killing blow when you are already dead. If somebody
+does this just say, "Dead." They are making sure that you really are dead.
 
 In tournaments, or other high combat situations, it is acceptable for a
 character to move out of the way to avoid being stepped on. They may resume
@@ -576,8 +577,8 @@ comply. If you were backstabbed and you're lying on your back, tell them they
 don't see any wounds. Then, if they roll you over to look at your back, tell
 them they see a deep wound in your back.
 
-When your PC is killed (dead, but not scalped) and then raised, they may
-remember everything up until the point of their death.
+When your PC is killed (dead, but not [soulless]{.new}) and then raised,
+they may remember everything up until the point of their death.
 
 ### Playing Dead ### {#playing-dead}
 
@@ -591,84 +592,98 @@ attack the unsuspecting looters. If you are unsure as to whether someone's
 character is dead and want the character to be, tap the player gently in a kill
 location.
 
-## 3.5: Scalping ## {#scalping}
+## 3.5: [Soul Loss]{.new} ## {#soul-loss}
 
-Scalping is the removal of a character's life essence through mutilation of the
-body. It is a more serious form of death that requires more than a simple spell
-to repair. Scalped characters cannot be raised or animated until their soul has
-been restored.
+[Soul loss]{.new} is the removal of a character's life essence. It is a
+more serious form of death that requires more than a simple spell to repair.
+[A character who has lost their soul]{.new} cannot be raised or animated
+until their soul has been restored.
 
-### Scalps ### {#scalps}
+### [Soul Tokens]{.new} ### {#soul-tokens}
 
-A scalp is a token carried by each player, which represents the life essence of
-that player's character. Players must be carrying their PC's scalp at all times;
-unless the PC is dead and scalped (see below), or unless they are under the
-influence of a spell which removes the PC's scalp. Scalps must have their
-player's name and the PC's name written legibly on it. A scalp does not exist
-physically in the IC world therefore it cannot be searched. A scalp is a
+A [soul token]{.new} is a token carried by each player which represents
+the life essence of that player's character. Players must be carrying their PC's
+[soul token]{.new} at all times unless the PC is dead and
+[soulless]{.new} (see [[Destroying a Body](#destroying-a-body) below), or 
+unless they are under the influence of a spell which removes the PC's 
+[soul. A soul token]{.new} must have [its]{.new} player's name and the PC's name 
+written legibly on it. A [soul token]{.new} does not exist physically in the 
+IC world[;]{.new} therefore it cannot be searched. A [soul token]{.new} is a 
 non-magical and non-stealable marshaling tool.
 
-### How Characters are Scalped ### {#how-characters-are-scalped}
+### [Destroying a Body]{.new} ### {#destroying-a-body}
 
-In order to scalp a body, you must strike 200 blows with a weapon beside the
-body of the character being scalped. More than one person may scalp a body at a
-time. More than one weapon may be used to scalp a body as well. This effectively
-divides the number of blows to be struck between the number of participants and
-number of weapons used. Some monsters and characters under certain spells may
-require more scalping blows to completely destroy. If you strike 200 blows and
-the victim says "The job is not yet done," then the scalping is not yet
-complete. Some spells, such as [Strange Brew: Potion of Acid](#potion-of-acid)
-and [Assassin's Blade](#assassins-blade), may accelerate the act of scalping.
+In order [for a player to separate a soul from a body, they must destroy
+the body. This is done by by striking]{.new} 200 blows with a weapon beside the 
+[body]{.new} being [destroyed]{.new}. More than one person may [destroy]{.new} a body 
+at  a time. More than one weapon may be used to [destroy]{.new} a body as well. 
+This effectively divides the number of blows to be struck between the number of
+participants and number of weapons used. Some monsters and characters under
+certain spells may require more blows to completely [destroy]{.new}. If you
+strike 200 blows and the victim says "The job is not yet done," then the [body
+is not yet destroyed]{.new}. Some spells, such as
+[Strange Brew: Potion of Acid](#potion-of-acid) and
+[Assassin's Blade](#assassins-blade), may accelerate the act of [destroying a
+body]{.new}.
 
-After the scalping is finished, the player of the scalped character must present
-their character's scalp to the character that just scalped them. It is then that
-player's responsibility to present the scalp to an EH or an appointed marshal.
-The EH must be informed immediately of the scalping, thus allowing the EH time
-to prepare for those who might wish to return the scalped character to life.
+After the [body is destroyed, the character whose body has been
+destroyed is rendered soulless. T]{.new}he player of the
+[soulless]{.new} character must present their character's [soul
+token]{.new} to the character that just [destroyed their body]{.new}. It is
+then that player's responsibility to present the [soul token]{.new} to an
+EH or an appointed marshal. The EH must be informed immediately of the
+[body's destruction]{.new}, thus allowing the EH time to prepare for those
+who might wish to return the [soulless]{.new} character to life.
 
-Characters that are pretending to be dead should interpret any scalping blows as
-blows to the closest kill location. So, if your PC is pretending to be dead and
-someone starts to scalp them, the first blows that are struck on the ground next
-to you should be played as if they were striking your PC on the nearest kill
-location, destroying any undamaged armor, and then killing them.
+Characters that are pretending to be dead should interpret any
+[body destroying]{.new} blows as blows to the closest kill location. So, if
+your PC is pretending to be dead and someone starts to [destroy their
+body]{.new}, the first blows that are struck on the ground next to you should be
+played as if they were striking your PC on the nearest kill location,
+destroying any undamaged armor, and then killing them.
 
-If your PC is killed and scalped, they will not remember anything about how they
-died should they manage to be raised.
+If your PC is killed and [their body is destroyed]{.new}, they will not
+remember anything about how they died should they manage to be raised.
 
-Should your PC be dead at the end of an event without being raised, even if the
-character was not actively scalped, the PC will be considered scalped.
+Should your PC be dead at the end of an event without being raised,
+even if the character['s body was not actively destroyed]{.new}, the PC will be
+considered [soulless]{.new}.
 
-### Fixing a Scalped Character ### {#fixing-a-scalped-character}
+### Fixing a [Soulless]{.new} Character ### {#fixing-a-soulless-character}
 
-To restore someone to life after scalping, characters must first have the body
-of the person needing to be raised. Then characters must either cast a [Call the
-Soul](#call-the-soul), an [Intervention](#intervention) spell, or administer a
-[Potion of Soul Snare](#potion-of-soul-snare) (see [Strange
-Brew](#strange-brew)) to summon and reattach the scalp. If characters lack the
-body, only an [Intervention](#intervention) spell will be able to return the
-scalped PC back to life. When the body and scalp are reunited, characters must
-cast one [Raise Dead](#raise-dead) spell for each event (including the first)
-since the scalped PC was scalped in order to raise them. A different spellcaster
-must provide each [Raise Dead](#raise-dead) spell used for this purpose.
+To restore someone to life after [they have lost their soul]{.new},
+characters must first have the body of the person needing to be raised. Then
+characters must either cast a [Call the Soul](#call-the-soul), an
+[Intervention](#intervention) spell, or administer a
+[Potion of Soul Snare](#potion-of-soul-snare)
+(see [Strange Brew](#strange-brew)) to summon and reattach the [soul]{.new}. If
+characters lack the body, only an [Intervention](#intervention) spell will
+be able to return the [soulless]{.new} PC back to life. When the body and
+[soul]{.new} are reunited, characters must cast one [Raise Dead](#raise-dead)
+spell for each event (including the first) since the [soulless]{.new} PC was
+[rendered soulless]{.new} in order to raise them. A different spellcaster must
+provide each [Raise Dead](#raise-dead) spell used for this purpose.
 
 ## 3.6: Permanent Death ## {#permanent-death}
 
-When a PC is dead and scalped at the end of an event at which they were at some
-point alive, they get a "tick." PCs may also receive ticks due to use of certain
-magic items or plot interactions. A PC is only obligated to accept one
-involuntary tick per event. A PC that accumulates three or more ticks is
-permanently dead, as their soul can no longer be restored by any means. On
-January 1st of each new year, one tick is removed from each PC that has any,
-unless they are already permanently dead. If a PC is killed and scalped during
-an event, but returned to life before the end of the event, they do not get a
-tick.
+When a PC is dead and [soulless]{.new} at the end of an event at which they
+were at some point alive, they get a "tick." PCs may also receive ticks due to
+use of certain magic items or plot interactions. A PC is only obligated to
+accept one involuntary tick per event. A PC that accumulates three or more
+ticks is permanently dead, as their soul can no longer be restored by any means.
+On January 1st of each new year, one tick is removed from each PC that has any,
+unless they are already permanently dead.
 
-For a scalping to be official, it must be brought to the EH's attention. The EH
-must provide the Death Marshal with this scalping information from their events.
-A tick may only be issued or reported by a legal EH of the event where the tick
-was incurred or by the player whose PC received the tick. The Death Marshal will
-keep track of this information. The current Death Marshal is Keith Cronyn who
-can be reached at <Keith.Cronyn@gmail.com> or at 603-819-8689.
+If a PC is killed and [rendered soulless]{.new} during an event, but
+returned to life before the end of the event, they do not get a tick.
+
+For a [body's complete destruction]{.new} to be official, it must be
+brought to the EH's attention. The EH must provide the Death Marshal with this
+information from their events. A tick may only be issued or reported by a
+legal EH of the event where the tick was incurred or by the player whose PC
+received the tick. The Death Marshal will keep track of this information. The
+current Death Marshal is Keith Cronyn who can be reached at
+<Keith.Cronyn@gmail.com> or at 603-819-8689.
 
 ## 3.7: Weapon Rules ## {#weapon-rules}
 
@@ -917,7 +932,7 @@ __LARP Arrows__
 A Lightning Bolt prop is a [T8, golf tube, or aqua tube]{.new} arrow[,]{.new} or
 [a]{.new} javelin[,]{.new} made with the following additional details:
 
-* It must be primarily white. 
+* It must be primarily white.
 * It must be between 2'6" and 3'6" in length. The prop is not subject to the
   spellcaster's weapon length restriction.
 * It must have the words "Lightning Bolt" and the spellcaster's name written
@@ -1040,7 +1055,7 @@ affect both living and dead characters.
 
 If you or any of your equipment are hit by the call of fireball, your character
 is dead. Armor and weapons hit by the fireball are not broken, but also do not
-protect against its damage. 
+protect against its damage.
 
 The fireball call may come in the form of a thrown prop (as with a magic
 missile) or as a weapon blow. Fireball is magical in nature.
@@ -1058,10 +1073,10 @@ the middle of a fight. This form of attack deals no damage to armor.
 ### Impale ### {#impale}
 
 Impaling is the act of holding a weapon in an opponent's kill location after
-death, and saying the word "Impale." It counts as continuous, non-scalping blows
-to that location. The act of impaling will bypass any armor, damaged or not.
-While impaled, a character cannot be raised or animated and is unable to
-regenerate. The results can vary when impaling NPCs.
+death, and saying the word "Impale." It counts as continuous, 
+[non-body-destroying]{.new} blows to that location. The act of impaling will 
+bypass any armor, damaged or not. While impaled, a character cannot be raised 
+or animated and is unable to regenerate. The results can vary when impaling NPCs.
 
 ### Lightning Bolt ### {#lightning-bolt-call}
 
@@ -1701,8 +1716,8 @@ administered by a living or animated character, and after it is used, cannot be
 used again.
 
 * [Potion of Acid](#potion-of-acid): if your PC is dead, and someone indicates
-  they are using an acid potion on you, your PC takes 200 scalping blows. See
-  [Strange Brew](#strange-brew) for details.
+  they are using an acid potion on you, your PC takes 200 [body
+  destroying blows]{.new}. See [Strange Brew](#strange-brew) for details.
 * [Potion of Repair Armor](#potion-of-repair-armor): it repairs a hit location
   of damaged armor in 15 seconds when applied to it.
 * [Potion of Combat Raise Dead](#potion-of-combat-raise-dead): it raises a dead
@@ -1717,7 +1732,7 @@ Certain spells repair damaged armor and broken items.
 * [Repair Armor](#repair-armor): this will restore one hit location of
   non-magical armor that has been damaged. For example, the armor on one arm,
   the chest of a shirt of chainmail, head armor, etc.
-* [Repair Item](#repair-item): this will restore non-magical armor, weapons, and 
+* [Repair Item](#repair-item): this will restore non-magical armor, weapons, and
   other items that have become damaged or destroyed. This spell has a VC, and it
   fixes the entire item. For example, all hit locations of someone's armor, a
   bow, a boulder-crushed weapon, a shield, etc.
@@ -1757,7 +1772,7 @@ Certain spells repair damaged armor and broken items.
 ### Choosing Spells ### {#choosing-spells}
 
 The first step in choosing spells is to decide which 1st circle spell you want
-to learn. Each path of magic is a list of spells of 5 increasing circles. 
+to learn. Each path of magic is a list of spells of 5 increasing circles.
 
 A spellcaster may choose one of four options for each circle of a path:
 
@@ -1867,7 +1882,7 @@ Here are the definitions of the different types of components:
   * Disposable components are up to the player, but they must be something that
     is consumed or thrown away with every casting of the spell. A disposable
     component is something that the spellcaster could easily hand to the MM for
-    inspection. 
+    inspection.
   * A focus is a component that is not consumed or thrown away. Often, it is
     necessary for the spellcaster to brandish a focus while casting certain
     spells. The spellcaster may have a single focus for all of their focus-based
@@ -2058,13 +2073,13 @@ location on a dead body will cause a regeneration count to reset no matter where
 the killing blow was inflicted. Impaling stops regeneration; the count resets
 when the weapon is removed. Regenerating from death heals all healable wounds on
 the body. If examined by another person, wounds can be seen to be regenerating.
-Regeneration that brings a character back from death or scalping takes 120
-seconds. If you are [diseased](#disease), it takes twice as long to regenerate.
-You may only be under the effects of one basic regeneration and one advanced
-regeneration at a time. If more than one source is causing you to regenerate,
-you may choose which of those spells is causing you to regenerate. A
-regeneration will only work on someone who is scalped if the spell directly
-states that it can.
+Regeneration that brings a character back from death or [soul loss]{.new}
+takes 120 seconds. If you are [diseased](#disease), it takes twice as long to
+regenerate. You may only be under the effects of one basic regeneration and
+one advanced regeneration at a time. If more than one source is causing you to
+regenerate, you may choose which of those spells is causing you to regenerate.
+A regeneration will only work on someone who is [soulless]{.new} if the spell
+directly states that it can.
 
 ### Basic Regeneration ### {#basic-regeneration}
 
@@ -2075,12 +2090,13 @@ is complete.
 
 ### Advanced Regeneration ### {#advanced-regeneration}
 
-An advanced regeneration is a regeneration from death [(]{.new}or scalping[, if
-specified in the spell description)]{.new} which begins when the character dies
-(or is scalped[,]{.new} if it brings a character back from scalping). Each time
-they die, the spellcaster may choose to double the length of their regeneration
-(to 240 seconds, or 480 if diseased). The regeneration is not considered used if
-the target is raised before their regeneration is complete.
+An advanced regeneration is a regeneration from death [(]{.new}or 
+[soul loss, if specified in the spell description)]{.new} which begins when 
+the character dies (or is [rendered soulless,]{.new} if it brings a character 
+back from [losing their soul]{.new}). Each time they die, the spellcaster may 
+choose to double the length of their regeneration (to 240 seconds, or 480 if 
+diseased). The regeneration is not considered used if the target is raised 
+before their regeneration is complete.
 
 ### Spell Sash ### {#spell-sash}
 
@@ -2233,7 +2249,7 @@ any).
 +------------------------------------------------------+------------------------------------------------------+------------------------------------------------------+
 | [Animate Undead General](#animate-undead-general)\   | [Familiar](#familiar)\                               | [Resist Magic](#resist-magic)\                       |
 | [Armor-Piercing Weapon](#armor-piercing-weapon)\     | [Reforge](#reforge)\                                 | [Vision](#vision)\                                   |
-| [Circle of Healing](#circle-of-healing)\             | [Regenerate the Scalp](#regenerate-the-scalp)\       | [Ward: Enchanted Beings](#ward-enchanted-beings)\    |
+| [Circle of Healing](#circle-of-healing)\             | [Regenerate the [Soul]{.new}](#regenerate-the-soul)\ | [Ward: Enchanted Beings](#ward-enchanted-beings)\    |
 |                                                      | [Regeneration](#regeneration-spell)                  |                                                      |
 +------------------------------------------------------+------------------------------------------------------+------------------------------------------------------+
 |                                                      | 6th Circle Spells                                    |                                                      |
@@ -2310,8 +2326,9 @@ fashion. It cannot use any armor or spells regardless of what the PC normally
 has. It will obey simple commands exactly, but will rebel if given any commands
 that violate the compulsion caveat. If left unattended, it will try to find the
 spellcaster that created it. If the target is not raised by the end of the
-event, they are considered dead and scalped. A character that is created as
-undead can be slain and raised or simply raised while undead to return to life.
+event, they are considered dead and [soulless]{.new}. A character that is
+created as undead can be slain and raised or simply raised while undead to
+return to life.
 
 ### Animate Undead (4th Circle) ### {#animate-undead}
 
@@ -2341,9 +2358,9 @@ still undead, it will raise the target as if another Animate Undead spell were
 cast upon it, but the target's loyalties transfer to the person who cast
 [Animate Lesser Undead](#animate-lesser-undead) (no additional MC is needed). If
 a PC is still undead at the end of the event, that PC is considered dead and
-scalped. This spell will not work on a body without its scalp. A character that
-is created as undead can be slain and raised or simply raised while undead to
-return to life.
+[soulless]{.new}. This spell will not work on a body without its
+[soul]{.new}. A character that is created as undead can be slain and
+raised or simply raised while undead to return to life.
 
 ### Animate Undead General (5th Circle) ### {#animate-undead-general}
 
@@ -2377,13 +2394,13 @@ General](#animate-undead-general) spell were cast upon it, but the target's
 loyalties transfer to the person who cast [Animate Lesser
 Undead](#animate-lesser-undead) (an MC is needed). The Undead General will die
 to any magical attacks that damage it, regardless of location. If a PC is still
-undead at the end of the event, that PC is considered dead and scalped. This
-spell will not work on a body without its scalp. A character that is created as
-undead can be slain and raised or simply raised while undead to return to life.
-If a character under the effects of [Embrace Death](#embrace-death) has this
-cast on them, it acts as the spell [Animate Lesser
-Undead](#animate-lesser-undead) instead. You may have at most one undead general
-at a time.
+undead at the end of the event, that PC is considered dead and
+[soulless]{.new}. This spell will not work on a body without its
+[soul]{.new}. A character that is created as undead can be slain and raised
+or simply raised while undead to return to life. If a character under the
+effects of [Embrace Death](#embrace-death) has this cast on them, it acts as
+the spell [Animate Lesser Undead](#animate-lesser-undead) instead. You may
+have at most one undead general at a time.
 
 In addition, the Undead General gains the ability to cast the spell [Animate
 Lesser Undead](#animate-lesser-undead) with unlimited uses. An Undead General
@@ -2448,8 +2465,8 @@ utilize the special call with it. The weapon is one-handed, but may not be used
 in conjunction with another weapon or shield by the spellcaster. If the MC is IC
 broken, it will retain its magical properties if repaired.
 
-In addition, any scalping blow dealt by an Assassin's Blade counts as two blows
-dealt.
+In addition, any [body destroying]{.new} blow dealt by an Assassin's Blade
+counts as two blows dealt.
 
 ### Aura of Protection (2nd Circle) ### {#aura-of-protection}
 
@@ -2497,12 +2514,13 @@ and shape, four of one color or design and one of a second color or design, and
 an opaque pouch or other way to keep them hidden - __Active:__ A quest may be
 required
 
-Allows the spellcaster to possibly find and reattach the soul of a scalped	
-character. When cast, the spellcaster presents the pouch of objects to the
-scalped character, who must then reach in and take one without looking. If the
-object is one of the four, the soul is reattached. If the object is the second
-color or design, nothing happens.This spell must be cast in the presence of the
-MM, who may require an additional quest be completed.
+Allows the spellcaster to possibly find and reattach the soul of a
+[soulless]{.new} character. When cast, the spellcaster presents the pouch
+of objects to the [soulless]{.new} character, who must then reach in and
+take one without looking. If the object is one of the four, the soul is
+reattached. If the object is the second color or design, nothing happens. This
+spell must be cast in the presence of the MM, who may require an additional
+quest be completed.
 
 ### Cantrip (3rd Circle) ### {#cantrip}
 
@@ -2636,9 +2654,10 @@ weapons in-hand for 60 seconds before they are killed.
 
 Enables the spellcaster to see and hear while they are dead. You may not speak
 or move while dead, except for addressing marshaling calls or OOC
-unsafe/uncomfortable situations. If the spellcaster is scalped, all memories
-acquired through the current casting of Death Watch are erased (i.e., all
-memories acquired from the time of your PC's last death). [The spell ends when
+unsafe/uncomfortable situations. If the spellcaster is
+[rendered soulless]{.new}. all memories acquired through the current
+casting of Death Watch are erased (i.e., all memories acquired from the time
+of your PC's last death). [The spell ends when
 the spellcaster is raised (either as alive or as undead).]{.new}
 
 ### Death Wish (4th Circle) ### {#death-wish}
@@ -2655,8 +2674,8 @@ phrase, they must perform the command to the best of their ability. The spell
 ends when the target successfully completes the command, or is slain trying. The
 target may ignore any commands that violate the compulsions caveat.
 
-This spell will not work on a body without its scalp. The spell [Protect the
-Soul](#protect-the-soul) negates all effects of this spell.
+This spell will not work on a body without its [soul]{.new}. The spell
+[Protect the Soul](#protect-the-soul) negates all effects of this spell.
 
 ### Deep Pockets (2nd Circle) ### {#deep-pockets}
 
@@ -2758,34 +2777,35 @@ uses drama and theatrics has a better chance of success.
 ### Embrace Death (6th Circle) ### {#embrace-death}
 
 __Uses:__ 1 - __Verbal:__ 40 words - __Material:__ A container at least 4 inches
-in diameter able to hold the spellcaster's scalp token[, labeled with
+in diameter able to hold the spellcaster's [soul]{.new} token[, labeled with
+
 "Event-Stealable"]{.new}. The container cannot be placed into [Deep
 Pockets](#deep-pockets). - __Caveats:__ [Enchanted Items](#enchanted-items),
 [Regeneration](#regeneration-caveat), [Basic Regeneration](#basic-regeneration),
 [Undead](#undead)
 
 This spell allows the spellcaster to remove their soul from their body, giving
-them the ability to defy death. The spellcaster's scalp token is the only thing
-which may be stored in the MC (hereafter referred to as the phylactery). When
-the spell is learned, the spellcaster must scribe in their spellbook a
+them the ability to defy death. The spellcaster's [soul]{.new} token is the only 
+thing which may be stored in the MC (hereafter referred to as the phylactery). 
+When the spell is learned, the spellcaster must scribe in their spellbook a
 description of exactly what the phylactery looks like. Upon casting this spell,
-the spellcaster places their scalp token within the phylactery, which becomes an
-[event-stealable](#event-stealable) item for the duration of the spell. The
-spellcaster may do whatever they want with the phylactery: place it in a mundane
-pocket, hide it, give it to someone, etc. However, the phylactery may not be put
-into [Deep Pockets](#deep-pockets).
+the spellcaster places their [soul]{.new} token within the phylactery, which 
+becomes an [event-stealable](#event-stealable) item for the duration of the 
+spell. The spellcaster may do whatever they want with the phylactery: place it 
+in a mundane pocket, hide it, give it to someone, etc. However, the phylactery 
+may not be put into [Deep Pockets](#deep-pockets).
 
 While under the effects of this spell, the spellcaster is undead (see the
 [Undead Caveat](#undead)) and is not affected by poisons, diseases, or the
 spells [Call the Soul](#call-the-soul), [Cry of Life](#cry-of-life), [Heal
 Limb](#heal-limb), [Potion of Combat Raise Dead](#potion-of-combat-raise-dead),
 [Potion of Heal Limb](#potion-of-heal-limb), [Regenerate the
-Scalp](#regenerate-the-scalp), [Regeneration](#regeneration-spell), and [Seed of
-Life](#seed-of-life). Additionally, the spells [Raise Dead](#raise-dead) and
-[Combat Raise Dead](#combat-raise-dead) will only affect the spellcaster if the
-character casting these spells is touching the phylactery. Being raised in this
-manner returns the spellcaster to undeath and repairs all of their damaged
-limbs.
+[Soul]{.new}](#regenerate-the-soul), [Regeneration](#regeneration-spell),
+and [Seed of Life](#seed-of-life). Additionally, the spells
+[Raise Dead](#raise-dead) and [Combat Raise Dead](#combat-raise-dead) will only
+affect the spellcaster if the character casting these spells is touching the
+phylactery. Being raised in this manner returns the spellcaster to undeath and
+repairs all of their damaged limbs.
 
 While this spell is active, the spellcaster's limbs may be regenerated by
 remaining stationary for 30 seconds. The spells [Animate
@@ -2803,17 +2823,19 @@ regeneration time will double to 240 seconds. Once returned to undeath the
 spellcaster must re-enchant themselves as described above, before they will
 regenerate again in this manner.
 
-Scalping will prevent the spellcaster from regenerating, but they may still be
-returned to undeath by any other means described previously. The spellcaster
-does not hand over their scalp token when scalped while under the effects of
-this spell.
+[Destruction of their body]{.new} will prevent the spellcaster from
+regenerating, but they may still be returned to undeath by any other means
+described previously. The spellcaster does not hand over their [soul]{.new}
+token when [their body is destroyed]{.new} while under the effects of this
+spell.
 
 The spellcaster may end this spell at any time by opening the phylactery,
 returning the soul to their body. If the phylactery is disenchanted (by use of
 the [Disenchant](#disenchant) spell or a [Potion of
 Disenchant](#potion-of-disenchant)), the spell is forcibly ended, and the
-spellcaster is slain and considered scalped. If the spell is not ended before
-the end of the event, the spellcaster is considered dead and scalped.
+spellcaster is slain and considered [soulless]{.new}. If the spell is not
+ended before the end of the event, the spellcaster is considered dead and
+[soulless]{.new}.
 
 ### Enchant Armor (4th Circle) ### {#enchant-armor}
 
@@ -2932,11 +2954,12 @@ This spell allows the spellcaster to disguise themselves so as to appear dead.
 If someone asks them if they are dead they can legally answer "Yes," and may lie
 down or sit with their sword or arm above their head as to appear dead (see
 [Section 3.4: Character Death](#character-death) and [Section 3.5:
-Scalping](#scalping)). Feign Death ends once the spellcaster moves or speaks
-(except for addressing marshaling calls or OOC uncomfortable/unsafe situations).
-If a person moves them, thinking they are dead, the Feign Death does not end;
-only when they move themselves. If struck while using Feign Death, the
-spellcaster is still affected by the blow as normal.
+[Soul Loss]{.new}](#soul-loss)). Feign Death ends once the spellcaster
+moves or speaks (except for addressing marshaling calls or OOC
+uncomfortable/unsafe situations). If a person moves them, thinking they are
+dead, the Feign Death does not end; only when they move themselves. If struck
+while using Feign Death, the spellcaster is still affected by the blow as
+normal.
 
 ### Fighter's Intuition (1st Circle) ### {#fighters-intuition}
 
@@ -3051,13 +3074,15 @@ be moving their arms (e.g., parrying, so long as they don't step backwards).
 
 __Uses:__ Unlimited, one at a time
 
-Having this spell makes the spellcaster harder to scalp. The next time the
-spellcaster is scalped it will take 200 extra blows to successfully scalp them.
-If scalped for only 200 blows, instead of the full 400 blows, the spellcaster
-must inform the scalper that "The job is not yet done." A spellcaster can only
-be under the effect of one Heartiness spell at a time. A use is considered to be
-over whenever the spellcaster receives at least 200 scalping blows, but is in
-effect until they are either fully scalped or raised.
+Having this spell makes [it harder to destroy the spellcaster's body]{.new}. 
+The next time the spellcaster['s body is destroyed]{.new} it will take 200 
+extra blows to successfully [destroy their body]{.new}. If struck for only 
+200 blows, instead of the full 400 blows, the spellcaster must inform the 
+[individual(s) destroying their body]{.new} that "The job is not yet done." 
+A spellcaster can only be under the effect of one Heartiness spell at a time. 
+A use is considered to be over whenever the spellcaster receives at least 
+200 [body destroying]{.new} blows, but is in effect until either [their body 
+is destroyed]{.new} or they are raised.
 
 ### Identify (1st Circle) ### {#identify}
 
@@ -3172,14 +3197,14 @@ required - __Active:__ A quest may be required
 This spell allows the spellcaster to go to the EH and ask a boon from whatever
 powers their magic. It should be cast in the presence of the EH or MM. It is to
 be used to request favors such as: "Oh, please, great majestic god/Fire
-Spirit/Navel Lint, grant me a quest to search for the lost scalp of my overlord,
-Sir Biff of Bonehead Ridge." This spell comes with no guarantee that the EH
-won't simply listen to the request and say "No." This spell cannot create an
-effect that will last beyond the end of the event, other than for healing
-purposes. A spellcaster who uses drama and theatrics has a better chance of
-success, and simple, small requests are also more likely to be granted. Any
-requests that will unbalance the game will likely be either denied straight out,
-or assigned an unsolvable quest.
+Spirit/Navel Lint, grant me a quest to search for the lost [soul]{.new} of
+my overlord, Sir Biff of Bonehead Ridge." This spell comes with no guarantee
+that the EH won't simply listen to the request and say "No." This spell cannot
+create an effect that will last beyond the end of the event, other than for
+healing purposes. A spellcaster who uses drama and theatrics has a better
+chance of success, and simple, small requests are also more likely to be
+granted. Any requests that will unbalance the game will likely be either
+denied straight out, or assigned an unsolvable quest.
 
 ### Light (1st Circle) ### {#light}
 
@@ -3328,8 +3353,8 @@ This spell will protect the recipient from possession, [spells under the
 the MM/EH]{.new}. When targeted by any spell or effect against which Protect the
 Soul immunizes your PC, you must call "Protect the Soul!" The spell will last
 until the sash is disenchanted or removed by the spellcaster. The spell will not
-function if the recipient is scalped or their soul is not within their body for
-any other reason.
+function if the recipient is [soulless]{.new} or their soul is not within their 
+body for any other reason.
 
 ### Protection from Boulder (1st Circle) ### {#protection-from-boulder}
 
@@ -3445,16 +3470,18 @@ Restore Enchantment
   spell is wasted if the quest fails or if permission for a repair is outright
   denied.
 
-### Regenerate the Scalp (5th Circle) ### {#regenerate-the-scalp}
+### Regenerate the [Soul]{.new} (5th Circle) ### {#regenerate-the-soul}
 
 __Uses:__ 1 - __Verbal:__ 30 words - __Material:__ An item similar to the
-spellcaster's scalp, with some sort of indication that it is their second scalp
-- __Caveats:__ [Regeneration](#regeneration-caveat), [Advanced
-Regeneration](#advanced-regeneration)
+spellcaster's [soul token]{.new}, with some sort of indication that it is
+their second [soul token]{.new} -__Caveats:__ 
+[Regeneration](#regeneration-caveat), 
+[Advanced Regeneration](#advanced-regeneration)
 
 This spell grants an advanced regeneration which [returns]{.new} a character to
-life from scalping [only]{.new}. After regenerating in this fashion, the
-material component becomes the spellcaster's new scalp token.
+life from [soullessness only]{.new}. After regenerating in this fashion, the
+material component becomes the spellcaster's new [soul]{.new} token.
+
 
 ### Regeneration (5th Circle) ### {#regeneration-spell}
 
@@ -3561,22 +3588,23 @@ __Uses:__ 1 - __Verbal:__ 20 words to start - __Material:__ 3-minute
 hourglass/timer.
 
 This spell allows the spellcaster to have an extended discussion with a spirit,
-either one of another world or of a scalped character. Upon informing the EH or
-MM of their intent to cast this spell, the spellcaster must start the ritual by
-flipping the hourglass. If the spirit does not arrive within the first three
-minutes, then the casting is not used. If the spirit arrives, let the glass run
-out and flip it again. The spellcaster and spirit may then speak freely until
-all the sands have fallen. If the spirit stays longer than three minutes, the
-spellcaster may continue to converse with it. Please note that this spell does
-not change any behavior on the part of the spirit, and it may choose not to
-talk.
+either one of another world or of a [soulless]{.new} character. Upon informing
+the EH or MM of their intent to cast this spell, the spellcaster must start the
+ritual by flipping the hourglass. If the spirit does not arrive within the
+first three minutes, then the casting is not used. If the spirit arrives, let
+the glass run out and flip it again. The spellcaster and spirit may then speak
+freely until all the sands have fallen. If the spirit stays longer than three
+minutes, the spellcaster may continue to converse with it. Please note that
+this spell does not change any behavior on the part of the spirit, and it may
+choose not to talk.
 
-Whether a scalped character can answer is entirely up to the discretion of the
-EH or MM, who must be present for the ritual. This spell in no way grants the
-knowledge of the circumstances of a scalped character's death. If they are
-allowed to be contacted, the scalped PC can still refuse to answer, is not
-compelled to speak, can lie or tell the truth freely, and can end the séance at
-any time. A PC contacted with a séance must leave after three minutes.
+Whether a [soulless]{.new} character can answer is entirely up to the
+discretion of the EH or MM, who must be present for the ritual. This spell in
+no way grants the knowledge of the circumstances of a [soulless]{.new}
+character's death. If they are allowed to be contacted, the [soulless]{.new}
+PC can still refuse  to answer, is not compelled to speak, can lie or tell the
+truth freely, and  can end the séance at any time. A PC contacted with a
+séance must leave after three minutes.
 
 ### Second Chance (6th Circle) ### {#second-chance}
 
@@ -3590,11 +3618,11 @@ Upon casting this spell, the spellcaster must give their token to the MM. At any
 time afterwards, the spellcaster may activate the spell, which removes them from
 play. They must then go find the MM. All stealable items in possession of the
 spellcaster must be left behind. This spell may be activated even if the
-spellcaster is dead or scalped.
+spellcaster is dead or [soulless]{.new}.
 
 The MM will then place them somewhere on site (location determined by the MM)
 and return the token. Upon being placed, the spellcaster is alive and unwounded,
-and is given back their soul if they were scalped.
+and is given back their [soul token]{.new} if they were [soulless]{.new}.
 
 ### Seed of Life (6th Circle) ### {#seed-of-life}
 
@@ -3608,11 +3636,11 @@ The spellcaster must hand the MC to the recipient when the spell is cast.
 
 Once the spell ends, the recipient should return the MC to the spellcaster as
 soon as reasonably possible. Other than this, the MC is neither stealable nor
-transferable in any way. If the recipient is scalped, returned to life, or
-raised as undead, the spell ends. If the recipient is diseased, this spell will
-also cure them of their disease upon completion of the spell (although the
-regeneration time will still be doubled from the effects of the disease). This
-spell has no effect on the undead.
+transferable in any way. If the recipient is [rendered soulless]{.new},
+returned to life, or raised as undead, the spell ends. If the recipient is
+diseased, this spell will also cure them of their disease upon completion of
+the spell (although the regeneration time will still be doubled from the
+effects of the disease). This spell has no effect on the undead.
 
 ### Shapeshifting (4th Circle) ### {#shapeshifting}
 
@@ -3657,15 +3685,15 @@ scroll to the MM.
 
 ### Soul Bane (3rd Circle) ### {#soul-bane}
 
-__Uses:__ 1 - __Active:__ Scalp a dead body. Following the final scalping blow
-the spellcaster says "Soul Bane."
+__Uses:__ 1 - __Active:__ [Destroy]{.new} a dead body. Following the final
+[body destroying]{.new} blow the spellcaster says "Soul Bane."
 
 This spell alters the next [Call the Soul](#call-the-soul) cast on the target by
 reversing which object is successful and unsuccessful. The spellcaster must
-inform the MM who they scalped and cast Soul Bane on as soon possible. The
-effect triggers the next time the target's soul is called. The spell ends after
-the first [Call the Soul](#call-the-soul), whether it was successful or not.
-Only one Soul Bane can be active on a person at a time.
+inform the MM [whose body they destroyed]{.new} and cast Soul Bane on as
+soon possible. The effect triggers the next time the target's soul is called.
+The spell ends after the first [Call the Soul](#call-the-soul), whether it was
+successful or not. Only one Soul Bane can be active on a person at a time.
 
 ### Speak (1st Circle) ### {#speak}
 
