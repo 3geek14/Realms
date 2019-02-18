@@ -2725,7 +2725,7 @@ This spell will remove enchantments from the target item. If the target item is
 a potion, panacea, or scroll, it will be rendered inert. If the target is a
 magic weapon it will no longer function as such until repaired by a
 [Reforge](#reforge) spell. If the target is a [Spell Sash](#spell-sash), then
-the spell represented by the Sash is ended. [Circle of
+the spell represented by the [s]{.new}ash is ended. [Circle of
 Protection](#circle-of-protection), [Light](#light), and other pure spells are
 not affected unless otherwise stated in their description. Only items specified
 by the EH are immune to this spell.
@@ -3172,10 +3172,10 @@ Gain the following abilities for 2 points each:
   taken more than once. When this augmentation is first used through Implement,
   you shall list an alternate build for the [familiar](#familiar). This
   alternate build can only be changed by learning or unlearning a use of
-  [Familiar](#familiar). From now on, when you use your [familiar](#familiar)
-  and it is augmented by Implement, it uses that new build. If you are using the
-  augmented build, and you do not have your implement on you, you may not use
-  your [Familiar](#familiar) abilities.
+  [Familiar](#familiar). From now on, when you use your
+  [[F]{.new}amiliar](#familiar) and it is augmented by Implement, it uses that
+  new build. If you are using the augmented build, and you do not have your
+  implement on you, you may not use your [Familiar](#familiar) abilities.
 
 Gain one additional casting of one of the following spells for 3 points each:
 [Vision](#vision) or [Séance](#seance).
@@ -3271,11 +3271,11 @@ This spell creates a Masterwork Hammer which swings [magic](#magic-call). The
 hammer may also be used to repair non-armor, non-magic items (bows, weapons,
 shields) in 30 seconds. The hammer may also repair all armor on a target player
 to 1 pt., using the hammer as the focus of the spell, in 30 seconds. While using
-the hammer to make any type of repair the spellcaster must remain stationary and
-should actively use the hammer to simulate repairing the target. If the hammer
-is broken the spellcaster may repair it by holding the item in both hands and
-reciting the verbal. Only the spellcaster may use any of the benefits of this
-spell.
+the hammer to make any type of repair[,]{.new} the spellcaster must remain
+stationary and should actively use the hammer to simulate repairing the target.
+If the hammer is broken[,]{.new} the spellcaster may repair it by holding the
+item in both hands and reciting the verbal. Only the spellcaster may use any of
+the benefits of this spell.
 
 ### Mystic Forge (4th Circle) ### {#mystic-forge}
 
@@ -3292,18 +3292,19 @@ one but the spellcaster may use the Mystic Forge in this manner.
 
 ### Pas (1st Circle) ### {#pas}
 
-__Uses:__ 3 - __Verbal:__ Pas, friend... - __Material:__ Food, coin, or some
-offering - __Active:__ Offer the MC to the target - __Caveats:__
+__Uses:__ 3 - __Verbal:__ ["]{.new}Pas, friend...["]{.new} - __Material:__ Food,
+coin, or some offering - __Active:__ Offer the MC to the target - __Caveats:__
 [Compulsion](#compulsion)
 
 This spell creates an uneasy, temporary truce between the target and the PC. To
-cast this spell the spellcaster offers something of value to the target and says
-something along the lines of, "Pas, friend orc, and accept these shiny bits to
-let me pass unharmed." If the target accepts the offering, they are magically
-bound to not attack the spellcaster for 60 seconds unless the target is
-attacked. If the target is attacked or the spellcaster is slain this spell ends
-immediately. [Protect the Soul](#protect-the-soul) will block the effects of
-this spell as will [Resist Magic](#resist-magic).
+cast this spell[,]{.new} the spellcaster offers something of value to the target
+and says something along the lines of, "Pas, friend orc, and accept these shiny
+bits to let me pass unharmed." If the target accepts the offering, they are
+magically bound to not attack the spellcaster for 60 seconds[,]{.new} unless the
+target is attacked. If the target is attacked or the spellcaster is
+slain[,]{.new} this spell ends immediately. [Protect the
+Soul](#protect-the-soul) will block the effects of this spell[,]{.new} as will
+[Resist Magic](#resist-magic).
 
 ### Precognition (3rd Circle) ### {#precognition}
 
@@ -3367,8 +3368,8 @@ This protection extends to all equipment they are carrying.
 ### Protection from Missile (2nd Circle) ### {#protection-from-missile}
 
 __Uses:__ Unlimited, one at a time - __Verbal:__ 10 words - __Material:__ Spell
-Sash - __Caveats:__ [Enchanted Items](#enchanted-items), [Spell
-Sash](#spell-sash) - __Active:__ Kneel or lie on back, no weapons in hand
+Sash - __Active:__ Kneel or lie on back, no weapons in hand - __Caveats:__
+[Enchanted Items](#enchanted-items), [Spell Sash](#spell-sash)
 
 The recipient of this spell is protected from the next hit they take from an
 arrow, javelin, or [Magic Missile](#magic-missile) spell. It is necessary to
@@ -3679,9 +3680,9 @@ Tell](#fortune-tell), [Precognition](#precognition), [Find the
 Path](#find-the-path), [Foretell](#foretell), [Séance](#seance),
 [Vision](#vision), or [Prophecy](#prophecy) spell cast about the target at that
 event, giving them misinformation. How much the spell is altered is up to the
-MM. To cast this spell the spellcaster must write the name of the target (item,
-person, group, place, or situation) on a scroll, sign the scroll, and give the
-scroll to the MM.
+MM. To cast this spell[,]{.new} the spellcaster must write the name of the
+target (item, person, group, place, or situation) on a scroll, sign the scroll,
+and give the scroll to the MM.
 
 ### Soul Bane (3rd Circle) ### {#soul-bane}
 
