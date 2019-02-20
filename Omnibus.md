@@ -709,7 +709,7 @@ location that would cause you the most harm (e.g., an unarmored kill location).
 There are special restrictions for spellcasters in terms of wielding and
 blocking with different weapons, and specific consequences for doing so outside
 of the spellcaster's restriction. See [Breaking Weapon
-Restrictions](#breaking-weapon-restrictions) for more information.
+Restriction](#breaking-weapon-restriction) for more information.
 
 The size of a weapon dictates how it may be wielded. Weapons cannot be any
 smaller than 12", and cannot exceed 8' in length.
@@ -3731,26 +3731,30 @@ You may create 2 additional types of potions listed below using
 potions you are choosing to learn[,]{.new} and their specific rules[, in your
 spellbook]{.new}:
 
-* Potion of Acid (5 Points): Deals 200 blows to a body, only usable on
-  non-living objects.
-* Potion of Combat Raise Dead (4 Points): Raises a dead character, healing all
-  of their injured limbs.
-* Potion of Heal Limb (1 Point): Heals all damaged limbs of a living recipient
-* Potion of Cure Disease (1 Point): Cures the target of all disease.
-* Potion of Disenchant (3 Points): Disenchants an enchanted or magic item, as
-  per the spell, [Disenchant](#disenchant).
-* Potion of Soul Snare (5 Points): Recipient's soul is returned to them as if
-  the spell [Call the Soul](#call-the-soul) was successfully cast on them and
-  their soul was called. The MM must be present for this potion to be used.
-* Potion of Animate Undead (5 Points): Animates a corpse as per the spell
-  [Animate Undead](#animate-undead). The spellcaster must also provide the
+* [Potion of Acid]{#potion-of-acid} (5 Points): Deals 200 blows to a body, only
+  usable on non-living objects.
+* [Potion of Combat Raise Dead]{#potion-of-combat-raise-dead} (4 Points): Raises
+  a dead character, healing all of their injured limbs.
+* [Potion of Heal Limb]{#potion-of-heal-limb} (1 Point): Heals all damaged limbs
+  of a living recipient
+* [Potion of Cure Disease]{#potion-of-cure-disease} (1 Point): Cures the target
+  of all disease.
+* [Potion of Disenchant]{#potion-of-disenchant} (3 Points): Disenchants an
+  enchanted or magic item, as per the spell, [Disenchant](#disenchant).
+* [Potion of Soul Snare]{#potion-of-soul-snare} (5 Points): Recipient's soul is
+  returned to them as if the spell [Call the Soul](#call-the-soul) was
+  successfully cast on them and their soul was called. The MM must be present
+  for this potion to be used.
+* [Potion of Animate Undead]{#potion-of-animate-undead} (5 Points): Animates a
+  corpse as per the spell [Animate Undead](#animate-undead). The spellcaster
+  must also provide the necessary material requirements of that spell for when
+  the potion is administered. Treat the person who applies this potion as the
+  controller of the undead.
+* [Potion of Animate Lesser Undead]{#potion-of-animate-lesser-undead} (2
+  Points): Animates a corpse as per spell the [Animate Lesser
+  Undead](#animate-lesser-undead). The spellcaster must also provide the
   necessary material requirements of that spell for when the potion is
   administered. Treat the person who applies this potion as the controller of
-  the undead.
-* Potion of Animate Lesser Undead (2 Points): Animates a corpse as per spell the
-  [Animate Lesser Undead](#animate-lesser-undead). The spellcaster must also
-  provide the necessary material requirements of that spell for when the potion
-  is administered. Treat the person who applies this potion as the controller of
   the undead.
 
 This does not grant any points to alchemy.
