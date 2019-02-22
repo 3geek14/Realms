@@ -803,10 +803,10 @@ javelin is considered a weapon for the purposes of spells.
 
 ### Missile Weapons ### {#missile-weapons}
 
-Projectile weapons such as arrows, crossbow bolts, spells (like Magic Missile),
-and javelins cannot be targeted at your opponent's head. Head shots from
-projectile weapons, even if they did not hit the face or the throat, do not have
-to be taken as legal shots.
+Projectile weapons such as arrows, crossbow bolts, spells (like [Magic
+Missile](#magic-missile), and javelins cannot be targeted at your opponent's
+head. Head shots from projectile weapons, even if they did not hit the face or
+the throat, do not have to be taken as legal shots.
 
 Being struck with any portion of the foam head of the arrow or javelin will
 cause damage. The shaft, fletching, and nocks of arrows and javelins do not
