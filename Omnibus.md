@@ -201,7 +201,7 @@ un-backing of that EH's magic item(s), revocation of an event's legal status,
 and/or being banned from holding future events.
 
 Reports of rules violations to be submitted after the conclusion of an event
-should be submitted to the AC.
+should be submitted to the [Arbitration Committee]{.new}.
 
 ## 2.2: Code of Conduct ## {#code-of-conduct}
 
@@ -601,15 +601,15 @@ until their soul has been restored.
 
 ### [Soul Tokens]{.new} ### {#soul-tokens}
 
-A [soul token]{.new} is a token carried by each player which represents
-the life essence of that player's character. Players must be carrying their PC's
-[soul token]{.new} at all times unless the PC is dead and
-[soulless]{.new} (see [[Destroying a Body](#destroying-a-body) below), or 
-unless they are under the influence of a spell which removes the PC's 
-[soul. A soul token]{.new} must have [its]{.new} player's name and the PC's name 
-written legibly on it. A [soul token]{.new} does not exist physically in the 
-IC world[;]{.new} therefore it cannot be searched. A [soul token]{.new} is a 
-non-magical and non-stealable marshaling tool.
+A [soul token]{.new} is a token carried by each player which represents the life
+essence of that player's character. Players must be carrying their PC's [soul
+token]{.new} at all times unless the PC is dead and [soulless]{.new} (see
+[Destroying a Body](#destroying-a-body){.new} below), or unless they are under the
+influence of a spell which removes the PC's [soul. A soul token]{.new} must have
+[its]{.new} player's name and the PC's name written legibly on it. A [soul
+token]{.new} does not exist physically in the IC world[;]{.new} therefore it
+cannot be searched. A [soul token]{.new} is a non-magical and non-stealable
+marshaling tool.
 
 ### [Destroying a Body]{.new} ### {#destroying-a-body}
 
@@ -709,7 +709,7 @@ location that would cause you the most harm (e.g., an unarmored kill location).
 There are special restrictions for spellcasters in terms of wielding and
 blocking with different weapons, and specific consequences for doing so outside
 of the spellcaster's restriction. See [Breaking Weapon
-Restrictions](#breaking-weapon-restrictions) for more information.
+Restriction](#breaking-weapon-restriction) for more information.
 
 The size of a weapon dictates how it may be wielded. Weapons cannot be any
 smaller than 12", and cannot exceed 8' in length.
@@ -803,10 +803,10 @@ javelin is considered a weapon for the purposes of spells.
 
 ### Missile Weapons ### {#missile-weapons}
 
-Projectile weapons such as arrows, crossbow bolts, spells (like Magic Missile),
-and javelins cannot be targeted at your opponent's head. Head shots from
-projectile weapons, even if they did not hit the face or the throat, do not have
-to be taken as legal shots.
+Projectile weapons such as arrows, crossbow bolts, spells (like [Magic
+Missile](#magic-missile), and javelins cannot be targeted at your opponent's
+head. Head shots from projectile weapons, even if they did not hit the face or
+the throat, do not have to be taken as legal shots.
 
 Being struck with any portion of the foam head of the arrow or javelin will
 cause damage. The shaft, fletching, and nocks of arrows and javelins do not
@@ -827,22 +827,25 @@ and arrows are not subject to a spellcaster's weapon restriction.
 
 There are several ways to make weapons in the Realms. If you are playing for the
 first time, it might be a better idea to borrow weapons than try to make any of
-your own. Once you have seen what other weapons have looked like and asked a few
-questions on how others have made their weapons, then you will be better
+your own. Once you [see]{.new} what other weapons [look]{.new} like and [ask
+people about]{.new} how [they]{.new} made their weapons, you will be better
 prepared to construct your own.
 
 Be sure to follow these guidelines when constructing a weapon:
+
 * All non-missile melee weapons must be made out of lightwall PVC, fiberglass,
-  or bamboo cores as noted in the table below. There can be nothing in the core.
-  Both ends must be capped with a rigid material.
+  or bamboo cores as noted in the table below.
+* There can be nothing in the core[, and B]{.new}oth ends must be capped with a
+  rigid material.
 * All weapons must have a thrusting tip (the pipe foam that extends beyond the
   tip of the pipe) as noted below.
 * A weapon's striking surface must be made from closed-celled foam pipe
   insulation, which must be at least 5/8" thick and which must be firmly
-  strapping-taped in place. All striking surfaces must be covered in either duct
-  tape or fabric. Only magic weapons should be made with a blue-colored striking
-  surface, and you may only make a magic weapon through the use of spells in the
-  magic system, or if you are releasing one as an EH.
+  strapping-taped in place.
+* All striking surfaces must be covered in either duct tape or fabric.
+* Only magic weapons should be made with a blue-colored striking surface, and
+  you may only make a magic weapon through the use of spells in the magic
+  system, or if you are releasing one as an EH.
 
 +--------------------+---------------+-----------+-----------+-----------+---------------+
 | Length             | Core          | Thrusting | Camp      | Squishy   | Minimum Foam  |
@@ -1586,10 +1589,11 @@ members of other knighthoods.
 Even if you are not a spellcaster, and have no desire to become one, there is
 still some basic information that you are responsible for understanding. In
 nearly all cases, a spellcaster casting a spell on your PC should explain,
-either through their VC or as an aside to you, how the spell affects your PC.
-Even fighters should read the magic system and spell descriptions, so they have
-a basic understanding of magic in the game and how it might affect them. No
-spell effect may be ignored unless otherwise specified in the spell system.
+either through their [Verbal Component]{.new} or as an aside to you, how the
+spell affects your PC. Even fighters should read the magic system and spell
+descriptions, so they have a basic understanding of magic in the game and how it
+might affect them. No spell effect may be ignored unless otherwise specified in
+the spell system.
 
 The following are some rules about spells that can have an effect on your
 character on a day-to-day basis. They are included here with some basic
@@ -1733,9 +1737,9 @@ Certain spells repair damaged armor and broken items.
   non-magical armor that has been damaged. For example, the armor on one arm,
   the chest of a shirt of chainmail, head armor, etc.
 * [Repair Item](#repair-item): this will restore non-magical armor, weapons, and
-  other items that have become damaged or destroyed. This spell has a VC, and it
-  fixes the entire item. For example, all hit locations of someone's armor, a
-  bow, a boulder-crushed weapon, a shield, etc.
+  other items that have become damaged or destroyed. This spell has a [Verbal
+  Component]{.new}, and it fixes the entire item. For example, all hit locations
+  of someone's armor, a bow, a boulder-crushed weapon, a shield, etc.
 
 ### Other Spells and Things You Should Know ### {#other-spells-and-things-you-should-know}
 
@@ -3731,26 +3735,30 @@ You may create 2 additional types of potions listed below using
 potions you are choosing to learn[,]{.new} and their specific rules[, in your
 spellbook]{.new}:
 
-* Potion of Acid (5 Points): Deals 200 blows to a body, only usable on
-  non-living objects.
-* Potion of Combat Raise Dead (4 Points): Raises a dead character, healing all
-  of their injured limbs.
-* Potion of Heal Limb (1 Point): Heals all damaged limbs of a living recipient
-* Potion of Cure Disease (1 Point): Cures the target of all disease.
-* Potion of Disenchant (3 Points): Disenchants an enchanted or magic item, as
-  per the spell, [Disenchant](#disenchant).
-* Potion of Soul Snare (5 Points): Recipient's soul is returned to them as if
-  the spell [Call the Soul](#call-the-soul) was successfully cast on them and
-  their soul was called. The MM must be present for this potion to be used.
-* Potion of Animate Undead (5 Points): Animates a corpse as per the spell
-  [Animate Undead](#animate-undead). The spellcaster must also provide the
+* [Potion of Acid]{#potion-of-acid} (5 Points): Deals 200 blows to a body, only
+  usable on non-living objects.
+* [Potion of Combat Raise Dead]{#potion-of-combat-raise-dead} (4 Points): Raises
+  a dead character, healing all of their injured limbs.
+* [Potion of Heal Limb]{#potion-of-heal-limb} (1 Point): Heals all damaged limbs
+  of a living recipient
+* [Potion of Cure Disease]{#potion-of-cure-disease} (1 Point): Cures the target
+  of all disease.
+* [Potion of Disenchant]{#potion-of-disenchant} (3 Points): Disenchants an
+  enchanted or magic item, as per the spell, [Disenchant](#disenchant).
+* [Potion of Soul Snare]{#potion-of-soul-snare} (5 Points): Recipient's soul is
+  returned to them as if the spell [Call the Soul](#call-the-soul) was
+  successfully cast on them and their soul was called. The MM must be present
+  for this potion to be used.
+* [Potion of Animate Undead]{#potion-of-animate-undead} (5 Points): Animates a
+  corpse as per the spell [Animate Undead](#animate-undead). The spellcaster
+  must also provide the necessary material requirements of that spell for when
+  the potion is administered. Treat the person who applies this potion as the
+  controller of the undead.
+* [Potion of Animate Lesser Undead]{#potion-of-animate-lesser-undead} (2
+  Points): Animates a corpse as per spell the [Animate Lesser
+  Undead](#animate-lesser-undead). The spellcaster must also provide the
   necessary material requirements of that spell for when the potion is
   administered. Treat the person who applies this potion as the controller of
-  the undead.
-* Potion of Animate Lesser Undead (2 Points): Animates a corpse as per spell the
-  [Animate Lesser Undead](#animate-lesser-undead). The spellcaster must also
-  provide the necessary material requirements of that spell for when the potion
-  is administered. Treat the person who applies this potion as the controller of
   the undead.
 
 This does not grant any points to alchemy.
@@ -4006,9 +4014,9 @@ above and beyond a normal player.
   date of the event. Also within that month, you must also send a summary of
   reports of rules violations and the conclusion of investigations into them, as
   well as all consequences levied, to the [Arbitration
-  Committee](#arbitration-committee) if any reports were filed. EHs and the AC
-  have the responsibility to maintain the privacy of those involved in reports
-  to the extent possible.
+  Committee](#arbitration-committee) if any reports were filed. EHs and the
+  [Abitration Committee]{.new} have the responsibility to maintain the privacy
+  of those involved in reports to the extent possible.
 * If you release a [Realms Magic Item](#magic-item-rules) at your event you must
   submit the name, physical description, and magical description to the [Keeper
   of the List of Realms Magic Items](#magic-item-marshal) within one month of
