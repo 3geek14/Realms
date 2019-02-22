@@ -827,22 +827,24 @@ and arrows are not subject to a spellcaster's weapon restriction.
 
 There are several ways to make weapons in the Realms. If you are playing for the
 first time, it might be a better idea to borrow weapons than try to make any of
-your own. Once you have seen what other weapons have looked like and asked a few
-questions on how others have made their weapons, then you will be better
+your own. Once you [see]{.new} what other weapons [look]{.new} like and [ask
+people about]{.new} how [they]{.new} made their weapons, you will be better
 prepared to construct your own.
 
 Be sure to follow these guidelines when constructing a weapon:
 * All non-missile melee weapons must be made out of lightwall PVC, fiberglass,
-  or bamboo cores as noted in the table below. There can be nothing in the core.
-  Both ends must be capped with a rigid material.
+  or bamboo cores as noted in the table below.
+* There can be nothing in the core[, and B]{.new}oth ends must be capped with a
+  rigid material.
 * All weapons must have a thrusting tip (the pipe foam that extends beyond the
   tip of the pipe) as noted below.
 * A weapon's striking surface must be made from closed-celled foam pipe
   insulation, which must be at least 5/8" thick and which must be firmly
-  strapping-taped in place. All striking surfaces must be covered in either duct
-  tape or fabric. Only magic weapons should be made with a blue-colored striking
-  surface, and you may only make a magic weapon through the use of spells in the
-  magic system, or if you are releasing one as an EH.
+  strapping-taped in place.
+* All striking surfaces must be covered in either duct tape or fabric.
+* Only magic weapons should be made with a blue-colored striking surface, and
+  you may only make a magic weapon through the use of spells in the magic
+  system, or if you are releasing one as an EH.
 
 +--------------------+---------------+-----------+-----------+-----------+---------------+
 | Length             | Core          | Thrusting | Camp      | Squishy   | Minimum Foam  |
