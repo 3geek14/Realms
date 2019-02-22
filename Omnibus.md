@@ -201,7 +201,7 @@ un-backing of that EH's magic item(s), revocation of an event's legal status,
 and/or being banned from holding future events.
 
 Reports of rules violations to be submitted after the conclusion of an event
-should be submitted to the AC.
+should be submitted to the [Arbitration Committee]{.new}.
 
 ## 2.2: Code of Conduct ## {#code-of-conduct}
 
@@ -4010,9 +4010,9 @@ above and beyond a normal player.
   date of the event. Also within that month, you must also send a summary of
   reports of rules violations and the conclusion of investigations into them, as
   well as all consequences levied, to the [Arbitration
-  Committee](#arbitration-committee) if any reports were filed. EHs and the AC
-  have the responsibility to maintain the privacy of those involved in reports
-  to the extent possible.
+  Committee](#arbitration-committee) if any reports were filed. EHs and the
+  [Abitration Committee]{.new} have the responsibility to maintain the privacy
+  of those involved in reports to the extent possible.
 * If you release a [Realms Magic Item](#magic-item-rules) at your event you must
   submit the name, physical description, and magical description to the [Keeper
   of the List of Realms Magic Items](#magic-item-marshal) within one month of
