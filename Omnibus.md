@@ -1588,10 +1588,11 @@ members of other knighthoods.
 Even if you are not a spellcaster, and have no desire to become one, there is
 still some basic information that you are responsible for understanding. In
 nearly all cases, a spellcaster casting a spell on your PC should explain,
-either through their VC or as an aside to you, how the spell affects your PC.
-Even fighters should read the magic system and spell descriptions, so they have
-a basic understanding of magic in the game and how it might affect them. No
-spell effect may be ignored unless otherwise specified in the spell system.
+either through their [Verbal Component]{.new} or as an aside to you, how the
+spell affects your PC. Even fighters should read the magic system and spell
+descriptions, so they have a basic understanding of magic in the game and how it
+might affect them. No spell effect may be ignored unless otherwise specified in
+the spell system.
 
 The following are some rules about spells that can have an effect on your
 character on a day-to-day basis. They are included here with some basic
@@ -1735,9 +1736,9 @@ Certain spells repair damaged armor and broken items.
   non-magical armor that has been damaged. For example, the armor on one arm,
   the chest of a shirt of chainmail, head armor, etc.
 * [Repair Item](#repair-item): this will restore non-magical armor, weapons, and
-  other items that have become damaged or destroyed. This spell has a VC, and it
-  fixes the entire item. For example, all hit locations of someone's armor, a
-  bow, a boulder-crushed weapon, a shield, etc.
+  other items that have become damaged or destroyed. This spell has a [Verbal
+  Component]{.new}, and it fixes the entire item. For example, all hit locations
+  of someone's armor, a bow, a boulder-crushed weapon, a shield, etc.
 
 ### Other Spells and Things You Should Know ### {#other-spells-and-things-you-should-know}
 
