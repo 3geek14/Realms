@@ -601,15 +601,15 @@ until their soul has been restored.
 
 ### [Soul Tokens]{.new} ### {#soul-tokens}
 
-A [soul token]{.new} is a token carried by each player which represents
-the life essence of that player's character. Players must be carrying their PC's
-[soul token]{.new} at all times unless the PC is dead and
-[soulless]{.new} (see [[Destroying a Body](#destroying-a-body) below), or 
-unless they are under the influence of a spell which removes the PC's 
-[soul. A soul token]{.new} must have [its]{.new} player's name and the PC's name 
-written legibly on it. A [soul token]{.new} does not exist physically in the 
-IC world[;]{.new} therefore it cannot be searched. A [soul token]{.new} is a 
-non-magical and non-stealable marshaling tool.
+A [soul token]{.new} is a token carried by each player which represents the life
+essence of that player's character. Players must be carrying their PC's [soul
+token]{.new} at all times unless the PC is dead and [soulless]{.new} (see
+[Destroying a Body](#destroying-a-body) below), or unless they are under the
+influence of a spell which removes the PC's [soul. A soul token]{.new} must have
+[its]{.new} player's name and the PC's name written legibly on it. A [soul
+token]{.new} does not exist physically in the IC world[;]{.new} therefore it
+cannot be searched. A [soul token]{.new} is a non-magical and non-stealable
+marshaling tool.
 
 ### [Destroying a Body]{.new} ### {#destroying-a-body}
 
