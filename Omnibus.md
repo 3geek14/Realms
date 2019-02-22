@@ -832,6 +832,7 @@ people about]{.new} how [they]{.new} made their weapons, you will be better
 prepared to construct your own.
 
 Be sure to follow these guidelines when constructing a weapon:
+
 * All non-missile melee weapons must be made out of lightwall PVC, fiberglass,
   or bamboo cores as noted in the table below.
 * There can be nothing in the core[, and B]{.new}oth ends must be capped with a
