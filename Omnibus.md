@@ -2932,7 +2932,7 @@ spell, up to [20]{.new} points total.
 +---------------------------------+-------------------+
 | [Shapeshifting](#shapeshifting) | (2 pts.) - 1 use  |
 +---------------------------------+-------------------+
-| [Combat Raise                   | (2 pts.) - 2 uses |
+| [Combat Raise                   | (3 pts.) - 2 uses |
 | Dead](#combat-raise-dead)       |                   |
 +---------------------------------+-------------------+
 | [Reforge: Restore               | (4 pts.) - 1 use  |
