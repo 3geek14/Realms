@@ -1,5 +1,57 @@
 ﻿% 2019 Realms Omnibus
 
+1) [General Player Information](#general-player-information)
+   1) [What is the Realms?](#what-is-the-realms)
+   #) [What is This Book?](#what-is-this-book)
+   #) [How Do I Start Playing?](#how-do-i-start-playing)
+   #) [Attending an Event](#attending-an-event)
+   #) [Alcohol Policy](#alcohol-policy)
+#) [Core Rules](#core-rules)
+   1) [Participant Rights](#participant-rights)
+   #) [Code of Conduct](#code-of-conduct)
+   #) [The Safety Rules](#the-safety-rules)
+#) [Combat in the Realms](#combat-in-the-realms)
+   1) [The Combat System](#the-combat-system)
+   #) [Combat Etiquette](#combat-etiquette)
+   #) [Armor](#armor-section)
+   #) [Character Death](#character-death)
+   #) [Soul Loss](#soul-loss)
+   #) [Permanent Death](#permanent-death)
+   #) [Weapon Rules](#weapon-rules)
+   #) [Weapons Construction](#weapon-construction)
+   #) [Shield Construction](#shield-construction)
+   #) [Equipment Inspections](#equipment-inspections)
+   #) [Combat Calls](#combat-calls-section)
+#) [Non-Combat Interactions](#non-combat-interactions)
+   1) [In-Character and Out-of-Character](#in-character-and-out-of-character)
+   #) [Dragging](#dragging)
+   #) [Searching and Theft](#searching-and-theft)
+   #) [In-Game Items](#in-game-items)
+#) [Character Creation](#character-creation)
+   1) [The Social Structure](#the-social-structure)
+   #) [Creating a Character](#creating-a-character)
+   #) [Fighters](#fighters)
+   #) [Being a Realms Spellcaster](#being-a-realms-spellcaster)
+   #) [Multiple Characters](#multiple-characters)
+   #) [Knights and Knightly Powers](#knights-and-knightly-powers)
+#) [Magic in the Realms](#magic-in-the-realms)
+   1) [Basic Magic Effects Everyone Should Know](#basic-magic-effects-everyone-should-know)
+   #) [Learning and Unlearning Spells](#learning-and-unlearning-spells)
+   #) [The Basics of a Spell](#the-basics-of-a-spell)
+   #) [Alternatives to Spells](#alternatives-to-spells)
+   #) [Caveats](#caveats)
+   #) [Grandfathering](#grandfathering)
+   #) [Spell Chart](#spell-chart)
+   #) [Spell Descriptions](#spell-descriptions)
+#) [Realms Administration](#realms-administration)
+   1) [Players' Meeting](#players-meeting)
+   #) [Becoming A Realms Event-Holder](#becoming-a-realms-event-holder)
+   #) [Arbitration Committee](#arbitration-committee)
+   #) [Magic Item Rules](#magic-item-rules)
+   #) [The Event-Holders' Council](#the-event-holders-council)
+   #) [Challenging an Event](#challenging-an-event)
+   #) [Omnibus Editorial Committee](#omnibus-editorial-committee)
+
 # 1: General Player Information # {#general-player-information}
 
 ## 1.1: What is the Realms? ## {#what-is-the-realms}
@@ -4097,7 +4149,7 @@ the card must be turned into the EH or MM. If a player leaves an event with a
 magic item, and they don't have the card for that item, it is up to them to
 contact the backing EH to get a new card.
 
-## 7.5: The Event-Holder's Council ## {#the-event-holders-council}
+## 7.5: The Event-Holders' Council ## {#the-event-holders-council}
 
 Any EH who has thrown an event between January 1 and December 31 (inclusive) of
 the previous year may attend the annual Event Holders' Council.
