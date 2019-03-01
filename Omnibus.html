@@ -11,15 +11,259 @@
       span.underline{text-decoration: underline;}
       div.column{display: inline-block; vertical-align: top; width: 50%;}
   </style>
-  <link rel="stylesheet" href="pandoc.css" />
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
   <![endif]-->
+  <style type="text/css">
+  
+  /*
+   * I add this to html files generated with pandoc.
+   * From: https://gist.github.com/killercup/5917178
+   */
+  
+  html {
+    font-size: 100%;
+    overflow-y: scroll;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+  }
+  
+  body {
+    color: #444;
+    font-family: Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
+    font-size: 12px;
+    line-height: 1.7;
+    padding: 1em;
+    margin: auto;
+    max-width: 42em;
+    background: #fefefe;
+  }
+  
+  a {
+    color: #0645ad;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: #0645ad;
+  }
+  
+  a:hover {
+    color: #06e;
+  }
+  
+  a:active {
+    color: #faa700;
+  }
+  
+  a:focus {
+    outline: thin dotted;
+  }
+  
+  .new, .new a {
+    text-decoration: underline;
+    text-decoration-color: red;
+  }
+  
+  p {
+    margin: 1em 0;
+  }
+  
+  h1, h2, h3 {
+    color: #111;
+    line-height: 125%;
+    margin-top: 2em;
+    font-weight: normal;
+  }
+  
+  h1 {
+    font-size: 2.5em;
+  }
+  
+  h2 {
+    font-size: 2em;
+  }
+  
+  h3 {
+    font-size: 1.5em;
+  }
+  
+  pre, code {
+    color: #000;
+    font-family: monospace, monospace;
+    _font-family: 'courier new', monospace;
+    font-size: 0.98em;
+    background-color: #f6f8fa;
+  }
+  
+  pre {
+    white-space: pre;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    padding: 16px;
+    border: 3px;
+    border-color: #111;
+    border-style: double;
+  }
+  
+  .example {
+    background-color: #f6f8d8;
+    padding: 16px;
+    border: 3px;
+    border-color: #111;
+    border-style: double;
+  }
+  
+  hr {
+    display: block;
+    height: 2px;
+    border: 0;
+    border-top: 1px solid #aaa;
+    border-bottom: 1px solid #eee;
+    margin: 1em 0;
+    padding: 0;
+  }
+  
+  b, strong {
+    font-weight: bold;
+  }
+  
+  ul, ol {
+    margin: 1em 0;
+    padding: 0 0 0 2em;
+  }
+  
+  li p:last-child {
+    margin-bottom: 0;
+  }
+  
+  ul ul, ol ol {
+    margin: .3em 0;
+  }
+  
+  dl {
+    margin-bottom: 1em;
+  }
+  
+  dt {
+    font-weight: bold;
+    margin-bottom: .8em;
+  }
+  
+  dd {
+    margin: 0 0 .8em 2em;
+  }
+  
+  dd:last-child {
+    margin-bottom: 0;
+  }
+  
+  table {
+    margin-bottom: 2em;
+    border-bottom: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-spacing: 0;
+    border-collapse: collapse;
+  }
+  
+  table th {
+    padding: .2em 1em;
+    background-color: #eee;
+    border-top: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+  }
+  
+  table td {
+    padding: .2em 1em;
+    border-top: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    vertical-align: top;
+  }
+  
+  @media only screen and (min-width: 480px) {
+    body {
+      font-size: 14px;
+    }
+  }
+  @media only screen and (min-width: 768px) {
+    body {
+      font-size: 16px;
+    }
+  }
+  
+  </style>
 </head>
 <body>
 <header id="title-block-header">
 <h1 class="title">2019 Realms Omnibus</h1>
 </header>
+<ol type="1">
+<li><a href="#general-player-information">General Player Information</a>
+<ol type="1">
+<li><a href="#what-is-the-realms">What is the Realms?</a></li>
+<li><a href="#what-is-this-book">What is This Book?</a></li>
+<li><a href="#how-do-i-start-playing">How Do I Start Playing?</a></li>
+<li><a href="#attending-an-event">Attending an Event</a></li>
+<li><a href="#alcohol-policy">Alcohol Policy</a></li>
+</ol></li>
+<li><a href="#core-rules">Core Rules</a>
+<ol type="1">
+<li><a href="#participant-rights">Participant Rights</a></li>
+<li><a href="#code-of-conduct">Code of Conduct</a></li>
+<li><a href="#the-safety-rules">The Safety Rules</a></li>
+</ol></li>
+<li><a href="#combat-in-the-realms">Combat in the Realms</a>
+<ol type="1">
+<li><a href="#the-combat-system">The Combat System</a></li>
+<li><a href="#combat-etiquette">Combat Etiquette</a></li>
+<li><a href="#armor-section">Armor</a></li>
+<li><a href="#character-death">Character Death</a></li>
+<li><a href="#soul-loss">Soul Loss</a></li>
+<li><a href="#permanent-death">Permanent Death</a></li>
+<li><a href="#weapon-rules">Weapon Rules</a></li>
+<li><a href="#weapon-construction">Weapons Construction</a></li>
+<li><a href="#shield-construction">Shield Construction</a></li>
+<li><a href="#equipment-inspections">Equipment Inspections</a></li>
+<li><a href="#combat-calls-section">Combat Calls</a></li>
+</ol></li>
+<li><a href="#non-combat-interactions">Non-Combat Interactions</a>
+<ol type="1">
+<li><a href="#in-character-and-out-of-character">In-Character and Out-of-Character</a></li>
+<li><a href="#dragging">Dragging</a></li>
+<li><a href="#searching-and-theft">Searching and Theft</a></li>
+<li><a href="#in-game-items">In-Game Items</a></li>
+</ol></li>
+<li><a href="#character-creation">Character Creation</a>
+<ol type="1">
+<li><a href="#the-social-structure">The Social Structure</a></li>
+<li><a href="#creating-a-character">Creating a Character</a></li>
+<li><a href="#fighters">Fighters</a></li>
+<li><a href="#being-a-realms-spellcaster">Being a Realms Spellcaster</a></li>
+<li><a href="#multiple-characters">Multiple Characters</a></li>
+<li><a href="#knights-and-knightly-powers">Knights and Knightly Powers</a></li>
+</ol></li>
+<li><a href="#magic-in-the-realms">Magic in the Realms</a>
+<ol type="1">
+<li><a href="#basic-magic-effects-everyone-should-know">Basic Magic Effects Everyone Should Know</a></li>
+<li><a href="#learning-and-unlearning-spells">Learning and Unlearning Spells</a></li>
+<li><a href="#the-basics-of-a-spell">The Basics of a Spell</a></li>
+<li><a href="#alternatives-to-spells">Alternatives to Spells</a></li>
+<li><a href="#caveats">Caveats</a></li>
+<li><a href="#grandfathering">Grandfathering</a></li>
+<li><a href="#spell-chart">Spell Chart</a></li>
+<li><a href="#spell-descriptions">Spell Descriptions</a></li>
+</ol></li>
+<li><a href="#realms-administration">Realms Administration</a>
+<ol type="1">
+<li><a href="#players-meeting">Players’ Meeting</a></li>
+<li><a href="#becoming-a-realms-event-holder">Becoming A Realms Event-Holder</a></li>
+<li><a href="#arbitration-committee">Arbitration Committee</a></li>
+<li><a href="#magic-item-rules">Magic Item Rules</a></li>
+<li><a href="#the-event-holders-council">The Event-Holders’ Council</a></li>
+<li><a href="#challenging-an-event">Challenging an Event</a></li>
+<li><a href="#omnibus-editorial-committee">Omnibus Editorial Committee</a></li>
+</ol></li>
+</ol>
 <h1 id="general-player-information">1: General Player Information</h1>
 <h2 id="what-is-the-realms">1.1: What is the Realms?</h2>
 <p>The Realms is a medieval fantasy Live Action Role Playing (LARP) system (also known as The Realms of Wonder). This game has been in existence since the late 1980s. The Realms has evolved considerably since its inception through the participation and imagination of more people than can be credited. Unlike most LARPs today, the Realms has a skill-based combat system, and is community-based rather than run by a single, static council or corporation.</p>
@@ -1430,7 +1674,7 @@ All MCs must be specified and written down in the PC’s spellbook for every spe
 <p>If an EH has not held a legal event during a calendar year, any items that they back are still considered backed for an additional calendar year. This means if an EH decided to take a calendar year off from throwing an event they can throw an event during the next calendar year and their items will retain their backing. However, if an EH does not hold a legal event during that following calendar year, any magic items that they released will be considered effectively destroyed as of the EH Council immediately following that year.</p>
 <p>All magic items must have the following written on them or on an accompanying tag: the item’s name; the responsible EH’s name; the date it was released; the labels “Magic” and “Stealable”.</p>
 <p>Once a magic item is identified the owner should be handed a durable card(s) with the item’s full description. In order to use the item a player must have the corresponding cards on their person, or on site, for marshal reference. These cards are considered part of the magic item, and when transfer of an item occurs the cards go with it. Lost or damaged cards can be replaced only with the backing EH’s permission. If the card should become separated from the prop, the card must be turned into the EH or MM. If a player leaves an event with a magic item, and they don’t have the card for that item, it is up to them to contact the backing EH to get a new card.</p>
-<h2 id="the-event-holders-council">7.5: The Event-Holder’s Council</h2>
+<h2 id="the-event-holders-council">7.5: The Event-Holders’ Council</h2>
 <p>Any EH who has thrown an event between January 1 and December 31 (inclusive) of the previous year may attend the annual Event Holders’ Council.</p>
 <p>Although any EH may attend the meeting, there are certain criteria that you must meet in order to vote there. You must have hit at least six events, including your own, in the same year that you held your event. Additionally only one EH per day of the event will be eligible to vote. For the purposes of this rule, a day runs from sunrise that calendar day to sunrise the next calendar day, and an event day must be at least six hours long. For example, an event starting at 9:00 pm on Friday and ending more than six hours after sunrise on Sunday may have three EHs.</p>
 <p>If an EH cannot or does not attend their own event (due to real life emergencies, extenuating circumstances, etc.), they may still attend the EH meeting, but their eligibility to vote and back magic items will be reviewed by the remaining members of the Event Holders’ Council to determine their eligibility on a case-by-case basis.</p>
