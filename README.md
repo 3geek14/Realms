@@ -20,7 +20,7 @@ Please use version 2.6, which is the most recent version, so that you have the
 same version as everyone else. Once installed, you can compile a new version of
 the Omnibus with the command:
 
-    pandoc -o Omnibus.html -s -c pandoc.css Omnibus.md
+    pandoc -o Omnibus.html -s -H pandoc.css Omnibus.md
 
 This project is maintained with git on GitHub. There are many [GitHub
 tutorials](https://guides.github.com/activities/hello-world/) available. Please
