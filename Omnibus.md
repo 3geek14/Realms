@@ -1,56 +1,12 @@
-﻿% 2019 Realms Omnibus
-
-1) [General Player Information](#general-player-information)
-   1) [What is the Realms?](#what-is-the-realms)
-   #) [What is This Book?](#what-is-this-book)
-   #) [How Do I Start Playing?](#how-do-i-start-playing)
-   #) [Attending an Event](#attending-an-event)
-   #) [Alcohol Policy](#alcohol-policy)
-#) [Core Rules](#core-rules)
-   1) [Participant Rights](#participant-rights)
-   #) [Code of Conduct](#code-of-conduct)
-   #) [The Safety Rules](#the-safety-rules)
-#) [Combat in the Realms](#combat-in-the-realms)
-   1) [The Combat System](#the-combat-system)
-   #) [Combat Etiquette](#combat-etiquette)
-   #) [Armor](#armor-section)
-   #) [Character Death](#character-death)
-   #) [Soul Loss](#soul-loss)
-   #) [Permanent Death](#permanent-death)
-   #) [Weapon Rules](#weapon-rules)
-   #) [Weapons Construction](#weapon-construction)
-   #) [Shield Construction](#shield-construction)
-   #) [Equipment Inspections](#equipment-inspections)
-   #) [Combat Calls](#combat-calls-section)
-#) [Non-Combat Interactions](#non-combat-interactions)
-   1) [In-Character and Out-of-Character](#in-character-and-out-of-character)
-   #) [Dragging](#dragging)
-   #) [Searching and Theft](#searching-and-theft)
-   #) [In-Game Items](#in-game-items)
-#) [Character Creation](#character-creation)
-   1) [The Social Structure](#the-social-structure)
-   #) [Creating a Character](#creating-a-character)
-   #) [Fighters](#fighters)
-   #) [Being a Realms Spellcaster](#being-a-realms-spellcaster)
-   #) [Multiple Characters](#multiple-characters)
-   #) [Knights and Knightly Powers](#knights-and-knightly-powers)
-#) [Magic in the Realms](#magic-in-the-realms)
-   1) [Basic Magic Effects Everyone Should Know](#basic-magic-effects-everyone-should-know)
-   #) [Learning and Unlearning Spells](#learning-and-unlearning-spells)
-   #) [The Basics of a Spell](#the-basics-of-a-spell)
-   #) [Alternatives to Spells](#alternatives-to-spells)
-   #) [Caveats](#caveats)
-   #) [Grandfathering](#grandfathering)
-   #) [Spell Chart](#spell-chart)
-   #) [Spell Descriptions](#spell-descriptions)
-#) [Realms Administration](#realms-administration)
-   1) [Players' Meeting](#players-meeting)
-   #) [Becoming A Realms Event-Holder](#becoming-a-realms-event-holder)
-   #) [Arbitration Committee](#arbitration-committee)
-   #) [Magic Item Rules](#magic-item-rules)
-   #) [The Event-Holders' Council](#the-event-holders-council)
-   #) [Challenging an Event](#challenging-an-event)
-   #) [Omnibus Editorial Committee](#omnibus-editorial-committee)
+﻿---
+title: 2019 Realms Omnibus
+documentclass: book
+geometry: margin=1in
+pagestyle: headings
+papersize: letter
+fontsize: 12pt
+toc-depth: 1
+...
 
 # 1: General Player Information # {#general-player-information}
 
@@ -2834,7 +2790,6 @@ uses drama and theatrics has a better chance of success.
 
 __Uses:__ 1 - __Verbal:__ 40 words - __Material:__ A container at least 4 inches
 in diameter able to hold the spellcaster's [soul]{.new} token[, labeled with
-
 "Event-Stealable"]{.new}. The container cannot be placed into [Deep
 Pockets](#deep-pockets). - __Caveats:__ [Enchanted Items](#enchanted-items),
 [Regeneration](#regeneration-caveat), [Basic Regeneration](#basic-regeneration),
