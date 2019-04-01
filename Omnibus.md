@@ -117,7 +117,7 @@ play:
 
 You must pay any event fees; failure to do so means you will not be able
 participate in the event and may be asked to leave site. Some events will waive
-event fees for staff or NPCs (Non Player Characters) however, you must alway
+event fees for staff or NPCs (Non Player Characters) however, you must always
 check with the event holder first. As event fees help pay for the site, props,
 prizes, food, and costuming that goes into throwing events, without them future
 events would not be able to occur.
