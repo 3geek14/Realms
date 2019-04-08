@@ -5,19 +5,185 @@
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <title>Markdown Tutorial</title>
-  <style type="text/css">
+  <style>
       code{white-space: pre-wrap;}
       span.smallcaps{font-variant: small-caps;}
       span.underline{text-decoration: underline;}
       div.column{display: inline-block; vertical-align: top; width: 50%;}
   </style>
-  <link rel="stylesheet" href="pandoc.css">
+  <link rel="stylesheet" href="external.css" />
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
   <![endif]-->
+  <style type="text/css">
+  
+  /*
+   * Modified from: https://gist.github.com/killercup/5917178
+   */
+  
+  a {
+    color: #08f;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: #08f;
+  }
+  
+  a:hover {
+    color: #2af;
+  }
+  
+  a:active {
+    color: #faa700;
+  }
+  
+  a:focus {
+    outline: thin dotted;
+  }
+  
+  .new, .new a {
+    text-decoration: underline;
+    text-decoration-color: red;
+  }
+  
+  p {
+    margin: 1em 0;
+  }
+  
+  h1, h2, h3 {
+    color: #111;
+    line-height: 125%;
+    margin-top: 2em;
+    font-weight: normal;
+  }
+  
+  h1 {
+    font-size: 2.5em;
+  }
+  
+  h2 {
+    font-size: 2em;
+  }
+  
+  h3 {
+    font-size: 1.5em;
+  }
+  
+  pre, code {
+    color: #000;
+    font-family: monospace, monospace;
+    _font-family: 'courier new', monospace;
+    font-size: 0.98em;
+    background-color: #f6f8fa;
+  }
+  
+  pre {
+    white-space: pre;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    padding: 16px;
+    border: 3px;
+    border-color: #111;
+    border-style: double;
+  }
+  
+  .example {
+    background-color: #f6f8d8;
+    padding: 16px;
+    border: 3px;
+    border-color: #111;
+    border-style: double;
+  }
+  
+  hr {
+    display: block;
+    height: 2px;
+    border: 0;
+    border-top: 1px solid #aaa;
+    border-bottom: 1px solid #eee;
+    margin: 1em 0;
+    padding: 0;
+  }
+  
+  b, strong {
+    font-weight: bold;
+  }
+  
+  ul, ol {
+    margin: 1em 0;
+    padding: 0 0 0 2em;
+  }
+  
+  li p:last-child {
+    margin-bottom: 0;
+  }
+  
+  ul ul, ol ol {
+    margin: .3em 0;
+  }
+  
+  dl {
+    margin-bottom: 1em;
+  }
+  
+  dt {
+    font-weight: bold;
+    margin-bottom: .8em;
+  }
+  
+  dd {
+    margin: 0 0 .8em 2em;
+  }
+  
+  dd:last-child {
+    margin-bottom: 0;
+  }
+  
+  table {
+    margin-bottom: 2em;
+    border-bottom: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-spacing: 0;
+    border-collapse: collapse;
+  }
+  
+  table th {
+    padding: .2em 1em;
+    background-color: #eee;
+    border-top: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+  }
+  
+  table td {
+    padding: .2em 1em;
+    border-top: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    vertical-align: top;
+  }
+  
+  .columns-list ul {
+    columns: 2 auto;
+  }
+  
+  @media only screen and (min-width: 480px) {
+    body {
+      font-size: 14px;
+    }
+    .columns-list ul {
+  	columns: 3 auto;
+    }
+  }
+  @media only screen and (min-width: 768px) {
+    body {
+      font-size: 16px;
+    }
+  }
+  
+  </style>
 </head>
 <body>
-<header>
+<header id="title-block-header">
 <h1 class="title">Markdown Tutorial</h1>
 </header>
 <p><a href="https://3geek14.github.io/Realms/">Index</a></p>
@@ -72,7 +238,7 @@ This is an email address: &lt;arbitration@lists.realmsnet.net&gt;.</code></pre>
 <p><span id="my-link-target">This is a link target</span></p>
 <p>This is a <a href="#my-link-target">link</a> to a target.</p>
 <p>This is a <a href="https://www.realmsnet.net/">link</a> to RealmsNet.</p>
-<p>This is an email address: <a href="mailto:arbitration@lists.realmsnet.net">arbitration@lists.realmsnet.net</a>.</p>
+<p>This is an email address: <a href="mailto:arbitration@lists.realmsnet.net" class="email">arbitration@lists.realmsnet.net</a>.</p>
 </div>
 <p>To make a link target, use curly braces (<code>{}</code>). To navigate to a link, use parentheses (<code>()</code>). Email addresses are a little different; they use less than and greater than (<code>&lt;&gt;</code>).</p>
 <p>Tables are kind of messy. It’s not super easy to make a table in plaintext, and it usually comes out looking pretty bulky. The table’s we’re using are called grid tables, because we draw a grid in the code. Yes, things have to line up for it to work. If you’re having trouble getting a table to work, feel free to make me do it, because I’m the one who picked markdown. Of course, the OEC is allowed to reformat things, so if you think of a way to present the same information without a table, feel free to try it out.</p>

@@ -1,56 +1,12 @@
-﻿% 2019 Realms Omnibus
-
-1) [General Player Information](#general-player-information)
-   1) [What is the Realms?](#what-is-the-realms)
-   #) [What is This Book?](#what-is-this-book)
-   #) [How Do I Start Playing?](#how-do-i-start-playing)
-   #) [Attending an Event](#attending-an-event)
-   #) [Alcohol Policy](#alcohol-policy)
-#) [Core Rules](#core-rules)
-   1) [Participant Rights](#participant-rights)
-   #) [Code of Conduct](#code-of-conduct)
-   #) [The Safety Rules](#the-safety-rules)
-#) [Combat in the Realms](#combat-in-the-realms)
-   1) [The Combat System](#the-combat-system)
-   #) [Combat Etiquette](#combat-etiquette)
-   #) [Armor](#armor-section)
-   #) [Character Death](#character-death)
-   #) [Soul Loss](#soul-loss)
-   #) [Permanent Death](#permanent-death)
-   #) [Weapon Rules](#weapon-rules)
-   #) [Weapons Construction](#weapon-construction)
-   #) [Shield Construction](#shield-construction)
-   #) [Equipment Inspections](#equipment-inspections)
-   #) [Combat Calls](#combat-calls-section)
-#) [Non-Combat Interactions](#non-combat-interactions)
-   1) [In-Character and Out-of-Character](#in-character-and-out-of-character)
-   #) [Dragging](#dragging)
-   #) [Searching and Theft](#searching-and-theft)
-   #) [In-Game Items](#in-game-items)
-#) [Character Creation](#character-creation)
-   1) [The Social Structure](#the-social-structure)
-   #) [Creating a Character](#creating-a-character)
-   #) [Fighters](#fighters)
-   #) [Being a Realms Spellcaster](#being-a-realms-spellcaster)
-   #) [Multiple Characters](#multiple-characters)
-   #) [Knights and Knightly Powers](#knights-and-knightly-powers)
-#) [Magic in the Realms](#magic-in-the-realms)
-   1) [Basic Magic Effects Everyone Should Know](#basic-magic-effects-everyone-should-know)
-   #) [Learning and Unlearning Spells](#learning-and-unlearning-spells)
-   #) [The Basics of a Spell](#the-basics-of-a-spell)
-   #) [Alternatives to Spells](#alternatives-to-spells)
-   #) [Caveats](#caveats)
-   #) [Grandfathering](#grandfathering)
-   #) [Spell Chart](#spell-chart)
-   #) [Spell Descriptions](#spell-descriptions)
-#) [Realms Administration](#realms-administration)
-   1) [Players' Meeting](#players-meeting)
-   #) [Becoming A Realms Event-Holder](#becoming-a-realms-event-holder)
-   #) [Arbitration Committee](#arbitration-committee)
-   #) [Magic Item Rules](#magic-item-rules)
-   #) [The Event-Holders' Council](#the-event-holders-council)
-   #) [Challenging an Event](#challenging-an-event)
-   #) [Omnibus Editorial Committee](#omnibus-editorial-committee)
+﻿---
+title: 2019 Realms Omnibus
+documentclass: book
+geometry: margin=1in
+pagestyle: headings
+papersize: letter
+fontsize: 12pt
+toc-depth: 1
+...
 
 # 1: General Player Information # {#general-player-information}
 
@@ -161,7 +117,7 @@ play:
 
 You must pay any event fees; failure to do so means you will not be able
 participate in the event and may be asked to leave site. Some events will waive
-event fees for staff or NPCs (Non Player Characters) however, you must alway
+event fees for staff or NPCs (Non Player Characters) however, you must always
 check with the event holder first. As event fees help pay for the site, props,
 prizes, food, and costuming that goes into throwing events, without them future
 events would not be able to occur.
@@ -2265,56 +2221,121 @@ All spells known after grandfathering may be added to the spellcaster's "Spell
 Mastery" section, in addition to the list they had before grandfathering (if
 any).
 
-## [6.7:]{.new} [Spell Chart]{.new} ## {#spell-chart}
+## [6.7:]{.new} The Spells ## {#the-spells}
 
-+:----------------------------------------------------:+:----------------------------------------------------:+:----------------------------------------------------:+
-|                                                      | 1st Circle Spells                                    |                                                      |
-+------------------------------------------------------+------------------------------------------------------+------------------------------------------------------+
-| [Cure Disease](#cure-disease)\                       | [Identify](#identify)\                               | [Protection from Boulder](#protection-from-boulder)\ |
-| [Detect Magic](#detect-magic)\                       | [Immunity to Poison](#immunity-to-poison)\           | [Repair Armor](#repair-armor)\                       |
-| [Disrupt Light](#disrupt-light)\                     | [Implement](#implement)\                             | [Speak](#speak)\                                     |
-| [Fighter's Intuition](#fighters-intuition)\          | [Light](#light)\                                     | [Speak with Dead](#speak-with-dead)\                 |
-| [Ghost Blade](#ghost-blade)\                         | [Pas](#pas)\                                         | [Strange Brew](#strange-brew)\                       |
-| [Heartiness](#heartiness)                            | [Protect Item](#protect-item)                        | [Zombie Walk](#zombie-walk)                          |
-+------------------------------------------------------+------------------------------------------------------+------------------------------------------------------+
-|                                                      | 2nd Circle Spells                                    |                                                      |
-+------------------------------------------------------+------------------------------------------------------+------------------------------------------------------+
-| [Aura of Protection](#aura-of-protection)\           | [Enchant Weapon](#enchant-weapon){.new}\             | [Protect the Soul](#protect-the-soul){.new}\         |
-| [Death Watch](#death-watch)\                         | [Group Healing](#group-healing)\                     | [Protection from Missile](#protection-from-missile)\ |
-| [Deep Pockets](#deep-pockets)\                       | [Guidance](#guidance)\                               | [Repair Item](#repair-item)\                         |
-| [Disenchant](#disenchant){.new}                      | [Heal Limb](#heal-limb)                              | [Ward: Undead](#ward-undead)                         |
-+------------------------------------------------------+------------------------------------------------------+------------------------------------------------------+
-|                                                      | 3rd Circle Spells                                    |                                                      |
-+------------------------------------------------------+------------------------------------------------------+------------------------------------------------------+
-| [Animate Lesser Undead](#animate-lesser-undead)\     | [Enfeeble Being](#enfeeble-being)\                   | [Purity to Disease](#purity-to-disease)\             |
-| [Beckon Corpse](#beckon-corpse)\                     | [Feign Death](#feign-death)\                         | [Purity to Poison](#purity-to-poison)\               |
-| [Cantrip](#cantrip)\                                 | [Fortune Tell](#fortune-tell)\                       | [Raise Dead](#raise-dead)\                           |
-| [Commune with Spirit](#commune-with-spirit)\         | [Precognition](#precognition)                        | [Skew Divination](#skew-divination)\                 |
-| [Disease Weapon](#disease-weapon)                    |                                                      | [Soul Bane](#soul-bane)                              |
-+------------------------------------------------------+------------------------------------------------------+------------------------------------------------------+
-|                                                      | 4th Circle Spells                                    |                                                      |
-+------------------------------------------------------+------------------------------------------------------+------------------------------------------------------+
-| [Animal Companion](#animal-companion)\               | [Create Poison](#create-poison)\                     | [Foretell](#foretell)\                               |
-| [Animate Undead](#animate-undead)\                   | [Death Wish](#death-wish)\                           | [Magic Missile](#magic-missile)\                     |
-| [Armored Cloak](#armored-cloak)\                     | [Disrupt](#disrupt)\                                 | [Mystic Forge](#mystic-forge)\                       |
-| [Call the Soul](#call-the-soul)\                     | [Divine Aid](#divine-aid)\                           | [Séance](#seance)\                                   |
-| [Circle of Protection](#circle-of-protection)\       | [Enchant Armor](#enchant-armor)\                     | [Shapeshifting](#shapeshifting)\                     |
-| [Combat Raise Dead](#combat-raise-dead)              | [Find the Path](#find-the-path)                      | [Transmute Self](#transmute-self)                    |
-+------------------------------------------------------+------------------------------------------------------+------------------------------------------------------+
-|                                                      | 5th Circle Spells                                    |                                                      |
-+------------------------------------------------------+------------------------------------------------------+------------------------------------------------------+
-| [Animate Undead General](#animate-undead-general)\   | [Familiar](#familiar)\                               | [Resist Magic](#resist-magic)\                       |
-| [Armor-Piercing Weapon](#armor-piercing-weapon)\     | [Reforge](#reforge)\                                 | [Vision](#vision)\                                   |
-| [Circle of Healing](#circle-of-healing)\             | [Regenerate the [Soul]{.new}](#regenerate-the-soul)\ | [Ward: Enchanted Beings](#ward-enchanted-beings)\    |
-|                                                      | [Regeneration](#regeneration-spell)                  |                                                      |
-+------------------------------------------------------+------------------------------------------------------+------------------------------------------------------+
-|                                                      | 6th Circle Spells                                    |                                                      |
-+------------------------------------------------------+------------------------------------------------------+------------------------------------------------------+
-| [Assassin's Blade](#assassins-blade)\                | [Lightning Bolt](#lightning-bolt-spell)\             | [Ritual of Banishment](#ritual-of-banishment)\       |
-| [Cry of Life](#cry-of-life)\                         | [Masterwork Hammer](#masterwork-hammer)\             | [Second Chance](#second-chance)\                     |
-| [Embrace Death](#embrace-death)\                     | [Prophecy](#prophecy)\                               | [Seed of Life](#seed-of-life)\                       |
-| [Intervention](#intervention)                        | [Resist Death](#resist-death)                        | [Transformation](#transformation)                    |
-+------------------------------------------------------+------------------------------------------------------+------------------------------------------------------+
+### 1st Circle Spells ### {#first-circle-spells}
+
+::: {.columns-list}
+* [Cure Disease](#cure-disease)
+* [Detect Magic](#detect-magic)
+* [Disrupt Light](#disrupt-light)
+* [Fighter's Intuition](#fighters-intuition)
+* [Ghost Blade](#ghost-blade)
+* [Heartiness](#heartiness)
+* [Identify](#identify)
+* [Immunity to Poison](#immunity-to-poison)
+* [Implement](#implement)
+* [Light](#light)
+* [Pas](#pas)
+* [Protect Item](#protect-item)
+* [Protection from Boulder](#protection-from-boulder)
+* [Repair Armor](#repair-armor)
+* [Speak](#speak)
+* [Speak with Dead](#speak-with-dead)
+* [Strange Brew](#strange-brew)
+* [Zombie Walk](#zombie-walk)
+:::
+
+### 2nd Circle Spells ### {#second-circle-spells}
+
+::: {.columns-list}
+* [Aura of Protection](#aura-of-protection)
+* [Death Watch](#death-watch)
+* [Deep Pockets](#deep-pockets)
+* [Disenchant](#disenchant){.new}
+* [Enchant Weapon](#enchant-weapon){.new}
+* [Group Healing](#group-healing)
+* [Guidance](#guidance)
+* [Heal Limb](#heal-limb)
+* [Protect the Soul](#protect-the-soul){.new}
+* [Protection from Missile](#protection-from-missile)
+* [Repair Item](#repair-item)
+* [Ward: Undead](#ward-undead)
+:::
+
+### 3rd Circle Spells ### {#third-circle-spells}
+
+::: {.columns-list}
+* [Animate Lesser Undead](#animate-lesser-undead)
+* [Beckon Corpse](#beckon-corpse)
+* [Cantrip](#cantrip)
+* [Commune with Spirit](#commune-with-spirit)
+* [Disease Weapon](#disease-weapon)
+* [Enfeeble Being](#enfeeble-being)
+* [Feign Death](#feign-death)
+* [Fortune Tell](#fortune-tell)
+* [Precognition](#precognition)
+* [Purity to Disease](#purity-to-disease)
+* [Purity to Poison](#purity-to-poison)
+* [Raise Dead](#raise-dead)
+* [Skew Divination](#skew-divination)
+* [Soul Bane](#soul-bane)
+:::
+
+### 4th Circle Spells ### {#fourth-circle-spells}
+
+::: {.columns-list}
+* [Animal Companion](#animal-companion)
+* [Animate Undead](#animate-undead)
+* [Armored Cloak](#armored-cloak)
+* [Call the Soul](#call-the-soul)
+* [Circle of Protection](#circle-of-protection)
+* [Combat Raise Dead](#combat-raise-dead)
+* [Create Poison](#create-poison)
+* [Death Wish](#death-wish)
+* [Disrupt](#disrupt)
+* [Divine Aid](#divine-aid)
+* [Enchant Armor](#enchant-armor)
+* [Find the Path](#find-the-path)
+* [Foretell](#foretell)
+* [Magic Missile](#magic-missile)
+* [Mystic Forge](#mystic-forge)
+* [Séance](#seance)
+* [Shapeshifting](#shapeshifting)
+* [Transmute Self](#transmute-self)
+:::
+
+### 5th Circle Spells ### {#fifth-circle-spells}
+
+::: {.columns-list}
+* [Animate Undead General](#animate-undead-general)
+* [Armor-Piercing Weapon](#armor-piercing-weapon)
+* [Circle of Healing](#circle-of-healing)
+* [Familiar](#familiar)
+* [Reforge](#reforge)
+* [Regenerate the [Soul]{.new}](#regenerate-the-soul)
+* [Regeneration](#regeneration-spell)
+* [Resist Magic](#resist-magic)
+* [Vision](#vision)
+* [Ward: Enchanted Beings](#ward-enchanted-beings)
+:::
+
+### 6th Circle Spells ### {#sixth-circle-spells}
+
+::: {.columns-list}
+* [Assassin's Blade](#assassins-blade)
+* [Cry of Life](#cry-of-life)
+* [Embrace Death](#embrace-death)
+* [Intervention](#intervention)
+* [Lightning Bolt](#lightning-bolt-spell)
+* [Masterwork Hammer](#masterwork-hammer)
+* [Prophecy](#prophecy)
+* [Resist Death](#resist-death)
+* [Ritual of Banishment](#ritual-of-banishment)
+* [Second Chance](#second-chance)
+* [Seed of Life](#seed-of-life)
+* [Transformation](#transformation)
+:::
 
 ## [6.8: Spell Descriptions]{.new} ## {#spell-descriptions}
 
@@ -2834,7 +2855,6 @@ uses drama and theatrics has a better chance of success.
 
 __Uses:__ 1 - __Verbal:__ 40 words - __Material:__ A container at least 4 inches
 in diameter able to hold the spellcaster's [soul]{.new} token[, labeled with
-
 "Event-Stealable"]{.new}. The container cannot be placed into [Deep
 Pockets](#deep-pockets). - __Caveats:__ [Enchanted Items](#enchanted-items),
 [Regeneration](#regeneration-caveat), [Basic Regeneration](#basic-regeneration),
@@ -2996,7 +3016,7 @@ abilities. These abilities are not alterable from event to event. The
 spellcaster must list every spell their familiar grants them in their spellbook
 as if they have learned the spell.
 
-If they learn the spell Familiar a second (or third) time, they may alter the
+If they learn the spell Familiar [additional times]{.new}, they may alter the
 abilities of their familiar upon completion of each learning. If the spellcaster
 unlearns a use of the spell Familiar, the familiar they have then becomes weaker
 and must be adjusted accordingly.
