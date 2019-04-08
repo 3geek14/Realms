@@ -2221,7 +2221,7 @@ All spells known after grandfathering may be added to the spellcaster's "Spell
 Mastery" section, in addition to the list they had before grandfathering (if
 any).
 
-## [6.7:]{.new} [The Spells]{.new} ## {#the-spels}
+## [6.7:]{.new} The Spells ## {#the-spells}
 
 ### 1st Circle Spells ### {#first-circle-spells}
 
