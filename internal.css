@@ -5,16 +5,16 @@
  */
 
 a {
-  color: #0645ad;
+  color: #08f;
   text-decoration: none;
 }
 
 a:visited {
-  color: #0645ad;
+  color: #08f;
 }
 
 a:hover {
-  color: #06e;
+  color: #2af;
 }
 
 a:active {
