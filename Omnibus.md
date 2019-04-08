@@ -3016,7 +3016,7 @@ abilities. These abilities are not alterable from event to event. The
 spellcaster must list every spell their familiar grants them in their spellbook
 as if they have learned the spell.
 
-If they learn the spell Familiar a second (or third) time, they may alter the
+If they learn the spell Familiar [additional times]{.new}, they may alter the
 abilities of their familiar upon completion of each learning. If the spellcaster
 unlearns a use of the spell Familiar, the familiar they have then becomes weaker
 and must be adjusted accordingly.
