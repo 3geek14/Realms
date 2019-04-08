@@ -1,27 +1,8 @@
 <style type="text/css">
 
 /*
- * I add this to html files generated with pandoc.
- * From: https://gist.github.com/killercup/5917178
+ * Modified from: https://gist.github.com/killercup/5917178
  */
-
-html {
-  font-size: 100%;
-  overflow-y: scroll;
-  -webkit-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
-}
-
-body {
-  color: #444;
-  font-family: Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
-  font-size: 12px;
-  line-height: 1.7;
-  padding: 1em;
-  margin: auto;
-  max-width: 42em;
-  background: #fefefe;
-}
 
 a {
   color: #0645ad;
