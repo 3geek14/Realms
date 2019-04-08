@@ -2223,54 +2223,119 @@ any).
 
 ## [6.7:]{.new} [Spell Chart]{.new} ## {#spell-chart}
 
-+:----------------------------------------------------:+:----------------------------------------------------:+:----------------------------------------------------:+
-|                                                      | 1st Circle Spells                                    |                                                      |
-+------------------------------------------------------+------------------------------------------------------+------------------------------------------------------+
-| [Cure Disease](#cure-disease)\                       | [Identify](#identify)\                               | [Protection from Boulder](#protection-from-boulder)\ |
-| [Detect Magic](#detect-magic)\                       | [Immunity to Poison](#immunity-to-poison)\           | [Repair Armor](#repair-armor)\                       |
-| [Disrupt Light](#disrupt-light)\                     | [Implement](#implement)\                             | [Speak](#speak)\                                     |
-| [Fighter's Intuition](#fighters-intuition)\          | [Light](#light)\                                     | [Speak with Dead](#speak-with-dead)\                 |
-| [Ghost Blade](#ghost-blade)\                         | [Pas](#pas)\                                         | [Strange Brew](#strange-brew)\                       |
-| [Heartiness](#heartiness)                            | [Protect Item](#protect-item)                        | [Zombie Walk](#zombie-walk)                          |
-+------------------------------------------------------+------------------------------------------------------+------------------------------------------------------+
-|                                                      | 2nd Circle Spells                                    |                                                      |
-+------------------------------------------------------+------------------------------------------------------+------------------------------------------------------+
-| [Aura of Protection](#aura-of-protection)\           | [Enchant Weapon](#enchant-weapon){.new}\             | [Protect the Soul](#protect-the-soul){.new}\         |
-| [Death Watch](#death-watch)\                         | [Group Healing](#group-healing)\                     | [Protection from Missile](#protection-from-missile)\ |
-| [Deep Pockets](#deep-pockets)\                       | [Guidance](#guidance)\                               | [Repair Item](#repair-item)\                         |
-| [Disenchant](#disenchant){.new}                      | [Heal Limb](#heal-limb)                              | [Ward: Undead](#ward-undead)                         |
-+------------------------------------------------------+------------------------------------------------------+------------------------------------------------------+
-|                                                      | 3rd Circle Spells                                    |                                                      |
-+------------------------------------------------------+------------------------------------------------------+------------------------------------------------------+
-| [Animate Lesser Undead](#animate-lesser-undead)\     | [Enfeeble Being](#enfeeble-being)\                   | [Purity to Disease](#purity-to-disease)\             |
-| [Beckon Corpse](#beckon-corpse)\                     | [Feign Death](#feign-death)\                         | [Purity to Poison](#purity-to-poison)\               |
-| [Cantrip](#cantrip)\                                 | [Fortune Tell](#fortune-tell)\                       | [Raise Dead](#raise-dead)\                           |
-| [Commune with Spirit](#commune-with-spirit)\         | [Precognition](#precognition)                        | [Skew Divination](#skew-divination)\                 |
-| [Disease Weapon](#disease-weapon)                    |                                                      | [Soul Bane](#soul-bane)                              |
-+------------------------------------------------------+------------------------------------------------------+------------------------------------------------------+
-|                                                      | 4th Circle Spells                                    |                                                      |
-+------------------------------------------------------+------------------------------------------------------+------------------------------------------------------+
-| [Animal Companion](#animal-companion)\               | [Create Poison](#create-poison)\                     | [Foretell](#foretell)\                               |
-| [Animate Undead](#animate-undead)\                   | [Death Wish](#death-wish)\                           | [Magic Missile](#magic-missile)\                     |
-| [Armored Cloak](#armored-cloak)\                     | [Disrupt](#disrupt)\                                 | [Mystic Forge](#mystic-forge)\                       |
-| [Call the Soul](#call-the-soul)\                     | [Divine Aid](#divine-aid)\                           | [Séance](#seance)\                                   |
-| [Circle of Protection](#circle-of-protection)\       | [Enchant Armor](#enchant-armor)\                     | [Shapeshifting](#shapeshifting)\                     |
-| [Combat Raise Dead](#combat-raise-dead)              | [Find the Path](#find-the-path)                      | [Transmute Self](#transmute-self)                    |
-+------------------------------------------------------+------------------------------------------------------+------------------------------------------------------+
-|                                                      | 5th Circle Spells                                    |                                                      |
-+------------------------------------------------------+------------------------------------------------------+------------------------------------------------------+
-| [Animate Undead General](#animate-undead-general)\   | [Familiar](#familiar)\                               | [Resist Magic](#resist-magic)\                       |
-| [Armor-Piercing Weapon](#armor-piercing-weapon)\     | [Reforge](#reforge)\                                 | [Vision](#vision)\                                   |
-| [Circle of Healing](#circle-of-healing)\             | [Regenerate the [Soul]{.new}](#regenerate-the-soul)\ | [Ward: Enchanted Beings](#ward-enchanted-beings)\    |
-|                                                      | [Regeneration](#regeneration-spell)                  |                                                      |
-+------------------------------------------------------+------------------------------------------------------+------------------------------------------------------+
-|                                                      | 6th Circle Spells                                    |                                                      |
-+------------------------------------------------------+------------------------------------------------------+------------------------------------------------------+
-| [Assassin's Blade](#assassins-blade)\                | [Lightning Bolt](#lightning-bolt-spell)\             | [Ritual of Banishment](#ritual-of-banishment)\       |
-| [Cry of Life](#cry-of-life)\                         | [Masterwork Hammer](#masterwork-hammer)\             | [Second Chance](#second-chance)\                     |
-| [Embrace Death](#embrace-death)\                     | [Prophecy](#prophecy)\                               | [Seed of Life](#seed-of-life)\                       |
-| [Intervention](#intervention)                        | [Resist Death](#resist-death)                        | [Transformation](#transformation)                    |
-+------------------------------------------------------+------------------------------------------------------+------------------------------------------------------+
+### 1st Circle Spells ### {#first-circle-spells}
+
+::: {.columns-list}
+* [Cure Disease](#cure-disease)
+* [Detect Magic](#detect-magic)
+* [Disrupt Light](#disrupt-light)
+* [Fighter's Intuition](#fighters-intuition)
+* [Ghost Blade](#ghost-blade)
+* [Heartiness](#heartiness)
+* [Identify](#identify)
+* [Immunity to Poison](#immunity-to-poison)
+* [Implement](#implement)
+* [Light](#light)
+* [Pas](#pas)
+* [Protect Item](#protect-item)
+* [Protection from Boulder](#protection-from-boulder)
+* [Repair Armor](#repair-armor)
+* [Speak](#speak)
+* [Speak with Dead](#speak-with-dead)
+* [Strange Brew](#strange-brew)
+* [Zombie Walk](#zombie-walk)
+:::
+
+### 2nd Circle Spells ### {#second-circle-spells}
+
+::: {.columns-list}
+* [Aura of Protection](#aura-of-protection)
+* [Death Watch](#death-watch)
+* [Deep Pockets](#deep-pockets)
+* [Disenchant](#disenchant){.new}
+* [Enchant Weapon](#enchant-weapon){.new}
+* [Group Healing](#group-healing)
+* [Guidance](#guidance)
+* [Heal Limb](#heal-limb)
+* [Protect the Soul](#protect-the-soul){.new}
+* [Protection from Missile](#protection-from-missile)
+* [Repair Item](#repair-item)
+* [Ward: Undead](#ward-undead)
+:::
+
+### 3rd Circle Spells ### {#third-circle-spells}
+
+::: {.columns-list}
+* [Animate Lesser Undead](#animate-lesser-undead)
+* [Beckon Corpse](#beckon-corpse)
+* [Cantrip](#cantrip)
+* [Commune with Spirit](#commune-with-spirit)
+* [Disease Weapon](#disease-weapon)
+* [Enfeeble Being](#enfeeble-being)
+* [Feign Death](#feign-death)
+* [Fortune Tell](#fortune-tell)
+* [Precognition](#precognition)
+* [Purity to Disease](#purity-to-disease)
+* [Purity to Poison](#purity-to-poison)
+* [Raise Dead](#raise-dead)
+* [Skew Divination](#skew-divination)
+* [Soul Bane](#soul-bane)
+:::
+
+### 4th Circle Spells ### {#fourth-circle-spells}
+
+::: {.columns-list}
+* [Animal Companion](#animal-companion)
+* [Animate Undead](#animate-undead)
+* [Armored Cloak](#armored-cloak)
+* [Call the Soul](#call-the-soul)
+* [Circle of Protection](#circle-of-protection)
+* [Combat Raise Dead](#combat-raise-dead)
+* [Create Poison](#create-poison)
+* [Death Wish](#death-wish)
+* [Disrupt](#disrupt)
+* [Divine Aid](#divine-aid)
+* [Enchant Armor](#enchant-armor)
+* [Find the Path](#find-the-path)
+* [Foretell](#foretell)
+* [Magic Missile](#magic-missile)
+* [Mystic Forge](#mystic-forge)
+* [Séance](#seance)
+* [Shapeshifting](#shapeshifting)
+* [Transmute Self](#transmute-self)
+:::
+
+### 5th Circle Spells ### {#fifth-circle-spells}
+
+::: {.columns-list}
+* [Animate Undead General](#animate-undead-general)
+* [Armor-Piercing Weapon](#armor-piercing-weapon)
+* [Circle of Healing](#circle-of-healing)
+* [Familiar](#familiar)
+* [Reforge](#reforge)
+* [Regenerate the [Soul]{.new}](#regenerate-the-soul)
+* [Regeneration](#regeneration-spell)
+* [Resist Magic](#resist-magic)
+* [Vision](#vision)
+* [Ward: Enchanted Beings](#ward-enchanted-beings)
+:::
+
+### 6th Circle Spells ### {#sixth-circle-spells}
+
+::: {.columns-list}
+* [Assassin's Blade](#assassins-blade)
+* [Cry of Life](#cry-of-life)
+* [Embrace Death](#embrace-death)
+* [Intervention](#intervention)
+* [Lightning Bolt](#lightning-bolt-spell)
+* [Masterwork Hammer](#masterwork-hammer)
+* [Prophecy](#prophecy)
+* [Resist Death](#resist-death)
+* [Ritual of Banishment](#ritual-of-banishment)
+* [Second Chance](#second-chance)
+* [Seed of Life](#seed-of-life)
+* [Transformation](#transformation)
+:::
 
 ## [6.8: Spell Descriptions]{.new} ## {#spell-descriptions}
 

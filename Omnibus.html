@@ -180,9 +180,16 @@
     vertical-align: top;
   }
   
+  .columns-list ul {
+    columns: 2 auto;
+  }
+  
   @media only screen and (min-width: 480px) {
     body {
       font-size: 14px;
+    }
+    .columns-list ul {
+  	columns: 3 auto;
     }
   }
   @media only screen and (min-width: 768px) {
@@ -984,143 +991,120 @@ All MCs must be specified and written down in the PC’s spellbook for every spe
 <p>For the <span class="new">2019</span> year only, all characters who were in existence (first attended an event) before <span class="new">February 9th, 2019</span> are allowed to have up to 15 spells, making a legal build following the rules of the current Omnibus. At the first event that their PC attends in the <span class="new">2019</span> season where the Omnibus is available, they must get their spellbook checked in and signed by the Event Holder or their designated Magic Marshal(s). This signature counts for the signature requirements for all spells the PC grandfathers at this event.</p>
 <p>All spells known after grandfathering may be added to the spellcaster’s “Spell Mastery” section, in addition to the list they had before grandfathering (if any).</p>
 <h2 id="spell-chart"><span class="new">6.7:</span> <span class="new">Spell Chart</span></h2>
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td style="text-align: center;"></td>
-<td style="text-align: center;">1st Circle Spells</td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><a href="#cure-disease">Cure Disease</a><br />
-<a href="#detect-magic">Detect Magic</a><br />
-<a href="#disrupt-light">Disrupt Light</a><br />
-<a href="#fighters-intuition">Fighter’s Intuition</a><br />
-<a href="#ghost-blade">Ghost Blade</a><br />
-<a href="#heartiness">Heartiness</a></td>
-<td style="text-align: center;"><a href="#identify">Identify</a><br />
-<a href="#immunity-to-poison">Immunity to Poison</a><br />
-<a href="#implement">Implement</a><br />
-<a href="#light">Light</a><br />
-<a href="#pas">Pas</a><br />
-<a href="#protect-item">Protect Item</a></td>
-<td style="text-align: center;"><a href="#protection-from-boulder">Protection from Boulder</a><br />
-<a href="#repair-armor">Repair Armor</a><br />
-<a href="#speak">Speak</a><br />
-<a href="#speak-with-dead">Speak with Dead</a><br />
-<a href="#strange-brew">Strange Brew</a><br />
-<a href="#zombie-walk">Zombie Walk</a></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"></td>
-<td style="text-align: center;">2nd Circle Spells</td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><a href="#aura-of-protection">Aura of Protection</a><br />
-<a href="#death-watch">Death Watch</a><br />
-<a href="#deep-pockets">Deep Pockets</a><br />
-<a href="#disenchant" class="new">Disenchant</a></td>
-<td style="text-align: center;"><a href="#enchant-weapon" class="new">Enchant Weapon</a><br />
-<a href="#group-healing">Group Healing</a><br />
-<a href="#guidance">Guidance</a><br />
-<a href="#heal-limb">Heal Limb</a></td>
-<td style="text-align: center;"><a href="#protect-the-soul" class="new">Protect the Soul</a><br />
-<a href="#protection-from-missile">Protection from Missile</a><br />
-<a href="#repair-item">Repair Item</a><br />
-<a href="#ward-undead">Ward: Undead</a></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"></td>
-<td style="text-align: center;">3rd Circle Spells</td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><a href="#animate-lesser-undead">Animate Lesser Undead</a><br />
-<a href="#beckon-corpse">Beckon Corpse</a><br />
-<a href="#cantrip">Cantrip</a><br />
-<a href="#commune-with-spirit">Commune with Spirit</a><br />
-<a href="#disease-weapon">Disease Weapon</a></td>
-<td style="text-align: center;"><a href="#enfeeble-being">Enfeeble Being</a><br />
-<a href="#feign-death">Feign Death</a><br />
-<a href="#fortune-tell">Fortune Tell</a><br />
-<a href="#precognition">Precognition</a></td>
-<td style="text-align: center;"><a href="#purity-to-disease">Purity to Disease</a><br />
-<a href="#purity-to-poison">Purity to Poison</a><br />
-<a href="#raise-dead">Raise Dead</a><br />
-<a href="#skew-divination">Skew Divination</a><br />
-<a href="#soul-bane">Soul Bane</a></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"></td>
-<td style="text-align: center;">4th Circle Spells</td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><a href="#animal-companion">Animal Companion</a><br />
-<a href="#animate-undead">Animate Undead</a><br />
-<a href="#armored-cloak">Armored Cloak</a><br />
-<a href="#call-the-soul">Call the Soul</a><br />
-<a href="#circle-of-protection">Circle of Protection</a><br />
-<a href="#combat-raise-dead">Combat Raise Dead</a></td>
-<td style="text-align: center;"><a href="#create-poison">Create Poison</a><br />
-<a href="#death-wish">Death Wish</a><br />
-<a href="#disrupt">Disrupt</a><br />
-<a href="#divine-aid">Divine Aid</a><br />
-<a href="#enchant-armor">Enchant Armor</a><br />
-<a href="#find-the-path">Find the Path</a></td>
-<td style="text-align: center;"><a href="#foretell">Foretell</a><br />
-<a href="#magic-missile">Magic Missile</a><br />
-<a href="#mystic-forge">Mystic Forge</a><br />
-<a href="#seance">Séance</a><br />
-<a href="#shapeshifting">Shapeshifting</a><br />
-<a href="#transmute-self">Transmute Self</a></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"></td>
-<td style="text-align: center;">5th Circle Spells</td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><a href="#animate-undead-general">Animate Undead General</a><br />
-<a href="#armor-piercing-weapon">Armor-Piercing Weapon</a><br />
-<a href="#circle-of-healing">Circle of Healing</a><br />
-</td>
-<td style="text-align: center;"><a href="#familiar">Familiar</a><br />
-<a href="#reforge">Reforge</a><br />
-<a href="#regenerate-the-soul">Regenerate the <span class="new">Soul</span></a><br />
-<a href="#regeneration-spell">Regeneration</a></td>
-<td style="text-align: center;"><a href="#resist-magic">Resist Magic</a><br />
-<a href="#vision">Vision</a><br />
-<a href="#ward-enchanted-beings">Ward: Enchanted Beings</a><br />
-</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"></td>
-<td style="text-align: center;">6th Circle Spells</td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><a href="#assassins-blade">Assassin’s Blade</a><br />
-<a href="#cry-of-life">Cry of Life</a><br />
-<a href="#embrace-death">Embrace Death</a><br />
-<a href="#intervention">Intervention</a></td>
-<td style="text-align: center;"><a href="#lightning-bolt-spell">Lightning Bolt</a><br />
-<a href="#masterwork-hammer">Masterwork Hammer</a><br />
-<a href="#prophecy">Prophecy</a><br />
-<a href="#resist-death">Resist Death</a></td>
-<td style="text-align: center;"><a href="#ritual-of-banishment">Ritual of Banishment</a><br />
-<a href="#second-chance">Second Chance</a><br />
-<a href="#seed-of-life">Seed of Life</a><br />
-<a href="#transformation">Transformation</a></td>
-</tr>
-</tbody>
-</table>
+<h3 id="first-circle-spells">1st Circle Spells</h3>
+<div class="columns-list">
+<ul>
+<li><a href="#cure-disease">Cure Disease</a></li>
+<li><a href="#detect-magic">Detect Magic</a></li>
+<li><a href="#disrupt-light">Disrupt Light</a></li>
+<li><a href="#fighters-intuition">Fighter’s Intuition</a></li>
+<li><a href="#ghost-blade">Ghost Blade</a></li>
+<li><a href="#heartiness">Heartiness</a></li>
+<li><a href="#identify">Identify</a></li>
+<li><a href="#immunity-to-poison">Immunity to Poison</a></li>
+<li><a href="#implement">Implement</a></li>
+<li><a href="#light">Light</a></li>
+<li><a href="#pas">Pas</a></li>
+<li><a href="#protect-item">Protect Item</a></li>
+<li><a href="#protection-from-boulder">Protection from Boulder</a></li>
+<li><a href="#repair-armor">Repair Armor</a></li>
+<li><a href="#speak">Speak</a></li>
+<li><a href="#speak-with-dead">Speak with Dead</a></li>
+<li><a href="#strange-brew">Strange Brew</a></li>
+<li><a href="#zombie-walk">Zombie Walk</a></li>
+</ul>
+</div>
+<h3 id="second-circle-spells">2nd Circle Spells</h3>
+<div class="columns-list">
+<ul>
+<li><a href="#aura-of-protection">Aura of Protection</a></li>
+<li><a href="#death-watch">Death Watch</a></li>
+<li><a href="#deep-pockets">Deep Pockets</a></li>
+<li><a href="#disenchant" class="new">Disenchant</a></li>
+<li><a href="#enchant-weapon" class="new">Enchant Weapon</a></li>
+<li><a href="#group-healing">Group Healing</a></li>
+<li><a href="#guidance">Guidance</a></li>
+<li><a href="#heal-limb">Heal Limb</a></li>
+<li><a href="#protect-the-soul" class="new">Protect the Soul</a></li>
+<li><a href="#protection-from-missile">Protection from Missile</a></li>
+<li><a href="#repair-item">Repair Item</a></li>
+<li><a href="#ward-undead">Ward: Undead</a></li>
+</ul>
+</div>
+<h3 id="third-circle-spells">3rd Circle Spells</h3>
+<div class="columns-list">
+<ul>
+<li><a href="#animate-lesser-undead">Animate Lesser Undead</a></li>
+<li><a href="#beckon-corpse">Beckon Corpse</a></li>
+<li><a href="#cantrip">Cantrip</a></li>
+<li><a href="#commune-with-spirit">Commune with Spirit</a></li>
+<li><a href="#disease-weapon">Disease Weapon</a></li>
+<li><a href="#enfeeble-being">Enfeeble Being</a></li>
+<li><a href="#feign-death">Feign Death</a></li>
+<li><a href="#fortune-tell">Fortune Tell</a></li>
+<li><a href="#precognition">Precognition</a></li>
+<li><a href="#purity-to-disease">Purity to Disease</a></li>
+<li><a href="#purity-to-poison">Purity to Poison</a></li>
+<li><a href="#raise-dead">Raise Dead</a></li>
+<li><a href="#skew-divination">Skew Divination</a></li>
+<li><a href="#soul-bane">Soul Bane</a></li>
+</ul>
+</div>
+<h3 id="fourth-circle-spells">4th Circle Spells</h3>
+<div class="columns-list">
+<ul>
+<li><a href="#animal-companion">Animal Companion</a></li>
+<li><a href="#animate-undead">Animate Undead</a></li>
+<li><a href="#armored-cloak">Armored Cloak</a></li>
+<li><a href="#call-the-soul">Call the Soul</a></li>
+<li><a href="#circle-of-protection">Circle of Protection</a></li>
+<li><a href="#combat-raise-dead">Combat Raise Dead</a></li>
+<li><a href="#create-poison">Create Poison</a></li>
+<li><a href="#death-wish">Death Wish</a></li>
+<li><a href="#disrupt">Disrupt</a></li>
+<li><a href="#divine-aid">Divine Aid</a></li>
+<li><a href="#enchant-armor">Enchant Armor</a></li>
+<li><a href="#find-the-path">Find the Path</a></li>
+<li><a href="#foretell">Foretell</a></li>
+<li><a href="#magic-missile">Magic Missile</a></li>
+<li><a href="#mystic-forge">Mystic Forge</a></li>
+<li><a href="#seance">Séance</a></li>
+<li><a href="#shapeshifting">Shapeshifting</a></li>
+<li><a href="#transmute-self">Transmute Self</a></li>
+</ul>
+</div>
+<h3 id="fifth-circle-spells">5th Circle Spells</h3>
+<div class="columns-list">
+<ul>
+<li><a href="#animate-undead-general">Animate Undead General</a></li>
+<li><a href="#armor-piercing-weapon">Armor-Piercing Weapon</a></li>
+<li><a href="#circle-of-healing">Circle of Healing</a></li>
+<li><a href="#familiar">Familiar</a></li>
+<li><a href="#reforge">Reforge</a></li>
+<li><a href="#regenerate-the-soul">Regenerate the <span class="new">Soul</span></a></li>
+<li><a href="#regeneration-spell">Regeneration</a></li>
+<li><a href="#resist-magic">Resist Magic</a></li>
+<li><a href="#vision">Vision</a></li>
+<li><a href="#ward-enchanted-beings">Ward: Enchanted Beings</a></li>
+</ul>
+</div>
+<h3 id="sixth-circle-spells">6th Circle Spells</h3>
+<div class="columns-list">
+<ul>
+<li><a href="#assassins-blade">Assassin’s Blade</a></li>
+<li><a href="#cry-of-life">Cry of Life</a></li>
+<li><a href="#embrace-death">Embrace Death</a></li>
+<li><a href="#intervention">Intervention</a></li>
+<li><a href="#lightning-bolt-spell">Lightning Bolt</a></li>
+<li><a href="#masterwork-hammer">Masterwork Hammer</a></li>
+<li><a href="#prophecy">Prophecy</a></li>
+<li><a href="#resist-death">Resist Death</a></li>
+<li><a href="#ritual-of-banishment">Ritual of Banishment</a></li>
+<li><a href="#second-chance">Second Chance</a></li>
+<li><a href="#seed-of-life">Seed of Life</a></li>
+<li><a href="#transformation">Transformation</a></li>
+</ul>
+</div>
 <h2 id="spell-descriptions"><span class="new">6.8: Spell Descriptions</span></h2>
 <h3 id="animal-companion">Animal Companion (4th Circle)</h3>
 <p><strong>Uses:</strong> 1, and the spellcaster may only have one in-play - <strong>Material:</strong> A stuffed or toy animal that must be at least 4" tall - <strong>Caveats:</strong> <a href="#suspension">Suspension</a></p>
