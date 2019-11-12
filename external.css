@@ -19,3 +19,44 @@ body {
   max-width: 42em;
   background: #fefefe;
 }
+
+pre, code {
+  color: #000;
+  font-family: monospace, monospace;
+  _font-family: 'courier new', monospace;
+  font-size: 0.98em;
+  background-color: #f6f8fa;
+}
+
+pre {
+  white-space: pre;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  padding: 16px;
+  border: 3px;
+  border-color: #111;
+  border-style: double;
+}
+
+.example {
+  background-color: #f6f8d8;
+  padding: 16px;
+  border: 3px;
+  border-color: #111;
+  border-style: double;
+}
+
+@media only screen and (min-width: 480px) {
+  body {
+    font-size: 14px;
+  }
+  .columns-list ul {
+	columns: 3 auto;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  body {
+    font-size: 16px;
+  }
+}
